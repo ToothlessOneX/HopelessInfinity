@@ -1,0 +1,12 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "hopelessinfinity:flour_sack"
+  }
+ ],
+ "result": {
+  "item": "hopelessinfinity:flour",
+  "count": 9
+ }
+}

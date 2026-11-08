@@ -1,0 +1,14 @@
+{
+ "variants": {
+  "axis=x": {
+   "model": "hopelessinfinity:block/power_line"
+  },
+  "axis=z": {
+   "model": "hopelessinfinity:block/power_line",
+   "y": 90
+  },
+  "axis=y": {
+   "model": "hopelessinfinity:block/power_line_y"
+  }
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/hearth_chimney"
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/hearth_chimney",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/hearth_chimney",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/hearth_chimney",
+   "y": 270
+  }
+ }
+}

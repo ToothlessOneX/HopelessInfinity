@@ -1,0 +1,13 @@
+import com.hopeless.infinity.planet.*; import java.awt.image.BufferedImage; import java.awt.*;
+/** SeaCaveView seed out.png: finds a cliff coast on the home planet and draws its sea caves (planet/Caves.seaSpan with the generator's coast-distance rule). Saved tool. */
+public class SeaCaveView { public static void main(String[] a) throws Exception { PlanetWorld w = new PlanetWorld(Long.parseLong(a[0])); Caves cv = w.caves(); int f = 0, X0 = 0, Z0 = 0; boolean found = false;
+  search: for (int r = 20000; r < 3000000; r += 3000) for (int k = 0; k < 64; k++) { int x = (int) (r * Math.cos(k * 0.098)), z = (int) (r * Math.sin(k * 0.098)); Column c = Column.of(w, f, x, z); if (c.voidCol || c.surfaceY < 10 || c.surfaceY > 60) continue;
+      for (int d = 8; d <= 40; d += 8) { Column s = Column.of(w, f, x + d, z); if (!s.voidCol && s.surfaceY < -1) { X0 = x - 150; Z0 = z - 150; found = true; break search; } } }
+  int W = 300; float[] h = new float[W * W]; boolean[] sea = new boolean[W * W]; for (int i = 0; i < W; i++) for (int k = 0; k < W; k++) { Column c = Column.of(w, f, X0 + i, Z0 + k); h[i * W + k] = c.surfaceY; sea[i * W + k] = c.surfaceY < -1; }
+  BufferedImage img = new BufferedImage(W * 3, W * 3 + 26, BufferedImage.TYPE_INT_RGB); int cols = 0, cave = 0;
+  for (int i = 0; i < W; i++) for (int k = 0; k < W; k++) { double best = 1e9, bsx = 0, bsz = 0; for (int di = -96; di <= 96; di += 16) for (int dk = -96; dk <= 96; dk += 16) { int ii = (i + di) / 16 * 16, kk = (k + dk) / 16 * 16; if (ii < 0 || kk < 0 || ii >= W || kk >= W) continue; if (sea[ii * W + kk]) { double dd = Math.hypot(ii - i, kk - k); if (dd < best) { best = dd; bsx = (ii - i) / Math.max(1e-6, dd); bsz = (kk - k) / Math.max(1e-6, dd); } } }
+      double dS = Math.max(0, best - 8); int sy = (int) h[i * W + k]; int rgb; if (sy < 0) rgb = 0x2a5aa8; else { int g = Math.min(255, 70 + sy * 2); rgb = (g / 2 << 16) | (g << 8) | g / 3; if (sy >= -3) { cols++; int[] sp = cv.seaSpan(f, X0 + i, Z0 + k, sy); if (sp != null) { cave++; rgb = sp[1] > 0 ? 0x101010 : 0x1a3a70; } } }
+      for (int u = 0; u < 3; u++) for (int v = 0; v < 3; v++) img.setRGB(i * 3 + u, 26 + k * 3 + v, rgb); }
+  Graphics2D g = img.createGraphics(); g.setColor(new Color(0x10141c)); g.fillRect(0, 0, W * 3, 26); g.setColor(Color.WHITE); g.setFont(new Font("SansSerif", Font.PLAIN, 13));
+  g.drawString(String.format("sea caves (black) under a cliff coast, 300 m x 300 m at face 0 %d,%d; green: land by height, blue: sea", X0, Z0), 6, 18); javax.imageio.ImageIO.write(img, "png", new java.io.File(a[1]));
+  System.out.printf("found %s at %d,%d: %d cliff columns, %d over a sea cave%n", found, X0, Z0, cols, cave); } }

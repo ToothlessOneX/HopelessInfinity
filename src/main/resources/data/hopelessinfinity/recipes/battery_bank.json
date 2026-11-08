@@ -1,0 +1,26 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PRP",
+  "CBC",
+  "PRP"
+ ],
+ "key": {
+  "P": {
+   "item": "hopelessinfinity:iron_plate"
+  },
+  "R": {
+   "item": "minecraft:redstone_block"
+  },
+  "C": {
+   "item": "hopelessinfinity:copper_plate"
+  },
+  "B": {
+   "item": "hopelessinfinity:circuit_board"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:battery_bank",
+  "count": 1
+ }
+}

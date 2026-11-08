@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PPP",
+  "PSP",
+  "PPP"
+ ],
+ "key": {
+  "P": {
+   "item": "hopelessinfinity:iron_plate"
+  },
+  "S": {
+   "item": "minecraft:smoker"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:stove",
+  "count": 1
+ }
+}

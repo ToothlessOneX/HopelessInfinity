@@ -1,0 +1,15 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/vehicle/semi_shell.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "carpet": "hopelessinfinity:block/vehicle/carpet",
+  "dash": "hopelessinfinity:block/vehicle/dash",
+  "door_panel": "hopelessinfinity:block/vehicle/door_panel",
+  "headliner": "hopelessinfinity:block/vehicle/headliner",
+  "particle": "hopelessinfinity:block/vehicle/carpet"
+ }
+}

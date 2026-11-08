@@ -1,0 +1,18 @@
+{
+ "variants": {
+  "down=false,axis=x": {
+   "model": "hopelessinfinity:block/crossing_arm_up"
+  },
+  "down=false,axis=z": {
+   "model": "hopelessinfinity:block/crossing_arm_up",
+   "y": 90
+  },
+  "down=true,axis=x": {
+   "model": "hopelessinfinity:block/crossing_arm_down"
+  },
+  "down=true,axis=z": {
+   "model": "hopelessinfinity:block/crossing_arm_down",
+   "y": 90
+  }
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "textures": {
+  "f": "hopelessinfinity:block/own/mailbox",
+  "s": "hopelessinfinity:block/own/mailbox_top",
+  "t": "hopelessinfinity:block/own/mailbox_top",
+  "particle": "hopelessinfinity:block/own/mailbox"
+ },
+ "elements": [
+  {
+   "from": [
+    3,
+    0,
+    2
+   ],
+   "to": [
+    13,
+    12,
+    14
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#s"
+    },
+    "east": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#s"
+    },
+    "down": {
+     "texture": "#s"
+    }
+   }
+  },
+  {
+   "from": [
+    3,
+    12,
+    2
+   ],
+   "to": [
+    13,
+    16,
+    14
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f"
+    },
+    "south": {
+     "texture": "#t"
+    },
+    "east": {
+     "texture": "#t"
+    },
+    "west": {
+     "texture": "#t"
+    },
+    "up": {
+     "texture": "#t"
+    },
+    "down": {
+     "texture": "#t"
+    }
+   }
+  }
+ ]
+}

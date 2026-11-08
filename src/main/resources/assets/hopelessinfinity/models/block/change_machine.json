@@ -1,0 +1,13 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/city/change_machine.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "change_face": "hopelessinfinity:block/city/change_face",
+  "steel": "hopelessinfinity:block/city/steel",
+  "particle": "hopelessinfinity:block/city/change_face"
+ }
+}

@@ -1,0 +1,6 @@
+{
+ "parent": "minecraft:block/cube_all",
+ "textures": {
+  "all": "hopelessinfinity:block/city/screen_off"
+ }
+}

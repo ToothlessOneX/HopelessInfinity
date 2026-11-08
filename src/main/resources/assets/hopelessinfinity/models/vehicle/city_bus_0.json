@@ -1,0 +1,19 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/vehicle/city_bus.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "cargo_white": "hopelessinfinity:block/vehicle/cargo_white",
+  "citybus_side": "hopelessinfinity:block/vehicle/citybus_side",
+  "dest_sign": "hopelessinfinity:block/vehicle/dest_sign",
+  "headlight": "hopelessinfinity:block/vehicle/headlight",
+  "plate": "hopelessinfinity:block/vehicle/plate",
+  "steel_dark": "hopelessinfinity:block/vehicle/steel_dark",
+  "taillight": "hopelessinfinity:block/vehicle/taillight",
+  "trim": "hopelessinfinity:block/vehicle/trim",
+  "particle": "hopelessinfinity:block/vehicle/cargo_white"
+ }
+}

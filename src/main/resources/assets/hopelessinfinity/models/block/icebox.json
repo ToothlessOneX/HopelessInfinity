@@ -1,0 +1,47 @@
+{
+ "textures": {
+  "f": "hopelessinfinity:block/own/icebox",
+  "s": "hopelessinfinity:block/own/wood_light",
+  "particle": "hopelessinfinity:block/own/icebox"
+ },
+ "elements": [
+  {
+   "from": [
+    1,
+    0,
+    2
+   ],
+   "to": [
+    15,
+    15,
+    14
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#s"
+    },
+    "east": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#s"
+    },
+    "down": {
+     "texture": "#s"
+    }
+   }
+  }
+ ]
+}

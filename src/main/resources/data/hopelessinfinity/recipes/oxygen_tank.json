@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "P",
+  "P",
+  "P"
+ ],
+ "key": {
+  "P": {
+   "item": "hopelessinfinity:iron_plate"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:oxygen_tank",
+  "count": 2
+ }
+}

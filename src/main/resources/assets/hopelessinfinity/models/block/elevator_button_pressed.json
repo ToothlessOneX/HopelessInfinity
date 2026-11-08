@@ -1,0 +1,6 @@
+{
+ "parent": "minecraft:block/button_pressed",
+ "textures": {
+  "texture": "hopelessinfinity:block/own/elevator_button"
+ }
+}

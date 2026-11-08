@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/water_filter"
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/water_filter",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/water_filter",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/water_filter",
+   "y": 270
+  }
+ }
+}

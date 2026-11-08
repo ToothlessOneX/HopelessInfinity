@@ -1,0 +1,18 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/vehicle/taxi.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "grille": "hopelessinfinity:block/vehicle/grille",
+  "headlight": "hopelessinfinity:block/vehicle/headlight",
+  "paint": "hopelessinfinity:block/vehicle/paint_taxi",
+  "plate": "hopelessinfinity:block/vehicle/plate",
+  "taillight": "hopelessinfinity:block/vehicle/taillight",
+  "taxi_sign": "hopelessinfinity:block/vehicle/taxi_sign",
+  "trim": "hopelessinfinity:block/vehicle/trim",
+  "particle": "hopelessinfinity:block/vehicle/grille"
+ }
+}

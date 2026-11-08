@@ -1,0 +1,68 @@
+{
+ "textures": {
+  "g": "hopelessinfinity:block/city/grating",
+  "l": "hopelessinfinity:block/city/escape_ladder",
+  "particle": "hopelessinfinity:block/city/grating"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    13,
+    0
+   ],
+   "to": [
+    16,
+    16,
+    16
+   ],
+   "faces": {
+    "north": {
+     "texture": "#g"
+    },
+    "south": {
+     "texture": "#g"
+    },
+    "east": {
+     "texture": "#g"
+    },
+    "west": {
+     "texture": "#g"
+    },
+    "up": {
+     "texture": "#g"
+    },
+    "down": {
+     "texture": "#g"
+    }
+   }
+  },
+  {
+   "from": [
+    1,
+    13.2,
+    13
+   ],
+   "to": [
+    15,
+    15.8,
+    15
+   ],
+   "faces": {
+    "north": {
+     "texture": "#l"
+    },
+    "south": {
+     "texture": "#l"
+    },
+    "up": {
+     "texture": "#l"
+    },
+    "down": {
+     "texture": "#l"
+    }
+   }
+  }
+ ],
+ "render_type": "minecraft:cutout"
+}

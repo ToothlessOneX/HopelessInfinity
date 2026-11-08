@@ -1,0 +1,13 @@
+{
+ "variants": {
+  "type=bottom": {
+   "model": "hopelessinfinity:block/curb_slab"
+  },
+  "type=top": {
+   "model": "hopelessinfinity:block/curb_slab_top"
+  },
+  "type=double": {
+   "model": "hopelessinfinity:block/curb"
+  }
+ }
+}

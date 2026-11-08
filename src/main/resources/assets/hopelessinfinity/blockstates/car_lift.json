@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/car_lift"
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/car_lift",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/car_lift",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/car_lift",
+   "y": 270
+  }
+ }
+}

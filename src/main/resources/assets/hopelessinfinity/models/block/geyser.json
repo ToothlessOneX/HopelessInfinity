@@ -1,0 +1,1 @@
+{"parent": "minecraft:block/cube_column", "textures": {"end": "hopelessinfinity:block/geyser", "side": "hopelessinfinity:block/geyser_side"}}

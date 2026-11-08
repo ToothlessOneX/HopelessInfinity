@@ -1,0 +1,19 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/vehicle/police.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "grille": "hopelessinfinity:block/vehicle/grille",
+  "headlight": "hopelessinfinity:block/vehicle/headlight",
+  "lightbar_off": "hopelessinfinity:block/vehicle/lightbar_off",
+  "paint": "hopelessinfinity:block/vehicle/paint_black",
+  "plate": "hopelessinfinity:block/vehicle/plate",
+  "police_side": "hopelessinfinity:block/vehicle/police_side",
+  "taillight": "hopelessinfinity:block/vehicle/taillight",
+  "trim": "hopelessinfinity:block/vehicle/trim",
+  "particle": "hopelessinfinity:block/vehicle/grille"
+ }
+}

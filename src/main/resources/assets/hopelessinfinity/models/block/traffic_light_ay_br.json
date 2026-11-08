@@ -1,0 +1,20 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/street/traffic_light.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "pole_dark": "hopelessinfinity:block/street/pole_dark",
+  "metal_dark": "hopelessinfinity:block/street/metal_dark",
+  "paint_yellow": "hopelessinfinity:block/street/paint_yellow",
+  "lensA_r": "hopelessinfinity:block/street/lens_r_off",
+  "lensA_y": "hopelessinfinity:block/street/lens_y_on",
+  "lensA_g": "hopelessinfinity:block/street/lens_g_off",
+  "lensB_r": "hopelessinfinity:block/street/lens_r_on",
+  "lensB_y": "hopelessinfinity:block/street/lens_y_off",
+  "lensB_g": "hopelessinfinity:block/street/lens_g_off",
+  "particle": "hopelessinfinity:block/street/pole_dark"
+ }
+}

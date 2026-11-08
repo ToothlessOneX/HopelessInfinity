@@ -1,0 +1,15 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/street/basketball_hoop.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "pole_dark": "hopelessinfinity:block/street/pole_dark",
+  "backboard": "hopelessinfinity:block/street/backboard",
+  "hoop_orange": "hopelessinfinity:block/street/hoop_orange",
+  "net": "hopelessinfinity:block/street/net",
+  "particle": "hopelessinfinity:block/street/pole_dark"
+ }
+}

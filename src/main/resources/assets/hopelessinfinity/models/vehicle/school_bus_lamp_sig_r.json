@@ -1,0 +1,12 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/vehicle/school_bus_lamp_sig_r.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "lamp_amber": "hopelessinfinity:block/vehicle/lamp_amber",
+  "particle": "hopelessinfinity:block/vehicle/lamp_amber"
+ }
+}

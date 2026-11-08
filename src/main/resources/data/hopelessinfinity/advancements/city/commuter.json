@@ -1,0 +1,19 @@
+{
+ "display": {
+  "icon": {
+   "item": "hopelessinfinity:transit_ticket"
+  },
+  "title": "Commuter",
+  "description": "Pass a fare gate with a ticket",
+  "frame": "task",
+  "show_toast": true,
+  "announce_to_chat": true,
+  "hidden": false
+ },
+ "criteria": {
+  "done": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "hopelessinfinity:city/root"
+}

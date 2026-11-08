@@ -1,0 +1,13 @@
+{
+ "variants": {
+  "type=bottom": {
+   "model": "hopelessinfinity:block/lot_asphalt_slab"
+  },
+  "type=top": {
+   "model": "hopelessinfinity:block/lot_asphalt_slab_top"
+  },
+  "type=double": {
+   "model": "hopelessinfinity:block/lot_asphalt"
+  }
+ }
+}

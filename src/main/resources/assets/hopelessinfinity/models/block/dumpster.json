@@ -1,0 +1,13 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/street/dumpster.obj",
+ "flip_v": true,
+ "render_type": "minecraft:solid",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "dumpster_green": "hopelessinfinity:block/street/dumpster_green",
+  "dumpster_lid": "hopelessinfinity:block/street/dumpster_lid",
+  "particle": "hopelessinfinity:block/street/dumpster_green"
+ }
+}

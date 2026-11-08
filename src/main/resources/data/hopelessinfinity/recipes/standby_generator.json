@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PPP",
+  "PFP",
+  "PBP"
+ ],
+ "key": {
+  "P": {
+   "item": "hopelessinfinity:iron_plate"
+  },
+  "F": {
+   "item": "minecraft:blast_furnace"
+  },
+  "B": {
+   "item": "hopelessinfinity:circuit_board"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:standby_generator",
+  "count": 1
+ }
+}

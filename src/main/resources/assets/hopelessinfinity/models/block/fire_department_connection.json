@@ -1,0 +1,15 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/city/fire_department_connection.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "brass": "hopelessinfinity:block/city/brass",
+  "chrome": "hopelessinfinity:block/city/chrome",
+  "fdc_sign": "hopelessinfinity:block/city/fdc_sign",
+  "red_paint": "hopelessinfinity:block/city/red_paint",
+  "particle": "hopelessinfinity:block/city/brass"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/vehicle/lightbar_ambulance_r.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "lightbar_red": "hopelessinfinity:block/vehicle/lightbar_red",
+  "particle": "hopelessinfinity:block/vehicle/lightbar_red"
+ }
+}

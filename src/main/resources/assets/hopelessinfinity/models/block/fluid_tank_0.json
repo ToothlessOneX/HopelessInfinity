@@ -1,0 +1,43 @@
+{
+ "textures": {
+  "g": "hopelessinfinity:block/own/tank_glass",
+  "t": "hopelessinfinity:block/own/tank_top",
+  "w": "hopelessinfinity:block/own/tank_water",
+  "particle": "hopelessinfinity:block/own/tank_glass"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    0,
+    0
+   ],
+   "to": [
+    16,
+    16,
+    16
+   ],
+   "faces": {
+    "north": {
+     "texture": "#g"
+    },
+    "south": {
+     "texture": "#g"
+    },
+    "east": {
+     "texture": "#g"
+    },
+    "west": {
+     "texture": "#g"
+    },
+    "up": {
+     "texture": "#t"
+    },
+    "down": {
+     "texture": "#t"
+    }
+   }
+  }
+ ],
+ "render_type": "minecraft:translucent"
+}

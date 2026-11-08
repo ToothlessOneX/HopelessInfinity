@@ -1,0 +1,244 @@
+{
+ "variants": {
+  "facing=north,charge=0": {
+   "model": "hopelessinfinity:block/battery_bank_0"
+  },
+  "facing=north,charge=1": {
+   "model": "hopelessinfinity:block/battery_bank_1"
+  },
+  "facing=north,charge=2": {
+   "model": "hopelessinfinity:block/battery_bank_1"
+  },
+  "facing=north,charge=3": {
+   "model": "hopelessinfinity:block/battery_bank_1"
+  },
+  "facing=north,charge=4": {
+   "model": "hopelessinfinity:block/battery_bank_1"
+  },
+  "facing=north,charge=5": {
+   "model": "hopelessinfinity:block/battery_bank_1"
+  },
+  "facing=north,charge=6": {
+   "model": "hopelessinfinity:block/battery_bank_2"
+  },
+  "facing=north,charge=7": {
+   "model": "hopelessinfinity:block/battery_bank_2"
+  },
+  "facing=north,charge=8": {
+   "model": "hopelessinfinity:block/battery_bank_2"
+  },
+  "facing=north,charge=9": {
+   "model": "hopelessinfinity:block/battery_bank_2"
+  },
+  "facing=north,charge=10": {
+   "model": "hopelessinfinity:block/battery_bank_2"
+  },
+  "facing=north,charge=11": {
+   "model": "hopelessinfinity:block/battery_bank_3"
+  },
+  "facing=north,charge=12": {
+   "model": "hopelessinfinity:block/battery_bank_3"
+  },
+  "facing=north,charge=13": {
+   "model": "hopelessinfinity:block/battery_bank_3"
+  },
+  "facing=north,charge=14": {
+   "model": "hopelessinfinity:block/battery_bank_3"
+  },
+  "facing=north,charge=15": {
+   "model": "hopelessinfinity:block/battery_bank_3"
+  },
+  "facing=east,charge=0": {
+   "model": "hopelessinfinity:block/battery_bank_0",
+   "y": 90
+  },
+  "facing=east,charge=1": {
+   "model": "hopelessinfinity:block/battery_bank_1",
+   "y": 90
+  },
+  "facing=east,charge=2": {
+   "model": "hopelessinfinity:block/battery_bank_1",
+   "y": 90
+  },
+  "facing=east,charge=3": {
+   "model": "hopelessinfinity:block/battery_bank_1",
+   "y": 90
+  },
+  "facing=east,charge=4": {
+   "model": "hopelessinfinity:block/battery_bank_1",
+   "y": 90
+  },
+  "facing=east,charge=5": {
+   "model": "hopelessinfinity:block/battery_bank_1",
+   "y": 90
+  },
+  "facing=east,charge=6": {
+   "model": "hopelessinfinity:block/battery_bank_2",
+   "y": 90
+  },
+  "facing=east,charge=7": {
+   "model": "hopelessinfinity:block/battery_bank_2",
+   "y": 90
+  },
+  "facing=east,charge=8": {
+   "model": "hopelessinfinity:block/battery_bank_2",
+   "y": 90
+  },
+  "facing=east,charge=9": {
+   "model": "hopelessinfinity:block/battery_bank_2",
+   "y": 90
+  },
+  "facing=east,charge=10": {
+   "model": "hopelessinfinity:block/battery_bank_2",
+   "y": 90
+  },
+  "facing=east,charge=11": {
+   "model": "hopelessinfinity:block/battery_bank_3",
+   "y": 90
+  },
+  "facing=east,charge=12": {
+   "model": "hopelessinfinity:block/battery_bank_3",
+   "y": 90
+  },
+  "facing=east,charge=13": {
+   "model": "hopelessinfinity:block/battery_bank_3",
+   "y": 90
+  },
+  "facing=east,charge=14": {
+   "model": "hopelessinfinity:block/battery_bank_3",
+   "y": 90
+  },
+  "facing=east,charge=15": {
+   "model": "hopelessinfinity:block/battery_bank_3",
+   "y": 90
+  },
+  "facing=south,charge=0": {
+   "model": "hopelessinfinity:block/battery_bank_0",
+   "y": 180
+  },
+  "facing=south,charge=1": {
+   "model": "hopelessinfinity:block/battery_bank_1",
+   "y": 180
+  },
+  "facing=south,charge=2": {
+   "model": "hopelessinfinity:block/battery_bank_1",
+   "y": 180
+  },
+  "facing=south,charge=3": {
+   "model": "hopelessinfinity:block/battery_bank_1",
+   "y": 180
+  },
+  "facing=south,charge=4": {
+   "model": "hopelessinfinity:block/battery_bank_1",
+   "y": 180
+  },
+  "facing=south,charge=5": {
+   "model": "hopelessinfinity:block/battery_bank_1",
+   "y": 180
+  },
+  "facing=south,charge=6": {
+   "model": "hopelessinfinity:block/battery_bank_2",
+   "y": 180
+  },
+  "facing=south,charge=7": {
+   "model": "hopelessinfinity:block/battery_bank_2",
+   "y": 180
+  },
+  "facing=south,charge=8": {
+   "model": "hopelessinfinity:block/battery_bank_2",
+   "y": 180
+  },
+  "facing=south,charge=9": {
+   "model": "hopelessinfinity:block/battery_bank_2",
+   "y": 180
+  },
+  "facing=south,charge=10": {
+   "model": "hopelessinfinity:block/battery_bank_2",
+   "y": 180
+  },
+  "facing=south,charge=11": {
+   "model": "hopelessinfinity:block/battery_bank_3",
+   "y": 180
+  },
+  "facing=south,charge=12": {
+   "model": "hopelessinfinity:block/battery_bank_3",
+   "y": 180
+  },
+  "facing=south,charge=13": {
+   "model": "hopelessinfinity:block/battery_bank_3",
+   "y": 180
+  },
+  "facing=south,charge=14": {
+   "model": "hopelessinfinity:block/battery_bank_3",
+   "y": 180
+  },
+  "facing=south,charge=15": {
+   "model": "hopelessinfinity:block/battery_bank_3",
+   "y": 180
+  },
+  "facing=west,charge=0": {
+   "model": "hopelessinfinity:block/battery_bank_0",
+   "y": 270
+  },
+  "facing=west,charge=1": {
+   "model": "hopelessinfinity:block/battery_bank_1",
+   "y": 270
+  },
+  "facing=west,charge=2": {
+   "model": "hopelessinfinity:block/battery_bank_1",
+   "y": 270
+  },
+  "facing=west,charge=3": {
+   "model": "hopelessinfinity:block/battery_bank_1",
+   "y": 270
+  },
+  "facing=west,charge=4": {
+   "model": "hopelessinfinity:block/battery_bank_1",
+   "y": 270
+  },
+  "facing=west,charge=5": {
+   "model": "hopelessinfinity:block/battery_bank_1",
+   "y": 270
+  },
+  "facing=west,charge=6": {
+   "model": "hopelessinfinity:block/battery_bank_2",
+   "y": 270
+  },
+  "facing=west,charge=7": {
+   "model": "hopelessinfinity:block/battery_bank_2",
+   "y": 270
+  },
+  "facing=west,charge=8": {
+   "model": "hopelessinfinity:block/battery_bank_2",
+   "y": 270
+  },
+  "facing=west,charge=9": {
+   "model": "hopelessinfinity:block/battery_bank_2",
+   "y": 270
+  },
+  "facing=west,charge=10": {
+   "model": "hopelessinfinity:block/battery_bank_2",
+   "y": 270
+  },
+  "facing=west,charge=11": {
+   "model": "hopelessinfinity:block/battery_bank_3",
+   "y": 270
+  },
+  "facing=west,charge=12": {
+   "model": "hopelessinfinity:block/battery_bank_3",
+   "y": 270
+  },
+  "facing=west,charge=13": {
+   "model": "hopelessinfinity:block/battery_bank_3",
+   "y": 270
+  },
+  "facing=west,charge=14": {
+   "model": "hopelessinfinity:block/battery_bank_3",
+   "y": 270
+  },
+  "facing=west,charge=15": {
+   "model": "hopelessinfinity:block/battery_bank_3",
+   "y": 270
+  }
+ }
+}

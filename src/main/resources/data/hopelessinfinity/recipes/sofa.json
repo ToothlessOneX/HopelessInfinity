@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "W  ",
+  "WWW",
+  "P P"
+ ],
+ "key": {
+  "W": {
+   "tag": "minecraft:wool"
+  },
+  "P": {
+   "tag": "minecraft:planks"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:sofa",
+  "count": 1
+ }
+}

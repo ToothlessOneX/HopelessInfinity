@@ -1,0 +1,54 @@
+{
+ "textures": {
+  "f": "hopelessinfinity:block/own/ballot_front",
+  "s": "hopelessinfinity:block/own/ballot_top",
+  "t": "hopelessinfinity:block/own/ballot_top",
+  "particle": "hopelessinfinity:block/own/ballot_front"
+ },
+ "elements": [
+  {
+   "from": [
+    2,
+    0,
+    2
+   ],
+   "to": [
+    14,
+    15,
+    14
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#s"
+    },
+    "east": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#t",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "down": {
+     "texture": "#s"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/vehicle/dump_lamp_brake.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "lamp_brake": "hopelessinfinity:block/vehicle/lamp_brake",
+  "particle": "hopelessinfinity:block/vehicle/lamp_brake"
+ }
+}

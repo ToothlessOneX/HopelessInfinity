@@ -1,0 +1,19 @@
+{
+ "display": {
+  "icon": {
+   "item": "hopelessinfinity:car_lift"
+  },
+  "title": "Good as New",
+  "description": "Have a vehicle repaired at a shop",
+  "frame": "task",
+  "show_toast": true,
+  "announce_to_chat": true,
+  "hidden": false
+ },
+ "criteria": {
+  "done": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "hopelessinfinity:city/root"
+}

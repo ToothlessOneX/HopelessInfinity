@@ -1,0 +1,20 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/gate_pedestal",
+   "y": 0
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/gate_pedestal",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/gate_pedestal",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/gate_pedestal",
+   "y": 270
+  }
+ }
+}

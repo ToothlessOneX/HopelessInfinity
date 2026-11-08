@@ -1,0 +1,828 @@
+{
+ "variants": {
+  "down=false,facing=north,half=bottom,shape=straight,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator",
+   "y": 270
+  },
+  "down=false,facing=north,half=bottom,shape=straight,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator",
+   "y": 270
+  },
+  "down=true,facing=north,half=bottom,shape=straight,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator",
+   "y": 270
+  },
+  "down=true,facing=north,half=bottom,shape=straight,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator",
+   "y": 270
+  },
+  "down=false,facing=north,half=bottom,shape=inner_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 180,
+   "uvlock": true
+  },
+  "down=false,facing=north,half=bottom,shape=inner_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 180,
+   "uvlock": true
+  },
+  "down=true,facing=north,half=bottom,shape=inner_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 180,
+   "uvlock": true
+  },
+  "down=true,facing=north,half=bottom,shape=inner_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 180,
+   "uvlock": true
+  },
+  "down=false,facing=north,half=bottom,shape=inner_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 270,
+   "uvlock": true
+  },
+  "down=false,facing=north,half=bottom,shape=inner_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 270,
+   "uvlock": true
+  },
+  "down=true,facing=north,half=bottom,shape=inner_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 270,
+   "uvlock": true
+  },
+  "down=true,facing=north,half=bottom,shape=inner_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 270,
+   "uvlock": true
+  },
+  "down=false,facing=north,half=bottom,shape=outer_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 180,
+   "uvlock": true
+  },
+  "down=false,facing=north,half=bottom,shape=outer_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 180,
+   "uvlock": true
+  },
+  "down=true,facing=north,half=bottom,shape=outer_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 180,
+   "uvlock": true
+  },
+  "down=true,facing=north,half=bottom,shape=outer_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 180,
+   "uvlock": true
+  },
+  "down=false,facing=north,half=bottom,shape=outer_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 270,
+   "uvlock": true
+  },
+  "down=false,facing=north,half=bottom,shape=outer_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 270,
+   "uvlock": true
+  },
+  "down=true,facing=north,half=bottom,shape=outer_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 270,
+   "uvlock": true
+  },
+  "down=true,facing=north,half=bottom,shape=outer_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 270,
+   "uvlock": true
+  },
+  "down=false,facing=north,half=top,shape=straight,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator",
+   "x": 180,
+   "y": 270,
+   "uvlock": true
+  },
+  "down=false,facing=north,half=top,shape=straight,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator",
+   "x": 180,
+   "y": 270,
+   "uvlock": true
+  },
+  "down=true,facing=north,half=top,shape=straight,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator",
+   "x": 180,
+   "y": 270,
+   "uvlock": true
+  },
+  "down=true,facing=north,half=top,shape=straight,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator",
+   "x": 180,
+   "y": 270,
+   "uvlock": true
+  },
+  "down=false,facing=north,half=top,shape=inner_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 270,
+   "uvlock": true
+  },
+  "down=false,facing=north,half=top,shape=inner_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 270,
+   "uvlock": true
+  },
+  "down=true,facing=north,half=top,shape=inner_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 270,
+   "uvlock": true
+  },
+  "down=true,facing=north,half=top,shape=inner_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 270,
+   "uvlock": true
+  },
+  "down=false,facing=north,half=top,shape=inner_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "uvlock": true
+  },
+  "down=false,facing=north,half=top,shape=inner_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "uvlock": true
+  },
+  "down=true,facing=north,half=top,shape=inner_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "uvlock": true
+  },
+  "down=true,facing=north,half=top,shape=inner_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "uvlock": true
+  },
+  "down=false,facing=north,half=top,shape=outer_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 270,
+   "uvlock": true
+  },
+  "down=false,facing=north,half=top,shape=outer_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 270,
+   "uvlock": true
+  },
+  "down=true,facing=north,half=top,shape=outer_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 270,
+   "uvlock": true
+  },
+  "down=true,facing=north,half=top,shape=outer_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 270,
+   "uvlock": true
+  },
+  "down=false,facing=north,half=top,shape=outer_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "uvlock": true
+  },
+  "down=false,facing=north,half=top,shape=outer_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "uvlock": true
+  },
+  "down=true,facing=north,half=top,shape=outer_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "uvlock": true
+  },
+  "down=true,facing=north,half=top,shape=outer_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "uvlock": true
+  },
+  "down=false,facing=east,half=bottom,shape=straight,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator"
+  },
+  "down=false,facing=east,half=bottom,shape=straight,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator"
+  },
+  "down=true,facing=east,half=bottom,shape=straight,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator"
+  },
+  "down=true,facing=east,half=bottom,shape=straight,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator"
+  },
+  "down=false,facing=east,half=bottom,shape=inner_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 270,
+   "uvlock": true
+  },
+  "down=false,facing=east,half=bottom,shape=inner_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 270,
+   "uvlock": true
+  },
+  "down=true,facing=east,half=bottom,shape=inner_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 270,
+   "uvlock": true
+  },
+  "down=true,facing=east,half=bottom,shape=inner_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 270,
+   "uvlock": true
+  },
+  "down=false,facing=east,half=bottom,shape=inner_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "uvlock": true
+  },
+  "down=false,facing=east,half=bottom,shape=inner_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "uvlock": true
+  },
+  "down=true,facing=east,half=bottom,shape=inner_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "uvlock": true
+  },
+  "down=true,facing=east,half=bottom,shape=inner_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "uvlock": true
+  },
+  "down=false,facing=east,half=bottom,shape=outer_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 270,
+   "uvlock": true
+  },
+  "down=false,facing=east,half=bottom,shape=outer_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 270,
+   "uvlock": true
+  },
+  "down=true,facing=east,half=bottom,shape=outer_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 270,
+   "uvlock": true
+  },
+  "down=true,facing=east,half=bottom,shape=outer_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 270,
+   "uvlock": true
+  },
+  "down=false,facing=east,half=bottom,shape=outer_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "uvlock": true
+  },
+  "down=false,facing=east,half=bottom,shape=outer_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "uvlock": true
+  },
+  "down=true,facing=east,half=bottom,shape=outer_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "uvlock": true
+  },
+  "down=true,facing=east,half=bottom,shape=outer_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "uvlock": true
+  },
+  "down=false,facing=east,half=top,shape=straight,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator",
+   "x": 180,
+   "uvlock": true
+  },
+  "down=false,facing=east,half=top,shape=straight,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator",
+   "x": 180,
+   "uvlock": true
+  },
+  "down=true,facing=east,half=top,shape=straight,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator",
+   "x": 180,
+   "uvlock": true
+  },
+  "down=true,facing=east,half=top,shape=straight,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator",
+   "x": 180,
+   "uvlock": true
+  },
+  "down=false,facing=east,half=top,shape=inner_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "uvlock": true
+  },
+  "down=false,facing=east,half=top,shape=inner_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "uvlock": true
+  },
+  "down=true,facing=east,half=top,shape=inner_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "uvlock": true
+  },
+  "down=true,facing=east,half=top,shape=inner_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "uvlock": true
+  },
+  "down=false,facing=east,half=top,shape=inner_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 90,
+   "uvlock": true
+  },
+  "down=false,facing=east,half=top,shape=inner_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 90,
+   "uvlock": true
+  },
+  "down=true,facing=east,half=top,shape=inner_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 90,
+   "uvlock": true
+  },
+  "down=true,facing=east,half=top,shape=inner_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 90,
+   "uvlock": true
+  },
+  "down=false,facing=east,half=top,shape=outer_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "uvlock": true
+  },
+  "down=false,facing=east,half=top,shape=outer_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "uvlock": true
+  },
+  "down=true,facing=east,half=top,shape=outer_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "uvlock": true
+  },
+  "down=true,facing=east,half=top,shape=outer_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "uvlock": true
+  },
+  "down=false,facing=east,half=top,shape=outer_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 90,
+   "uvlock": true
+  },
+  "down=false,facing=east,half=top,shape=outer_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 90,
+   "uvlock": true
+  },
+  "down=true,facing=east,half=top,shape=outer_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 90,
+   "uvlock": true
+  },
+  "down=true,facing=east,half=top,shape=outer_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 90,
+   "uvlock": true
+  },
+  "down=false,facing=south,half=bottom,shape=straight,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator",
+   "y": 90
+  },
+  "down=false,facing=south,half=bottom,shape=straight,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator",
+   "y": 90
+  },
+  "down=true,facing=south,half=bottom,shape=straight,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator",
+   "y": 90
+  },
+  "down=true,facing=south,half=bottom,shape=straight,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator",
+   "y": 90
+  },
+  "down=false,facing=south,half=bottom,shape=inner_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "uvlock": true
+  },
+  "down=false,facing=south,half=bottom,shape=inner_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "uvlock": true
+  },
+  "down=true,facing=south,half=bottom,shape=inner_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "uvlock": true
+  },
+  "down=true,facing=south,half=bottom,shape=inner_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "uvlock": true
+  },
+  "down=false,facing=south,half=bottom,shape=inner_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 90,
+   "uvlock": true
+  },
+  "down=false,facing=south,half=bottom,shape=inner_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 90,
+   "uvlock": true
+  },
+  "down=true,facing=south,half=bottom,shape=inner_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 90,
+   "uvlock": true
+  },
+  "down=true,facing=south,half=bottom,shape=inner_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 90,
+   "uvlock": true
+  },
+  "down=false,facing=south,half=bottom,shape=outer_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "uvlock": true
+  },
+  "down=false,facing=south,half=bottom,shape=outer_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "uvlock": true
+  },
+  "down=true,facing=south,half=bottom,shape=outer_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "uvlock": true
+  },
+  "down=true,facing=south,half=bottom,shape=outer_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "uvlock": true
+  },
+  "down=false,facing=south,half=bottom,shape=outer_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 90,
+   "uvlock": true
+  },
+  "down=false,facing=south,half=bottom,shape=outer_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 90,
+   "uvlock": true
+  },
+  "down=true,facing=south,half=bottom,shape=outer_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 90,
+   "uvlock": true
+  },
+  "down=true,facing=south,half=bottom,shape=outer_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 90,
+   "uvlock": true
+  },
+  "down=false,facing=south,half=top,shape=straight,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator",
+   "x": 180,
+   "y": 90,
+   "uvlock": true
+  },
+  "down=false,facing=south,half=top,shape=straight,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator",
+   "x": 180,
+   "y": 90,
+   "uvlock": true
+  },
+  "down=true,facing=south,half=top,shape=straight,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator",
+   "x": 180,
+   "y": 90,
+   "uvlock": true
+  },
+  "down=true,facing=south,half=top,shape=straight,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator",
+   "x": 180,
+   "y": 90,
+   "uvlock": true
+  },
+  "down=false,facing=south,half=top,shape=inner_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 90,
+   "uvlock": true
+  },
+  "down=false,facing=south,half=top,shape=inner_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 90,
+   "uvlock": true
+  },
+  "down=true,facing=south,half=top,shape=inner_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 90,
+   "uvlock": true
+  },
+  "down=true,facing=south,half=top,shape=inner_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 90,
+   "uvlock": true
+  },
+  "down=false,facing=south,half=top,shape=inner_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 180,
+   "uvlock": true
+  },
+  "down=false,facing=south,half=top,shape=inner_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 180,
+   "uvlock": true
+  },
+  "down=true,facing=south,half=top,shape=inner_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 180,
+   "uvlock": true
+  },
+  "down=true,facing=south,half=top,shape=inner_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 180,
+   "uvlock": true
+  },
+  "down=false,facing=south,half=top,shape=outer_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 90,
+   "uvlock": true
+  },
+  "down=false,facing=south,half=top,shape=outer_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 90,
+   "uvlock": true
+  },
+  "down=true,facing=south,half=top,shape=outer_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 90,
+   "uvlock": true
+  },
+  "down=true,facing=south,half=top,shape=outer_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 90,
+   "uvlock": true
+  },
+  "down=false,facing=south,half=top,shape=outer_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 180,
+   "uvlock": true
+  },
+  "down=false,facing=south,half=top,shape=outer_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 180,
+   "uvlock": true
+  },
+  "down=true,facing=south,half=top,shape=outer_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 180,
+   "uvlock": true
+  },
+  "down=true,facing=south,half=top,shape=outer_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 180,
+   "uvlock": true
+  },
+  "down=false,facing=west,half=bottom,shape=straight,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator",
+   "y": 180
+  },
+  "down=false,facing=west,half=bottom,shape=straight,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator",
+   "y": 180
+  },
+  "down=true,facing=west,half=bottom,shape=straight,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator",
+   "y": 180
+  },
+  "down=true,facing=west,half=bottom,shape=straight,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator",
+   "y": 180
+  },
+  "down=false,facing=west,half=bottom,shape=inner_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 90,
+   "uvlock": true
+  },
+  "down=false,facing=west,half=bottom,shape=inner_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 90,
+   "uvlock": true
+  },
+  "down=true,facing=west,half=bottom,shape=inner_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 90,
+   "uvlock": true
+  },
+  "down=true,facing=west,half=bottom,shape=inner_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 90,
+   "uvlock": true
+  },
+  "down=false,facing=west,half=bottom,shape=inner_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 180,
+   "uvlock": true
+  },
+  "down=false,facing=west,half=bottom,shape=inner_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 180,
+   "uvlock": true
+  },
+  "down=true,facing=west,half=bottom,shape=inner_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 180,
+   "uvlock": true
+  },
+  "down=true,facing=west,half=bottom,shape=inner_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "y": 180,
+   "uvlock": true
+  },
+  "down=false,facing=west,half=bottom,shape=outer_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 90,
+   "uvlock": true
+  },
+  "down=false,facing=west,half=bottom,shape=outer_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 90,
+   "uvlock": true
+  },
+  "down=true,facing=west,half=bottom,shape=outer_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 90,
+   "uvlock": true
+  },
+  "down=true,facing=west,half=bottom,shape=outer_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 90,
+   "uvlock": true
+  },
+  "down=false,facing=west,half=bottom,shape=outer_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 180,
+   "uvlock": true
+  },
+  "down=false,facing=west,half=bottom,shape=outer_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 180,
+   "uvlock": true
+  },
+  "down=true,facing=west,half=bottom,shape=outer_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 180,
+   "uvlock": true
+  },
+  "down=true,facing=west,half=bottom,shape=outer_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "y": 180,
+   "uvlock": true
+  },
+  "down=false,facing=west,half=top,shape=straight,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator",
+   "x": 180,
+   "y": 180,
+   "uvlock": true
+  },
+  "down=false,facing=west,half=top,shape=straight,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator",
+   "x": 180,
+   "y": 180,
+   "uvlock": true
+  },
+  "down=true,facing=west,half=top,shape=straight,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator",
+   "x": 180,
+   "y": 180,
+   "uvlock": true
+  },
+  "down=true,facing=west,half=top,shape=straight,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator",
+   "x": 180,
+   "y": 180,
+   "uvlock": true
+  },
+  "down=false,facing=west,half=top,shape=inner_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 180,
+   "uvlock": true
+  },
+  "down=false,facing=west,half=top,shape=inner_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 180,
+   "uvlock": true
+  },
+  "down=true,facing=west,half=top,shape=inner_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 180,
+   "uvlock": true
+  },
+  "down=true,facing=west,half=top,shape=inner_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 180,
+   "uvlock": true
+  },
+  "down=false,facing=west,half=top,shape=inner_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 270,
+   "uvlock": true
+  },
+  "down=false,facing=west,half=top,shape=inner_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 270,
+   "uvlock": true
+  },
+  "down=true,facing=west,half=top,shape=inner_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 270,
+   "uvlock": true
+  },
+  "down=true,facing=west,half=top,shape=inner_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_inner",
+   "x": 180,
+   "y": 270,
+   "uvlock": true
+  },
+  "down=false,facing=west,half=top,shape=outer_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 180,
+   "uvlock": true
+  },
+  "down=false,facing=west,half=top,shape=outer_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 180,
+   "uvlock": true
+  },
+  "down=true,facing=west,half=top,shape=outer_left,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 180,
+   "uvlock": true
+  },
+  "down=true,facing=west,half=top,shape=outer_left,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 180,
+   "uvlock": true
+  },
+  "down=false,facing=west,half=top,shape=outer_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 270,
+   "uvlock": true
+  },
+  "down=false,facing=west,half=top,shape=outer_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 270,
+   "uvlock": true
+  },
+  "down=true,facing=west,half=top,shape=outer_right,waterlogged=false": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 270,
+   "uvlock": true
+  },
+  "down=true,facing=west,half=top,shape=outer_right,waterlogged=true": {
+   "model": "hopelessinfinity:block/escalator_outer",
+   "x": 180,
+   "y": 270,
+   "uvlock": true
+  }
+ }
+}

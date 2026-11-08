@@ -1,0 +1,20 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/newsstand",
+   "y": 0
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/newsstand",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/newsstand",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/newsstand",
+   "y": 270
+  }
+ }
+}

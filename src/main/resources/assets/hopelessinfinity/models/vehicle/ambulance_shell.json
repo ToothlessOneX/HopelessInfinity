@@ -1,0 +1,16 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/vehicle/ambulance_shell.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "carpet": "hopelessinfinity:block/vehicle/carpet",
+  "dash": "hopelessinfinity:block/vehicle/dash",
+  "door_panel": "hopelessinfinity:block/vehicle/door_panel",
+  "headliner": "hopelessinfinity:block/vehicle/headliner",
+  "interior_white": "hopelessinfinity:block/vehicle/interior_white",
+  "particle": "hopelessinfinity:block/vehicle/carpet"
+ }
+}

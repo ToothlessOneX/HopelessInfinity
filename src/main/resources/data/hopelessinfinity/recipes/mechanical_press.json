@@ -1,0 +1,26 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PSP",
+  " B ",
+  " A "
+ ],
+ "key": {
+  "P": {
+   "item": "hopelessinfinity:iron_plate"
+  },
+  "S": {
+   "item": "hopelessinfinity:drive_shaft"
+  },
+  "B": {
+   "item": "minecraft:iron_block"
+  },
+  "A": {
+   "item": "minecraft:anvil"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:mechanical_press",
+  "count": 1
+ }
+}

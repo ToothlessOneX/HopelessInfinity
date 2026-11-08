@@ -1,0 +1,15 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/street/ac_unit.obj",
+ "flip_v": true,
+ "render_type": "minecraft:solid",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "steel_frame": "hopelessinfinity:block/street/steel_frame",
+  "ac_case": "hopelessinfinity:block/street/ac_case",
+  "ac_grille": "hopelessinfinity:block/street/ac_grille",
+  "ac_fan": "hopelessinfinity:block/street/ac_fan",
+  "particle": "hopelessinfinity:block/street/steel_frame"
+ }
+}

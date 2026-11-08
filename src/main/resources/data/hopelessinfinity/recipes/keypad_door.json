@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "SS",
+  "SB",
+  "SS"
+ ],
+ "key": {
+  "S": {
+   "item": "hopelessinfinity:steel_ingot"
+  },
+  "B": {
+   "item": "hopelessinfinity:circuit_board"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:keypad_door",
+  "count": 1
+ }
+}

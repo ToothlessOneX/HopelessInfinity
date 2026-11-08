@@ -1,0 +1,14 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/city/accessible_sign.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "accessible_face": "hopelessinfinity:block/city/accessible_face",
+  "galv": "hopelessinfinity:block/city/galv",
+  "sign_back": "hopelessinfinity:block/city/sign_back",
+  "particle": "hopelessinfinity:block/city/accessible_face"
+ }
+}

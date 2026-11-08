@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "RWR"
+ ],
+ "key": {
+  "R": {
+   "item": "minecraft:dried_kelp"
+  },
+  "W": {
+   "item": "hopelessinfinity:copper_wire"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:power_cable",
+  "count": 6
+ }
+}

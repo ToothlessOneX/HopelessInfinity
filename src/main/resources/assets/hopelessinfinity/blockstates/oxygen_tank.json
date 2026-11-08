@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/oxygen_tank"
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/oxygen_tank",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/oxygen_tank",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/oxygen_tank",
+   "y": 270
+  }
+ }
+}

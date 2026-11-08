@@ -1,0 +1,19 @@
+{
+ "replace": false,
+ "values": [
+  "hopelessinfinity:slope_grass_block",
+  "hopelessinfinity:slope_dirt",
+  "hopelessinfinity:slope_sand",
+  "hopelessinfinity:slope_gravel",
+  "hopelessinfinity:slope_clay",
+  "hopelessinfinity:slope_mud",
+  "hopelessinfinity:slope_podzol",
+  "hopelessinfinity:slope_coarse_dirt",
+  "hopelessinfinity:slope_moss_block",
+  "hopelessinfinity:slope_mycelium",
+  "hopelessinfinity:slope_rooted_dirt",
+  "hopelessinfinity:slope_packed_mud",
+  "hopelessinfinity:slope_snow_block",
+  "hopelessinfinity:slope_red_sand"
+ ]
+}

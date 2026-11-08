@@ -1,0 +1,10 @@
+{
+ "variants": {
+  "lit=false": {
+   "model": "hopelessinfinity:block/call_light_off"
+  },
+  "lit=true": {
+   "model": "hopelessinfinity:block/call_light_on"
+  }
+ }
+}

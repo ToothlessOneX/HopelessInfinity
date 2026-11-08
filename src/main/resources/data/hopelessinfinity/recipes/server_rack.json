@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PBP",
+  "PBP",
+  "PBP"
+ ],
+ "key": {
+  "P": {
+   "item": "hopelessinfinity:iron_plate"
+  },
+  "B": {
+   "item": "hopelessinfinity:circuit_board"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:server_rack",
+  "count": 1
+ }
+}

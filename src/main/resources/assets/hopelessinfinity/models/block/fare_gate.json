@@ -1,0 +1,106 @@
+{
+ "textures": {
+  "s": "hopelessinfinity:block/own/fare_gate_closed",
+  "t": "hopelessinfinity:block/own/fare_gate",
+  "a": "hopelessinfinity:block/own/fare_gate",
+  "particle": "hopelessinfinity:block/own/fare_gate_closed"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    0,
+    0
+   ],
+   "to": [
+    3,
+    16,
+    16
+   ],
+   "faces": {
+    "north": {
+     "texture": "#s"
+    },
+    "south": {
+     "texture": "#s"
+    },
+    "east": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#t"
+    },
+    "down": {
+     "texture": "#s"
+    }
+   }
+  },
+  {
+   "from": [
+    13,
+    0,
+    0
+   ],
+   "to": [
+    16,
+    16,
+    16
+   ],
+   "faces": {
+    "north": {
+     "texture": "#s"
+    },
+    "south": {
+     "texture": "#s"
+    },
+    "east": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#t"
+    },
+    "down": {
+     "texture": "#s"
+    }
+   }
+  },
+  {
+   "from": [
+    3,
+    9,
+    7
+   ],
+   "to": [
+    13,
+    10,
+    9
+   ],
+   "faces": {
+    "north": {
+     "texture": "#a"
+    },
+    "south": {
+     "texture": "#a"
+    },
+    "east": {
+     "texture": "#a"
+    },
+    "west": {
+     "texture": "#a"
+    },
+    "up": {
+     "texture": "#a"
+    },
+    "down": {
+     "texture": "#a"
+    }
+   }
+  }
+ ]
+}

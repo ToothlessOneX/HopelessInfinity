@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "II",
+  "CC"
+ ],
+ "key": {
+  "I": {
+   "item": "minecraft:iron_ingot"
+  },
+  "C": {
+   "item": "minecraft:crafting_table"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:workbench",
+  "count": 1
+ }
+}

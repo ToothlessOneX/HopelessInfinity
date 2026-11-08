@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/satellite_dish"
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/satellite_dish",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/satellite_dish",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/satellite_dish",
+   "y": 270
+  }
+ }
+}

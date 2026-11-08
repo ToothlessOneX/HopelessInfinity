@@ -1,0 +1,14 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/city/drink_cooler.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "cooler_front": "hopelessinfinity:block/city/cooler_front",
+  "enamel": "hopelessinfinity:block/city/enamel",
+  "lamp_white": "hopelessinfinity:block/city/lamp_white",
+  "particle": "hopelessinfinity:block/city/cooler_front"
+ }
+}

@@ -1,0 +1,8 @@
+{
+ "parent": "minecraft:block/slab_top",
+ "textures": {
+  "bottom": "hopelessinfinity:block/street/asphalt_worn",
+  "top": "hopelessinfinity:block/street/asphalt_worn",
+  "side": "hopelessinfinity:block/street/asphalt_worn"
+ }
+}

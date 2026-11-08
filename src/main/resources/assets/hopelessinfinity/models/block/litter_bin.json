@@ -1,0 +1,14 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/street/litter_bin.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "bin_mesh": "hopelessinfinity:block/street/bin_mesh",
+  "bin_rim": "hopelessinfinity:block/street/bin_rim",
+  "bin_bag": "hopelessinfinity:block/street/bin_bag",
+  "particle": "hopelessinfinity:block/street/bin_mesh"
+ }
+}

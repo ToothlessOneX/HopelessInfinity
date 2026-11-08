@@ -1,0 +1,26 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "WPW",
+  "PSP",
+  "WCW"
+ ],
+ "key": {
+  "W": {
+   "item": "hopelessinfinity:copper_wire"
+  },
+  "P": {
+   "item": "hopelessinfinity:iron_plate"
+  },
+  "S": {
+   "item": "hopelessinfinity:drive_shaft"
+  },
+  "C": {
+   "item": "minecraft:copper_ingot"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:electric_motor",
+  "count": 1
+ }
+}

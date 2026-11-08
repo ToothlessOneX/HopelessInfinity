@@ -1,0 +1,13 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/street/fire_hydrant.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "hydrant_red": "hopelessinfinity:block/street/hydrant_red",
+  "hydrant_cap": "hopelessinfinity:block/street/hydrant_cap",
+  "particle": "hopelessinfinity:block/street/hydrant_red"
+ }
+}

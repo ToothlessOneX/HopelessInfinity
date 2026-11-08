@@ -1,0 +1,17 @@
+setup 612 ms
+HIN +0000-0818-001-51 planet 6 (G4V star): 1.41 Earth masses, radius 7,061 km, gravity 11.22 m/s2 (1.14 g), mean surface 9.0 C (habitable zone 0.60), cube face 11,092,170 blocks wide
+PASS face fits the lifted packing (half-width < 8,388,608)            5,546,085 blocks
+PASS face width = pi R / 2 (real size, 1 block = 1 m)                 11,092,170 blocks for R 7,061 km
+PASS land share near Earth's 29.7% (ETOPO5)                           29.7%
+PASS folded point is the same planet point (within 1 block)           worst 0.383 blocks over 14376 edge samples
+PASS height step across an edge no bigger than the local slope + 1    0 over; worst step 1
+PASS folding back over the same edge returns home                     14376/14376
+PASS land (0-4 km) steeper than 45 deg under 5%                       0.32% (mean slope 5.7 deg over 17536 samples)
+T0 9.0 C | equator 23.2 C | pole -19.8 C
+PASS start planet mean temperature between 0 and 30 C (inside the habitable zone) 9.0 C at HZ fraction 0.60
+PASS equator warmer than pole by about 42 K (North 1975)              42.9 K
+PASS column plans under 20 ms per chunk                               2.7 us per column, 0.7 ms per chunk
+PASS ground stays inside the world (y -2560..5631)                    ground y -2226..4715
+PASS ground is continuous (1 cm step changes height < 5 cm)           worst 0.0206 m over 300,000 pairs
+PASS spawn on dry land near face 0's centre                           -165946 216 52322, jungle 215 m, 21.9 C (search 173 ms)
+13 passed, 0 failed

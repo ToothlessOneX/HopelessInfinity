@@ -1,0 +1,15 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/vehicle/city_bus_shell.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "bus_floor": "hopelessinfinity:block/vehicle/bus_floor",
+  "dash": "hopelessinfinity:block/vehicle/dash",
+  "headliner": "hopelessinfinity:block/vehicle/headliner",
+  "interior_white": "hopelessinfinity:block/vehicle/interior_white",
+  "particle": "hopelessinfinity:block/vehicle/bus_floor"
+ }
+}

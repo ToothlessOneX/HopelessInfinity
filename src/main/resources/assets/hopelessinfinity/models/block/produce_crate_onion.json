@@ -1,0 +1,41 @@
+{
+ "textures": {
+  "s": "hopelessinfinity:block/own/crate_side",
+  "t": "hopelessinfinity:block/own/crate_top_onion",
+  "particle": "hopelessinfinity:block/own/crate_side"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    0,
+    0
+   ],
+   "to": [
+    16,
+    16,
+    16
+   ],
+   "faces": {
+    "north": {
+     "texture": "#s"
+    },
+    "south": {
+     "texture": "#s"
+    },
+    "east": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#t"
+    },
+    "down": {
+     "texture": "#s"
+    }
+   }
+  }
+ ]
+}

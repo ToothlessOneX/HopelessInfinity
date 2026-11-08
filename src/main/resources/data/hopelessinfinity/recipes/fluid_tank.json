@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PGP",
+  "G G",
+  "PGP"
+ ],
+ "key": {
+  "P": {
+   "item": "hopelessinfinity:iron_plate"
+  },
+  "G": {
+   "item": "minecraft:glass"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:fluid_tank",
+  "count": 1
+ }
+}

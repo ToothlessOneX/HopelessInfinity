@@ -1,0 +1,13 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/city/car_lift.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "safety_yellow": "hopelessinfinity:block/city/safety_yellow",
+  "steel_dark": "hopelessinfinity:block/city/steel_dark",
+  "particle": "hopelessinfinity:block/city/safety_yellow"
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "SSS",
+  "P P"
+ ],
+ "key": {
+  "S": {
+   "tag": "minecraft:wooden_slabs"
+  },
+  "P": {
+   "item": "minecraft:stick"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:coffee_table",
+  "count": 1
+ }
+}

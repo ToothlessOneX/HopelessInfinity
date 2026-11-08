@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/trash_can"
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/trash_can",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/trash_can",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/trash_can",
+   "y": 270
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/city/cash_register.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "plastic_dark": "hopelessinfinity:block/city/plastic_dark",
+  "register_keys": "hopelessinfinity:block/city/register_keys",
+  "register_screen": "hopelessinfinity:block/city/register_screen",
+  "steel": "hopelessinfinity:block/city/steel",
+  "particle": "hopelessinfinity:block/city/plastic_dark"
+ }
+}

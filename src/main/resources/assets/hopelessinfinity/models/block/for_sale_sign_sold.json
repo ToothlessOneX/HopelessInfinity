@@ -1,0 +1,86 @@
+{
+ "textures": {
+  "f": "hopelessinfinity:block/own/sold",
+  "s": "hopelessinfinity:block/own/sign_post",
+  "p": "hopelessinfinity:block/own/sign_post",
+  "particle": "hopelessinfinity:block/own/sold"
+ },
+ "elements": [
+  {
+   "from": [
+    7,
+    0,
+    7
+   ],
+   "to": [
+    9,
+    10,
+    9
+   ],
+   "faces": {
+    "north": {
+     "texture": "#p"
+    },
+    "south": {
+     "texture": "#p"
+    },
+    "east": {
+     "texture": "#p"
+    },
+    "west": {
+     "texture": "#p"
+    },
+    "up": {
+     "texture": "#p"
+    },
+    "down": {
+     "texture": "#p"
+    }
+   }
+  },
+  {
+   "from": [
+    2,
+    9,
+    7.4
+   ],
+   "to": [
+    14,
+    16,
+    8.6
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#f",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "east": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#s"
+    },
+    "down": {
+     "texture": "#s"
+    }
+   }
+  }
+ ]
+}

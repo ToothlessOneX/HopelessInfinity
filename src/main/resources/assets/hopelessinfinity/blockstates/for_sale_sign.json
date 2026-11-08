@@ -1,0 +1,34 @@
+{
+ "variants": {
+  "facing=north,sold=false": {
+   "model": "hopelessinfinity:block/for_sale_sign"
+  },
+  "facing=north,sold=true": {
+   "model": "hopelessinfinity:block/for_sale_sign_sold"
+  },
+  "facing=east,sold=false": {
+   "model": "hopelessinfinity:block/for_sale_sign",
+   "y": 90
+  },
+  "facing=east,sold=true": {
+   "model": "hopelessinfinity:block/for_sale_sign_sold",
+   "y": 90
+  },
+  "facing=south,sold=false": {
+   "model": "hopelessinfinity:block/for_sale_sign",
+   "y": 180
+  },
+  "facing=south,sold=true": {
+   "model": "hopelessinfinity:block/for_sale_sign_sold",
+   "y": 180
+  },
+  "facing=west,sold=false": {
+   "model": "hopelessinfinity:block/for_sale_sign",
+   "y": 270
+  },
+  "facing=west,sold=true": {
+   "model": "hopelessinfinity:block/for_sale_sign_sold",
+   "y": 270
+  }
+ }
+}

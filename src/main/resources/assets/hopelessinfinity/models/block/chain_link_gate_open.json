@@ -1,0 +1,7 @@
+{
+ "parent": "minecraft:block/template_fence_gate_open",
+ "textures": {
+  "texture": "hopelessinfinity:block/city/chain_link"
+ },
+ "render_type": "minecraft:cutout"
+}

@@ -1,0 +1,50 @@
+{
+ "variants": {
+  "facing=north,on=false": {
+   "model": "hopelessinfinity:block/vent_fan"
+  },
+  "facing=north,on=true": {
+   "model": "hopelessinfinity:block/vent_fan"
+  },
+  "facing=east,on=false": {
+   "model": "hopelessinfinity:block/vent_fan",
+   "y": 90
+  },
+  "facing=east,on=true": {
+   "model": "hopelessinfinity:block/vent_fan",
+   "y": 90
+  },
+  "facing=south,on=false": {
+   "model": "hopelessinfinity:block/vent_fan",
+   "y": 180
+  },
+  "facing=south,on=true": {
+   "model": "hopelessinfinity:block/vent_fan",
+   "y": 180
+  },
+  "facing=west,on=false": {
+   "model": "hopelessinfinity:block/vent_fan",
+   "y": 270
+  },
+  "facing=west,on=true": {
+   "model": "hopelessinfinity:block/vent_fan",
+   "y": 270
+  },
+  "facing=up,on=false": {
+   "model": "hopelessinfinity:block/vent_fan",
+   "x": 270
+  },
+  "facing=up,on=true": {
+   "model": "hopelessinfinity:block/vent_fan",
+   "x": 270
+  },
+  "facing=down,on=false": {
+   "model": "hopelessinfinity:block/vent_fan",
+   "x": 90
+  },
+  "facing=down,on=true": {
+   "model": "hopelessinfinity:block/vent_fan",
+   "x": 90
+  }
+ }
+}

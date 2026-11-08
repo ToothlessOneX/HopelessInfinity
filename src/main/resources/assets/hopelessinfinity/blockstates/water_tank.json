@@ -1,0 +1,20 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/water_tank",
+   "y": 0
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/water_tank",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/water_tank",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/water_tank",
+   "y": 270
+  }
+ }
+}

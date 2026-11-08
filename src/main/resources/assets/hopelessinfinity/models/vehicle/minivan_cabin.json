@@ -1,0 +1,19 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/vehicle/minivan_cabin.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "dash": "hopelessinfinity:block/vehicle/dash",
+  "gauges": "hopelessinfinity:block/vehicle/gauges",
+  "glass_mirror": "hopelessinfinity:block/vehicle/glass_mirror",
+  "radio": "hopelessinfinity:block/vehicle/radio",
+  "rubber": "hopelessinfinity:block/vehicle/rubber",
+  "seat_cloth": "hopelessinfinity:block/vehicle/seat_cloth",
+  "steel_dark": "hopelessinfinity:block/vehicle/steel_dark",
+  "trim": "hopelessinfinity:block/vehicle/trim",
+  "particle": "hopelessinfinity:block/vehicle/dash"
+ }
+}

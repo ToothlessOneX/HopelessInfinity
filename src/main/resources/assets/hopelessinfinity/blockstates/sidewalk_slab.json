@@ -1,0 +1,13 @@
+{
+ "variants": {
+  "type=bottom": {
+   "model": "hopelessinfinity:block/sidewalk_slab"
+  },
+  "type=top": {
+   "model": "hopelessinfinity:block/sidewalk_slab_top"
+  },
+  "type=double": {
+   "model": "hopelessinfinity:block/sidewalk"
+  }
+ }
+}

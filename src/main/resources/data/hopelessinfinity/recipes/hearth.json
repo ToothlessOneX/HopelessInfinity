@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "BBB",
+  "B B",
+  "BCB"
+ ],
+ "key": {
+  "B": {
+   "item": "minecraft:bricks"
+  },
+  "C": {
+   "item": "minecraft:campfire"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:hearth",
+  "count": 1
+ }
+}

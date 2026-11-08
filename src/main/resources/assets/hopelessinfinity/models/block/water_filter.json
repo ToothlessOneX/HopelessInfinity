@@ -1,0 +1,48 @@
+{
+ "textures": {
+  "f": "hopelessinfinity:block/own/filter_front",
+  "s": "hopelessinfinity:block/city/steel",
+  "t": "hopelessinfinity:block/city/steel_dark",
+  "particle": "hopelessinfinity:block/own/filter_front"
+ },
+ "elements": [
+  {
+   "from": [
+    2,
+    0,
+    2
+   ],
+   "to": [
+    14,
+    16,
+    14
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#s"
+    },
+    "east": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#t"
+    },
+    "down": {
+     "texture": "#s"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/city/fire_engine.obj",
+ "flip_v": true,
+ "render_type": "minecraft:solid",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "chrome": "hopelessinfinity:block/city/chrome",
+  "engine_name": "hopelessinfinity:block/city/engine_name",
+  "engine_red": "hopelessinfinity:block/city/engine_red",
+  "engine_side": "hopelessinfinity:block/city/engine_side",
+  "glass_tint": "hopelessinfinity:block/city/glass_tint",
+  "lightbar": "hopelessinfinity:block/city/lightbar",
+  "steel_dark": "hopelessinfinity:block/city/steel_dark",
+  "tire": "hopelessinfinity:block/city/tire",
+  "particle": "hopelessinfinity:block/city/chrome"
+ }
+}

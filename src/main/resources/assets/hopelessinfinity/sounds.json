@@ -1,0 +1,74 @@
+{
+ "vehicle.engine_gas": {
+  "subtitle": "subtitles.hopelessdeep.vehicle.engine_gas",
+  "sounds": [
+   {
+    "name": "hopelessinfinity:vehicle/engine_gas"
+   }
+  ]
+ },
+ "vehicle.engine_diesel": {
+  "subtitle": "subtitles.hopelessdeep.vehicle.engine_diesel",
+  "sounds": [
+   {
+    "name": "hopelessinfinity:vehicle/engine_diesel"
+   }
+  ]
+ },
+ "vehicle.engine_start": {
+  "subtitle": "subtitles.hopelessdeep.vehicle.engine_start",
+  "sounds": [
+   {
+    "name": "hopelessinfinity:vehicle/engine_start"
+   }
+  ]
+ },
+ "vehicle.horn_car": {
+  "subtitle": "subtitles.hopelessdeep.vehicle.horn_car",
+  "sounds": [
+   {
+    "name": "hopelessinfinity:vehicle/horn_car"
+   }
+  ]
+ },
+ "vehicle.horn_truck": {
+  "subtitle": "subtitles.hopelessdeep.vehicle.horn_truck",
+  "sounds": [
+   {
+    "name": "hopelessinfinity:vehicle/horn_truck"
+   }
+  ]
+ },
+ "vehicle.siren": {
+  "subtitle": "subtitles.hopelessdeep.vehicle.siren",
+  "sounds": [
+   {
+    "name": "hopelessinfinity:vehicle/siren"
+   }
+  ]
+ },
+ "vehicle.backup": {
+  "subtitle": "subtitles.hopelessdeep.vehicle.backup",
+  "sounds": [
+   {
+    "name": "hopelessinfinity:vehicle/backup"
+   }
+  ]
+ },
+ "vehicle.skid": {
+  "subtitle": "subtitles.hopelessdeep.vehicle.skid",
+  "sounds": [
+   {
+    "name": "hopelessinfinity:vehicle/skid"
+   }
+  ]
+ },
+ "block.alarm": {
+  "subtitle": "subtitles.hopelessdeep.block.alarm",
+  "sounds": [
+   {
+    "name": "hopelessinfinity:block/alarm"
+   }
+  ]
+ }
+}

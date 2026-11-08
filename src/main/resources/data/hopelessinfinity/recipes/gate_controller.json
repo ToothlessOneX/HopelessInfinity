@@ -1,0 +1,29 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "redstone",
+ "pattern": [
+  "IDI",
+  "RCR",
+  "IFI"
+ ],
+ "key": {
+  "I": {
+   "item": "minecraft:iron_ingot"
+  },
+  "D": {
+   "item": "minecraft:diamond"
+  },
+  "R": {
+   "item": "minecraft:redstone"
+  },
+  "C": {
+   "item": "minecraft:compass"
+  },
+  "F": {
+   "item": "hopelessinfinity:gate_frame"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:gate_controller"
+ }
+}

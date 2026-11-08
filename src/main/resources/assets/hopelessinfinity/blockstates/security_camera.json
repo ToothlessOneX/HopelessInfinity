@@ -1,0 +1,50 @@
+{
+ "variants": {
+  "facing=north,powered=false": {
+   "model": "hopelessinfinity:block/security_camera"
+  },
+  "facing=north,powered=true": {
+   "model": "hopelessinfinity:block/security_camera"
+  },
+  "facing=east,powered=false": {
+   "model": "hopelessinfinity:block/security_camera",
+   "y": 90
+  },
+  "facing=east,powered=true": {
+   "model": "hopelessinfinity:block/security_camera",
+   "y": 90
+  },
+  "facing=south,powered=false": {
+   "model": "hopelessinfinity:block/security_camera",
+   "y": 180
+  },
+  "facing=south,powered=true": {
+   "model": "hopelessinfinity:block/security_camera",
+   "y": 180
+  },
+  "facing=west,powered=false": {
+   "model": "hopelessinfinity:block/security_camera",
+   "y": 270
+  },
+  "facing=west,powered=true": {
+   "model": "hopelessinfinity:block/security_camera",
+   "y": 270
+  },
+  "facing=up,powered=false": {
+   "model": "hopelessinfinity:block/security_camera",
+   "x": 270
+  },
+  "facing=up,powered=true": {
+   "model": "hopelessinfinity:block/security_camera",
+   "x": 270
+  },
+  "facing=down,powered=false": {
+   "model": "hopelessinfinity:block/security_camera",
+   "x": 90
+  },
+  "facing=down,powered=true": {
+   "model": "hopelessinfinity:block/security_camera",
+   "x": 90
+  }
+ }
+}

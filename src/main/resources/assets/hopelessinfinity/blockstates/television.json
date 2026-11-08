@@ -1,0 +1,34 @@
+{
+ "variants": {
+  "facing=north,on=false": {
+   "model": "hopelessinfinity:block/television"
+  },
+  "facing=north,on=true": {
+   "model": "hopelessinfinity:block/television_on"
+  },
+  "facing=east,on=false": {
+   "model": "hopelessinfinity:block/television",
+   "y": 90
+  },
+  "facing=east,on=true": {
+   "model": "hopelessinfinity:block/television_on",
+   "y": 90
+  },
+  "facing=south,on=false": {
+   "model": "hopelessinfinity:block/television",
+   "y": 180
+  },
+  "facing=south,on=true": {
+   "model": "hopelessinfinity:block/television_on",
+   "y": 180
+  },
+  "facing=west,on=false": {
+   "model": "hopelessinfinity:block/television",
+   "y": 270
+  },
+  "facing=west,on=true": {
+   "model": "hopelessinfinity:block/television_on",
+   "y": 270
+  }
+ }
+}

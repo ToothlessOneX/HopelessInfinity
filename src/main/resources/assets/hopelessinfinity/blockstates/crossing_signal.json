@@ -1,0 +1,544 @@
+{
+ "variants": {
+  "facing=north,active=false,flash=false,arm=0": {
+   "model": "hopelessinfinity:block/crossing_signal_arm0"
+  },
+  "facing=north,active=false,flash=false,arm=1": {
+   "model": "hopelessinfinity:block/crossing_signal_arm1"
+  },
+  "facing=north,active=false,flash=false,arm=2": {
+   "model": "hopelessinfinity:block/crossing_signal_arm2"
+  },
+  "facing=north,active=false,flash=false,arm=3": {
+   "model": "hopelessinfinity:block/crossing_signal_arm3"
+  },
+  "facing=north,active=false,flash=false,arm=4": {
+   "model": "hopelessinfinity:block/crossing_signal_arm4"
+  },
+  "facing=north,active=false,flash=false,arm=5": {
+   "model": "hopelessinfinity:block/crossing_signal_arm5"
+  },
+  "facing=north,active=false,flash=false,arm=6": {
+   "model": "hopelessinfinity:block/crossing_signal_arm6"
+  },
+  "facing=north,active=false,flash=false,arm=7": {
+   "model": "hopelessinfinity:block/crossing_signal_arm7"
+  },
+  "facing=north,active=false,flash=false,arm=8": {
+   "model": "hopelessinfinity:block/crossing_signal_arm8"
+  },
+  "facing=north,active=false,flash=true,arm=0": {
+   "model": "hopelessinfinity:block/crossing_signal_arm0"
+  },
+  "facing=north,active=false,flash=true,arm=1": {
+   "model": "hopelessinfinity:block/crossing_signal_arm1"
+  },
+  "facing=north,active=false,flash=true,arm=2": {
+   "model": "hopelessinfinity:block/crossing_signal_arm2"
+  },
+  "facing=north,active=false,flash=true,arm=3": {
+   "model": "hopelessinfinity:block/crossing_signal_arm3"
+  },
+  "facing=north,active=false,flash=true,arm=4": {
+   "model": "hopelessinfinity:block/crossing_signal_arm4"
+  },
+  "facing=north,active=false,flash=true,arm=5": {
+   "model": "hopelessinfinity:block/crossing_signal_arm5"
+  },
+  "facing=north,active=false,flash=true,arm=6": {
+   "model": "hopelessinfinity:block/crossing_signal_arm6"
+  },
+  "facing=north,active=false,flash=true,arm=7": {
+   "model": "hopelessinfinity:block/crossing_signal_arm7"
+  },
+  "facing=north,active=false,flash=true,arm=8": {
+   "model": "hopelessinfinity:block/crossing_signal_arm8"
+  },
+  "facing=north,active=true,flash=false,arm=0": {
+   "model": "hopelessinfinity:block/crossing_signal_left"
+  },
+  "facing=north,active=true,flash=false,arm=1": {
+   "model": "hopelessinfinity:block/crossing_signal_left"
+  },
+  "facing=north,active=true,flash=false,arm=2": {
+   "model": "hopelessinfinity:block/crossing_signal_left"
+  },
+  "facing=north,active=true,flash=false,arm=3": {
+   "model": "hopelessinfinity:block/crossing_signal_left"
+  },
+  "facing=north,active=true,flash=false,arm=4": {
+   "model": "hopelessinfinity:block/crossing_signal_left"
+  },
+  "facing=north,active=true,flash=false,arm=5": {
+   "model": "hopelessinfinity:block/crossing_signal_left"
+  },
+  "facing=north,active=true,flash=false,arm=6": {
+   "model": "hopelessinfinity:block/crossing_signal_left"
+  },
+  "facing=north,active=true,flash=false,arm=7": {
+   "model": "hopelessinfinity:block/crossing_signal_left"
+  },
+  "facing=north,active=true,flash=false,arm=8": {
+   "model": "hopelessinfinity:block/crossing_signal_left"
+  },
+  "facing=north,active=true,flash=true,arm=0": {
+   "model": "hopelessinfinity:block/crossing_signal_right"
+  },
+  "facing=north,active=true,flash=true,arm=1": {
+   "model": "hopelessinfinity:block/crossing_signal_right"
+  },
+  "facing=north,active=true,flash=true,arm=2": {
+   "model": "hopelessinfinity:block/crossing_signal_right"
+  },
+  "facing=north,active=true,flash=true,arm=3": {
+   "model": "hopelessinfinity:block/crossing_signal_right"
+  },
+  "facing=north,active=true,flash=true,arm=4": {
+   "model": "hopelessinfinity:block/crossing_signal_right"
+  },
+  "facing=north,active=true,flash=true,arm=5": {
+   "model": "hopelessinfinity:block/crossing_signal_right"
+  },
+  "facing=north,active=true,flash=true,arm=6": {
+   "model": "hopelessinfinity:block/crossing_signal_right"
+  },
+  "facing=north,active=true,flash=true,arm=7": {
+   "model": "hopelessinfinity:block/crossing_signal_right"
+  },
+  "facing=north,active=true,flash=true,arm=8": {
+   "model": "hopelessinfinity:block/crossing_signal_right"
+  },
+  "facing=east,active=false,flash=false,arm=0": {
+   "model": "hopelessinfinity:block/crossing_signal_arm0",
+   "y": 90
+  },
+  "facing=east,active=false,flash=false,arm=1": {
+   "model": "hopelessinfinity:block/crossing_signal_arm1",
+   "y": 90
+  },
+  "facing=east,active=false,flash=false,arm=2": {
+   "model": "hopelessinfinity:block/crossing_signal_arm2",
+   "y": 90
+  },
+  "facing=east,active=false,flash=false,arm=3": {
+   "model": "hopelessinfinity:block/crossing_signal_arm3",
+   "y": 90
+  },
+  "facing=east,active=false,flash=false,arm=4": {
+   "model": "hopelessinfinity:block/crossing_signal_arm4",
+   "y": 90
+  },
+  "facing=east,active=false,flash=false,arm=5": {
+   "model": "hopelessinfinity:block/crossing_signal_arm5",
+   "y": 90
+  },
+  "facing=east,active=false,flash=false,arm=6": {
+   "model": "hopelessinfinity:block/crossing_signal_arm6",
+   "y": 90
+  },
+  "facing=east,active=false,flash=false,arm=7": {
+   "model": "hopelessinfinity:block/crossing_signal_arm7",
+   "y": 90
+  },
+  "facing=east,active=false,flash=false,arm=8": {
+   "model": "hopelessinfinity:block/crossing_signal_arm8",
+   "y": 90
+  },
+  "facing=east,active=false,flash=true,arm=0": {
+   "model": "hopelessinfinity:block/crossing_signal_arm0",
+   "y": 90
+  },
+  "facing=east,active=false,flash=true,arm=1": {
+   "model": "hopelessinfinity:block/crossing_signal_arm1",
+   "y": 90
+  },
+  "facing=east,active=false,flash=true,arm=2": {
+   "model": "hopelessinfinity:block/crossing_signal_arm2",
+   "y": 90
+  },
+  "facing=east,active=false,flash=true,arm=3": {
+   "model": "hopelessinfinity:block/crossing_signal_arm3",
+   "y": 90
+  },
+  "facing=east,active=false,flash=true,arm=4": {
+   "model": "hopelessinfinity:block/crossing_signal_arm4",
+   "y": 90
+  },
+  "facing=east,active=false,flash=true,arm=5": {
+   "model": "hopelessinfinity:block/crossing_signal_arm5",
+   "y": 90
+  },
+  "facing=east,active=false,flash=true,arm=6": {
+   "model": "hopelessinfinity:block/crossing_signal_arm6",
+   "y": 90
+  },
+  "facing=east,active=false,flash=true,arm=7": {
+   "model": "hopelessinfinity:block/crossing_signal_arm7",
+   "y": 90
+  },
+  "facing=east,active=false,flash=true,arm=8": {
+   "model": "hopelessinfinity:block/crossing_signal_arm8",
+   "y": 90
+  },
+  "facing=east,active=true,flash=false,arm=0": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 90
+  },
+  "facing=east,active=true,flash=false,arm=1": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 90
+  },
+  "facing=east,active=true,flash=false,arm=2": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 90
+  },
+  "facing=east,active=true,flash=false,arm=3": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 90
+  },
+  "facing=east,active=true,flash=false,arm=4": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 90
+  },
+  "facing=east,active=true,flash=false,arm=5": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 90
+  },
+  "facing=east,active=true,flash=false,arm=6": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 90
+  },
+  "facing=east,active=true,flash=false,arm=7": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 90
+  },
+  "facing=east,active=true,flash=false,arm=8": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 90
+  },
+  "facing=east,active=true,flash=true,arm=0": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 90
+  },
+  "facing=east,active=true,flash=true,arm=1": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 90
+  },
+  "facing=east,active=true,flash=true,arm=2": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 90
+  },
+  "facing=east,active=true,flash=true,arm=3": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 90
+  },
+  "facing=east,active=true,flash=true,arm=4": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 90
+  },
+  "facing=east,active=true,flash=true,arm=5": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 90
+  },
+  "facing=east,active=true,flash=true,arm=6": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 90
+  },
+  "facing=east,active=true,flash=true,arm=7": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 90
+  },
+  "facing=east,active=true,flash=true,arm=8": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 90
+  },
+  "facing=south,active=false,flash=false,arm=0": {
+   "model": "hopelessinfinity:block/crossing_signal_arm0",
+   "y": 180
+  },
+  "facing=south,active=false,flash=false,arm=1": {
+   "model": "hopelessinfinity:block/crossing_signal_arm1",
+   "y": 180
+  },
+  "facing=south,active=false,flash=false,arm=2": {
+   "model": "hopelessinfinity:block/crossing_signal_arm2",
+   "y": 180
+  },
+  "facing=south,active=false,flash=false,arm=3": {
+   "model": "hopelessinfinity:block/crossing_signal_arm3",
+   "y": 180
+  },
+  "facing=south,active=false,flash=false,arm=4": {
+   "model": "hopelessinfinity:block/crossing_signal_arm4",
+   "y": 180
+  },
+  "facing=south,active=false,flash=false,arm=5": {
+   "model": "hopelessinfinity:block/crossing_signal_arm5",
+   "y": 180
+  },
+  "facing=south,active=false,flash=false,arm=6": {
+   "model": "hopelessinfinity:block/crossing_signal_arm6",
+   "y": 180
+  },
+  "facing=south,active=false,flash=false,arm=7": {
+   "model": "hopelessinfinity:block/crossing_signal_arm7",
+   "y": 180
+  },
+  "facing=south,active=false,flash=false,arm=8": {
+   "model": "hopelessinfinity:block/crossing_signal_arm8",
+   "y": 180
+  },
+  "facing=south,active=false,flash=true,arm=0": {
+   "model": "hopelessinfinity:block/crossing_signal_arm0",
+   "y": 180
+  },
+  "facing=south,active=false,flash=true,arm=1": {
+   "model": "hopelessinfinity:block/crossing_signal_arm1",
+   "y": 180
+  },
+  "facing=south,active=false,flash=true,arm=2": {
+   "model": "hopelessinfinity:block/crossing_signal_arm2",
+   "y": 180
+  },
+  "facing=south,active=false,flash=true,arm=3": {
+   "model": "hopelessinfinity:block/crossing_signal_arm3",
+   "y": 180
+  },
+  "facing=south,active=false,flash=true,arm=4": {
+   "model": "hopelessinfinity:block/crossing_signal_arm4",
+   "y": 180
+  },
+  "facing=south,active=false,flash=true,arm=5": {
+   "model": "hopelessinfinity:block/crossing_signal_arm5",
+   "y": 180
+  },
+  "facing=south,active=false,flash=true,arm=6": {
+   "model": "hopelessinfinity:block/crossing_signal_arm6",
+   "y": 180
+  },
+  "facing=south,active=false,flash=true,arm=7": {
+   "model": "hopelessinfinity:block/crossing_signal_arm7",
+   "y": 180
+  },
+  "facing=south,active=false,flash=true,arm=8": {
+   "model": "hopelessinfinity:block/crossing_signal_arm8",
+   "y": 180
+  },
+  "facing=south,active=true,flash=false,arm=0": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 180
+  },
+  "facing=south,active=true,flash=false,arm=1": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 180
+  },
+  "facing=south,active=true,flash=false,arm=2": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 180
+  },
+  "facing=south,active=true,flash=false,arm=3": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 180
+  },
+  "facing=south,active=true,flash=false,arm=4": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 180
+  },
+  "facing=south,active=true,flash=false,arm=5": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 180
+  },
+  "facing=south,active=true,flash=false,arm=6": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 180
+  },
+  "facing=south,active=true,flash=false,arm=7": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 180
+  },
+  "facing=south,active=true,flash=false,arm=8": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 180
+  },
+  "facing=south,active=true,flash=true,arm=0": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 180
+  },
+  "facing=south,active=true,flash=true,arm=1": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 180
+  },
+  "facing=south,active=true,flash=true,arm=2": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 180
+  },
+  "facing=south,active=true,flash=true,arm=3": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 180
+  },
+  "facing=south,active=true,flash=true,arm=4": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 180
+  },
+  "facing=south,active=true,flash=true,arm=5": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 180
+  },
+  "facing=south,active=true,flash=true,arm=6": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 180
+  },
+  "facing=south,active=true,flash=true,arm=7": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 180
+  },
+  "facing=south,active=true,flash=true,arm=8": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 180
+  },
+  "facing=west,active=false,flash=false,arm=0": {
+   "model": "hopelessinfinity:block/crossing_signal_arm0",
+   "y": 270
+  },
+  "facing=west,active=false,flash=false,arm=1": {
+   "model": "hopelessinfinity:block/crossing_signal_arm1",
+   "y": 270
+  },
+  "facing=west,active=false,flash=false,arm=2": {
+   "model": "hopelessinfinity:block/crossing_signal_arm2",
+   "y": 270
+  },
+  "facing=west,active=false,flash=false,arm=3": {
+   "model": "hopelessinfinity:block/crossing_signal_arm3",
+   "y": 270
+  },
+  "facing=west,active=false,flash=false,arm=4": {
+   "model": "hopelessinfinity:block/crossing_signal_arm4",
+   "y": 270
+  },
+  "facing=west,active=false,flash=false,arm=5": {
+   "model": "hopelessinfinity:block/crossing_signal_arm5",
+   "y": 270
+  },
+  "facing=west,active=false,flash=false,arm=6": {
+   "model": "hopelessinfinity:block/crossing_signal_arm6",
+   "y": 270
+  },
+  "facing=west,active=false,flash=false,arm=7": {
+   "model": "hopelessinfinity:block/crossing_signal_arm7",
+   "y": 270
+  },
+  "facing=west,active=false,flash=false,arm=8": {
+   "model": "hopelessinfinity:block/crossing_signal_arm8",
+   "y": 270
+  },
+  "facing=west,active=false,flash=true,arm=0": {
+   "model": "hopelessinfinity:block/crossing_signal_arm0",
+   "y": 270
+  },
+  "facing=west,active=false,flash=true,arm=1": {
+   "model": "hopelessinfinity:block/crossing_signal_arm1",
+   "y": 270
+  },
+  "facing=west,active=false,flash=true,arm=2": {
+   "model": "hopelessinfinity:block/crossing_signal_arm2",
+   "y": 270
+  },
+  "facing=west,active=false,flash=true,arm=3": {
+   "model": "hopelessinfinity:block/crossing_signal_arm3",
+   "y": 270
+  },
+  "facing=west,active=false,flash=true,arm=4": {
+   "model": "hopelessinfinity:block/crossing_signal_arm4",
+   "y": 270
+  },
+  "facing=west,active=false,flash=true,arm=5": {
+   "model": "hopelessinfinity:block/crossing_signal_arm5",
+   "y": 270
+  },
+  "facing=west,active=false,flash=true,arm=6": {
+   "model": "hopelessinfinity:block/crossing_signal_arm6",
+   "y": 270
+  },
+  "facing=west,active=false,flash=true,arm=7": {
+   "model": "hopelessinfinity:block/crossing_signal_arm7",
+   "y": 270
+  },
+  "facing=west,active=false,flash=true,arm=8": {
+   "model": "hopelessinfinity:block/crossing_signal_arm8",
+   "y": 270
+  },
+  "facing=west,active=true,flash=false,arm=0": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 270
+  },
+  "facing=west,active=true,flash=false,arm=1": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 270
+  },
+  "facing=west,active=true,flash=false,arm=2": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 270
+  },
+  "facing=west,active=true,flash=false,arm=3": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 270
+  },
+  "facing=west,active=true,flash=false,arm=4": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 270
+  },
+  "facing=west,active=true,flash=false,arm=5": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 270
+  },
+  "facing=west,active=true,flash=false,arm=6": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 270
+  },
+  "facing=west,active=true,flash=false,arm=7": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 270
+  },
+  "facing=west,active=true,flash=false,arm=8": {
+   "model": "hopelessinfinity:block/crossing_signal_left",
+   "y": 270
+  },
+  "facing=west,active=true,flash=true,arm=0": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 270
+  },
+  "facing=west,active=true,flash=true,arm=1": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 270
+  },
+  "facing=west,active=true,flash=true,arm=2": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 270
+  },
+  "facing=west,active=true,flash=true,arm=3": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 270
+  },
+  "facing=west,active=true,flash=true,arm=4": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 270
+  },
+  "facing=west,active=true,flash=true,arm=5": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 270
+  },
+  "facing=west,active=true,flash=true,arm=6": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 270
+  },
+  "facing=west,active=true,flash=true,arm=7": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 270
+  },
+  "facing=west,active=true,flash=true,arm=8": {
+   "model": "hopelessinfinity:block/crossing_signal_right",
+   "y": 270
+  }
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/street/mailbox.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "mailbox_blue": "hopelessinfinity:block/street/mailbox_blue",
+  "mailbox_slot": "hopelessinfinity:block/street/mailbox_slot",
+  "particle": "hopelessinfinity:block/street/mailbox_blue"
+ }
+}

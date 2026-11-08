@@ -1,0 +1,1 @@
+{"parent": "minecraft:block/orientable", "textures": {"front": "hopelessinfinity:block/safe_front", "side": "hopelessinfinity:block/safe_side", "top": "hopelessinfinity:block/safe_top"}}

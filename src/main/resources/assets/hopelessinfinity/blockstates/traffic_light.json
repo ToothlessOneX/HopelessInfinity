@@ -1,0 +1,68 @@
+{
+ "variants": {
+  "facing=north,phase=0": {
+   "model": "hopelessinfinity:block/traffic_light_ag_br",
+   "y": 0
+  },
+  "facing=north,phase=1": {
+   "model": "hopelessinfinity:block/traffic_light_ay_br",
+   "y": 0
+  },
+  "facing=north,phase=2": {
+   "model": "hopelessinfinity:block/traffic_light_ar_bg",
+   "y": 0
+  },
+  "facing=north,phase=3": {
+   "model": "hopelessinfinity:block/traffic_light_ar_by",
+   "y": 0
+  },
+  "facing=east,phase=0": {
+   "model": "hopelessinfinity:block/traffic_light_ar_bg",
+   "y": 90
+  },
+  "facing=east,phase=1": {
+   "model": "hopelessinfinity:block/traffic_light_ar_by",
+   "y": 90
+  },
+  "facing=east,phase=2": {
+   "model": "hopelessinfinity:block/traffic_light_ag_br",
+   "y": 90
+  },
+  "facing=east,phase=3": {
+   "model": "hopelessinfinity:block/traffic_light_ay_br",
+   "y": 90
+  },
+  "facing=south,phase=0": {
+   "model": "hopelessinfinity:block/traffic_light_ag_br",
+   "y": 180
+  },
+  "facing=south,phase=1": {
+   "model": "hopelessinfinity:block/traffic_light_ay_br",
+   "y": 180
+  },
+  "facing=south,phase=2": {
+   "model": "hopelessinfinity:block/traffic_light_ar_bg",
+   "y": 180
+  },
+  "facing=south,phase=3": {
+   "model": "hopelessinfinity:block/traffic_light_ar_by",
+   "y": 180
+  },
+  "facing=west,phase=0": {
+   "model": "hopelessinfinity:block/traffic_light_ar_bg",
+   "y": 270
+  },
+  "facing=west,phase=1": {
+   "model": "hopelessinfinity:block/traffic_light_ar_by",
+   "y": 270
+  },
+  "facing=west,phase=2": {
+   "model": "hopelessinfinity:block/traffic_light_ag_br",
+   "y": 270
+  },
+  "facing=west,phase=3": {
+   "model": "hopelessinfinity:block/traffic_light_ay_br",
+   "y": 270
+  }
+ }
+}

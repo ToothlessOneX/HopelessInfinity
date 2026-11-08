@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PPP",
+  "PGB",
+  "PPP"
+ ],
+ "key": {
+  "P": {
+   "item": "minecraft:black_concrete"
+  },
+  "G": {
+   "item": "minecraft:glass_pane"
+  },
+  "B": {
+   "item": "hopelessinfinity:circuit_board"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:television",
+  "count": 1
+ }
+}

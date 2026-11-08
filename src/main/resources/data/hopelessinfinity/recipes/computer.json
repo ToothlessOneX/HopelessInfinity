@@ -1,0 +1,26 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PGP",
+  "PBP",
+  " S "
+ ],
+ "key": {
+  "P": {
+   "item": "hopelessinfinity:iron_plate"
+  },
+  "G": {
+   "item": "minecraft:glass_pane"
+  },
+  "B": {
+   "item": "hopelessinfinity:circuit_board"
+  },
+  "S": {
+   "item": "minecraft:stone_slab"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:computer",
+  "count": 1
+ }
+}

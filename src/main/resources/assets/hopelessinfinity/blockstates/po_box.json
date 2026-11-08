@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/po_box"
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/po_box",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/po_box",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/po_box",
+   "y": 270
+  }
+ }
+}

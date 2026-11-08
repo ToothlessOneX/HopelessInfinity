@@ -1,0 +1,168 @@
+{
+ "textures": {
+  "f": "hopelessinfinity:block/own/fabric",
+  "particle": "hopelessinfinity:block/own/fabric"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    0,
+    1
+   ],
+   "to": [
+    16,
+    4,
+    16
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f"
+    },
+    "south": {
+     "texture": "#f"
+    },
+    "east": {
+     "texture": "#f"
+    },
+    "west": {
+     "texture": "#f"
+    },
+    "up": {
+     "texture": "#f"
+    },
+    "down": {
+     "texture": "#f"
+    }
+   }
+  },
+  {
+   "from": [
+    2,
+    4,
+    1
+   ],
+   "to": [
+    14,
+    7,
+    13
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f"
+    },
+    "south": {
+     "texture": "#f"
+    },
+    "east": {
+     "texture": "#f"
+    },
+    "west": {
+     "texture": "#f"
+    },
+    "up": {
+     "texture": "#f"
+    },
+    "down": {
+     "texture": "#f"
+    }
+   }
+  },
+  {
+   "from": [
+    0,
+    4,
+    13
+   ],
+   "to": [
+    16,
+    14,
+    16
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f"
+    },
+    "south": {
+     "texture": "#f"
+    },
+    "east": {
+     "texture": "#f"
+    },
+    "west": {
+     "texture": "#f"
+    },
+    "up": {
+     "texture": "#f"
+    },
+    "down": {
+     "texture": "#f"
+    }
+   }
+  },
+  {
+   "from": [
+    0,
+    4,
+    1
+   ],
+   "to": [
+    2,
+    10,
+    13
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f"
+    },
+    "south": {
+     "texture": "#f"
+    },
+    "east": {
+     "texture": "#f"
+    },
+    "west": {
+     "texture": "#f"
+    },
+    "up": {
+     "texture": "#f"
+    },
+    "down": {
+     "texture": "#f"
+    }
+   }
+  },
+  {
+   "from": [
+    14,
+    4,
+    1
+   ],
+   "to": [
+    16,
+    10,
+    13
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f"
+    },
+    "south": {
+     "texture": "#f"
+    },
+    "east": {
+     "texture": "#f"
+    },
+    "west": {
+     "texture": "#f"
+    },
+    "up": {
+     "texture": "#f"
+    },
+    "down": {
+     "texture": "#f"
+    }
+   }
+  }
+ ]
+}

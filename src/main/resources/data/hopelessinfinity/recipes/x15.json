@@ -1,0 +1,29 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "misc",
+ "pattern": [
+  "IGI",
+  "WEW",
+  "IRI"
+ ],
+ "key": {
+  "I": {
+   "item": "minecraft:iron_block"
+  },
+  "G": {
+   "item": "minecraft:glass"
+  },
+  "W": {
+   "item": "minecraft:iron_ingot"
+  },
+  "E": {
+   "item": "minecraft:blast_furnace"
+  },
+  "R": {
+   "item": "minecraft:redstone_block"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:x15"
+ }
+}

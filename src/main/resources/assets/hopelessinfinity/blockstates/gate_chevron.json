@@ -1,0 +1,10 @@
+{
+ "variants": {
+  "lit=false": {
+   "model": "hopelessinfinity:block/gate_chevron_off"
+  },
+  "lit=true": {
+   "model": "hopelessinfinity:block/gate_chevron_on"
+  }
+ }
+}

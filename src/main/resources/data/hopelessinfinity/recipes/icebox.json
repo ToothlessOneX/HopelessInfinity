@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PPP",
+  "PIP",
+  "PPP"
+ ],
+ "key": {
+  "P": {
+   "tag": "minecraft:planks"
+  },
+  "I": {
+   "item": "minecraft:ice"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:icebox",
+  "count": 1
+ }
+}

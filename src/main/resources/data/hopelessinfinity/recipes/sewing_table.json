@@ -1,0 +1,22 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "SL",
+  "PP"
+ ],
+ "key": {
+  "S": {
+   "item": "minecraft:string"
+  },
+  "L": {
+   "item": "minecraft:loom"
+  },
+  "P": {
+   "tag": "minecraft:planks"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:sewing_table",
+  "count": 1
+ }
+}

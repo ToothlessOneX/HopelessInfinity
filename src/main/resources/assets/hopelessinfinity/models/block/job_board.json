@@ -1,0 +1,47 @@
+{
+ "textures": {
+  "f": "hopelessinfinity:block/own/job_board",
+  "s": "hopelessinfinity:block/own/job_board_side",
+  "particle": "hopelessinfinity:block/own/job_board"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    0,
+    14
+   ],
+   "to": [
+    16,
+    16,
+    16
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#s"
+    },
+    "east": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#s"
+    },
+    "down": {
+     "texture": "#s"
+    }
+   }
+  }
+ ]
+}

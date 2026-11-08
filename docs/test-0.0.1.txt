@@ -1,0 +1,36 @@
+sectors 90000  systems 639,041  (0.4 s, 0.63 us per system)
+PASS class O fraction (LeDrew 2001)                             got 0.00000% want 0.00003%  (0 stars)
+PASS class B fraction (LeDrew 2001)                             got 0.13207% want 0.13009%  (844 stars)
+PASS class A fraction (LeDrew 2001)                             got 0.59104% want 0.60042%  (3777 stars)
+PASS class F fraction (LeDrew 2001)                             got 3.02719% want 3.00210%  (19345 stars)
+PASS class G fraction (LeDrew 2001)                             got 7.58871% want 7.60532%  (48495 stars)
+PASS class K fraction (LeDrew 2001)                             got 12.11237% want 12.10848%  (77403 stars)
+PASS class M fraction (LeDrew 2001)                             got 76.54861% want 76.55359%  (489177 stars)
+PASS same seed gives the same sector and systems                1 systems
+PASS Sun HZ (Kopparapu 2013: 0.99-1.70 AU conservative)         0.993-1.707 AU
+PASS Earth radius from Chen-Kipping (1.008 Re)                  1.0080
+PASS Jupiter-mass radius (Chen-Kipping median about 1 Rj = 11.2 Re) 13.77 Re
+sampled systems 106,540  planets 487,043  mean 4.57 per star  count histogram [0, 17214, 13364, 13766, 13985, 13507, 10921, 7960, 5223, 3522, 2278, 1649]
+kinds rocky 203303 ice giant 281155 gas giant 2585 | rocky climates [HOT, WARM_EDGE, TEMPERATE, COLD_EDGE, FROZEN] [96425, 18952, 44114, 2617, 41195]
+PASS mean planets per star >= 1.6 (Cassan 2012, 0.5-10 AU alone) 4.57
+PASS outer neighbour larger in about 65% (Weiss 2018)           66.2% of 380,503 pairs
+PASS no neighbours closer than 10 mutual Hill radii (Weiss 2018) min 10.00
+PASS rocky surface gravity inside Chen-Kipping Terran range     2.57-13.23 m/s2
+systems with a temperate rocky planet 32.51%  (G stars: 16.53% of 8142)
+PASS spawn: a G star with a temperate rocky planet near R0      HIN -005-084-0
+HIN -005-084-0  G4V  0.965 Msun  5601 K  L 0.8084  at (-495, -8380, 59) pc  HZ 0.899-1.557 AU  snow 2.43 AU
+   0    0.051 AU      1.37 Me    1.10 Re  g 11.11 m/s2  S  308.559  Teq  1066 K  ROCKY     HOT        r=1128 blocks
+   1    0.074 AU      2.31 Me    1.32 Re  g 12.94 m/s2  S  146.351  Teq   884 K  ICE_GIANT HOT        r=1354 blocks
+   2    0.093 AU      3.89 Me    1.80 Re  g 11.79 m/s2  S   94.153  Teq   792 K  ICE_GIANT HOT        r=1841 blocks
+   3    0.139 AU      4.64 Me    2.00 Re  g 11.43 m/s2  S   41.659  Teq   646 K  ICE_GIANT HOT        r=2043 blocks
+   4    0.253 AU      6.82 Me    2.50 Re  g 10.67 m/s2  S   12.590  Teq   479 K  ICE_GIANT HOT        r=2563 blocks
+   5    0.446 AU      3.10 Me    1.57 Re  g 12.28 m/s2  S    4.070  Teq   361 K  ICE_GIANT HOT        r=1610 blocks
+   6    0.613 AU      1.08 Me    1.03 Re  g  9.98 m/s2  S    2.151  Teq   308 K  ROCKY     HOT        r=1054 blocks
+   7    0.935 AU      1.34 Me    1.09 Re  g 10.99 m/s2  S    0.925  Teq   249 K  ROCKY     TEMPERATE  r=1120 blocks
+   8    1.371 AU      1.41 Me    1.11 Re  g 11.24 m/s2  S    0.430  Teq   206 K  ROCKY     TEMPERATE  r=1136 blocks
+   9    2.484 AU      4.29 Me    1.90 Re  g 11.59 m/s2  S    0.131  Teq   153 K  ICE_GIANT FROZEN     r=1951 blocks
+   10    4.344 AU     20.49 Me    4.79 Re  g  8.77 m/s2  S    0.043  Teq   116 K  ICE_GIANT FROZEN     r=4901 blocks
+   11   10.051 AU     44.27 Me    7.53 Re  g  7.65 m/s2  S    0.008  Teq    76 K  ICE_GIANT FROZEN     r=7715 blocks
+   12   17.389 AU     57.87 Me    8.82 Re  g  7.29 m/s2  S    0.003  Teq    58 K  ICE_GIANT FROZEN     r=9034 blocks
+spawn planet 7: g 10.99 m/s2 (1.12 g), radius 1120 blocks, cube face 1759 blocks, distance from the Sun's place 527 pc
+16 passed, 0 failed

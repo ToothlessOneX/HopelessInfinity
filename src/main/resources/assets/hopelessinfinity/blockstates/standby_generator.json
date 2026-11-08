@@ -1,0 +1,34 @@
+{
+ "variants": {
+  "facing=north,lit=false": {
+   "model": "hopelessinfinity:block/standby_generator"
+  },
+  "facing=north,lit=true": {
+   "model": "hopelessinfinity:block/standby_generator"
+  },
+  "facing=east,lit=false": {
+   "model": "hopelessinfinity:block/standby_generator",
+   "y": 90
+  },
+  "facing=east,lit=true": {
+   "model": "hopelessinfinity:block/standby_generator",
+   "y": 90
+  },
+  "facing=south,lit=false": {
+   "model": "hopelessinfinity:block/standby_generator",
+   "y": 180
+  },
+  "facing=south,lit=true": {
+   "model": "hopelessinfinity:block/standby_generator",
+   "y": 180
+  },
+  "facing=west,lit=false": {
+   "model": "hopelessinfinity:block/standby_generator",
+   "y": 270
+  },
+  "facing=west,lit=true": {
+   "model": "hopelessinfinity:block/standby_generator",
+   "y": 270
+  }
+ }
+}

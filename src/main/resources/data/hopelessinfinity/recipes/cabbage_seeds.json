@@ -1,0 +1,12 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "hopelessinfinity:cabbage"
+  }
+ ],
+ "result": {
+  "item": "hopelessinfinity:cabbage_seeds",
+  "count": 2
+ }
+}

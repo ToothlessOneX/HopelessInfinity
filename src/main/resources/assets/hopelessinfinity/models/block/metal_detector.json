@@ -1,0 +1,13 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/city/metal_detector.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "beige": "hopelessinfinity:block/city/beige",
+  "lens_off": "hopelessinfinity:block/city/lens_off",
+  "particle": "hopelessinfinity:block/city/beige"
+ }
+}

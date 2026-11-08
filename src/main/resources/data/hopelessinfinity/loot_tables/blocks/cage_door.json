@@ -1,0 +1,1 @@
+{"type": "minecraft:block", "pools": [{"rolls": 1, "entries": [{"type": "minecraft:item", "name": "minecraft:iron_door"}], "conditions": [{"condition": "minecraft:block_state_property", "block": "hopelessinfinity:cage_door", "properties": {"half": "lower"}}]}]}

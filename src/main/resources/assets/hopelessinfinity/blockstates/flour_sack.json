@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/flour_sack"
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/flour_sack",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/flour_sack",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/flour_sack",
+   "y": 270
+  }
+ }
+}

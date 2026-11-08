@@ -1,0 +1,8 @@
+{
+ "parent": "minecraft:block/slab_top",
+ "textures": {
+  "bottom": "hopelessinfinity:block/street/plaza_paver",
+  "top": "hopelessinfinity:block/street/plaza_paver",
+  "side": "hopelessinfinity:block/street/plaza_paver"
+ }
+}

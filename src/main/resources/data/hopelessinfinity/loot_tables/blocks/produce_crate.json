@@ -1,0 +1,167 @@
+{
+ "type": "minecraft:block",
+ "pools": [
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "hopelessinfinity:cabbage",
+     "functions": [
+      {
+       "function": "minecraft:set_count",
+       "count": 9
+      }
+     ]
+    }
+   ],
+   "conditions": [
+    {
+     "condition": "minecraft:survives_explosion"
+    },
+    {
+     "condition": "minecraft:block_state_property",
+     "block": "hopelessinfinity:produce_crate",
+     "properties": {
+      "crop": "cabbage"
+     }
+    }
+   ]
+  },
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "hopelessinfinity:tomato",
+     "functions": [
+      {
+       "function": "minecraft:set_count",
+       "count": 9
+      }
+     ]
+    }
+   ],
+   "conditions": [
+    {
+     "condition": "minecraft:survives_explosion"
+    },
+    {
+     "condition": "minecraft:block_state_property",
+     "block": "hopelessinfinity:produce_crate",
+     "properties": {
+      "crop": "tomato"
+     }
+    }
+   ]
+  },
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "hopelessinfinity:onion",
+     "functions": [
+      {
+       "function": "minecraft:set_count",
+       "count": 9
+      }
+     ]
+    }
+   ],
+   "conditions": [
+    {
+     "condition": "minecraft:survives_explosion"
+    },
+    {
+     "condition": "minecraft:block_state_property",
+     "block": "hopelessinfinity:produce_crate",
+     "properties": {
+      "crop": "onion"
+     }
+    }
+   ]
+  },
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:carrot",
+     "functions": [
+      {
+       "function": "minecraft:set_count",
+       "count": 9
+      }
+     ]
+    }
+   ],
+   "conditions": [
+    {
+     "condition": "minecraft:survives_explosion"
+    },
+    {
+     "condition": "minecraft:block_state_property",
+     "block": "hopelessinfinity:produce_crate",
+     "properties": {
+      "crop": "carrot"
+     }
+    }
+   ]
+  },
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:potato",
+     "functions": [
+      {
+       "function": "minecraft:set_count",
+       "count": 9
+      }
+     ]
+    }
+   ],
+   "conditions": [
+    {
+     "condition": "minecraft:survives_explosion"
+    },
+    {
+     "condition": "minecraft:block_state_property",
+     "block": "hopelessinfinity:produce_crate",
+     "properties": {
+      "crop": "potato"
+     }
+    }
+   ]
+  },
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:beetroot",
+     "functions": [
+      {
+       "function": "minecraft:set_count",
+       "count": 9
+      }
+     ]
+    }
+   ],
+   "conditions": [
+    {
+     "condition": "minecraft:survives_explosion"
+    },
+    {
+     "condition": "minecraft:block_state_property",
+     "block": "hopelessinfinity:produce_crate",
+     "properties": {
+      "crop": "beetroot"
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "III",
+  " I ",
+  "III"
+ ],
+ "key": {
+  "I": {
+   "item": "minecraft:iron_ingot"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:steel_beam",
+  "count": 4
+ }
+}

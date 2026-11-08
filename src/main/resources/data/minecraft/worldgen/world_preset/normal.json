@@ -1,0 +1,182 @@
+{
+  "dimensions": {
+    "minecraft:overworld": {
+      "type": "hopelessinfinity:planet",
+      "generator": {
+        "type": "hopelessinfinity:planet",
+        "face": 0,
+        "biome_source": {
+          "type": "hopelessinfinity:planet",
+          "face": 0
+        }
+      }
+    },
+    "hopelessinfinity:face_1": {
+      "type": "hopelessinfinity:planet",
+      "generator": {
+        "type": "hopelessinfinity:planet",
+        "face": 1,
+        "biome_source": {
+          "type": "hopelessinfinity:planet",
+          "face": 1
+        }
+      }
+    },
+    "hopelessinfinity:face_2": {
+      "type": "hopelessinfinity:planet",
+      "generator": {
+        "type": "hopelessinfinity:planet",
+        "face": 2,
+        "biome_source": {
+          "type": "hopelessinfinity:planet",
+          "face": 2
+        }
+      }
+    },
+    "hopelessinfinity:face_3": {
+      "type": "hopelessinfinity:planet",
+      "generator": {
+        "type": "hopelessinfinity:planet",
+        "face": 3,
+        "biome_source": {
+          "type": "hopelessinfinity:planet",
+          "face": 3
+        }
+      }
+    },
+    "hopelessinfinity:face_4": {
+      "type": "hopelessinfinity:planet",
+      "generator": {
+        "type": "hopelessinfinity:planet",
+        "face": 4,
+        "biome_source": {
+          "type": "hopelessinfinity:planet",
+          "face": 4
+        }
+      }
+    },
+    "hopelessinfinity:face_5": {
+      "type": "hopelessinfinity:planet",
+      "generator": {
+        "type": "hopelessinfinity:planet",
+        "face": 5,
+        "biome_source": {
+          "type": "hopelessinfinity:planet",
+          "face": 5
+        }
+      }
+    },
+    "minecraft:the_nether": {
+      "type": "minecraft:the_nether",
+      "generator": {
+        "type": "minecraft:noise",
+        "settings": "minecraft:nether",
+        "biome_source": {
+          "type": "minecraft:multi_noise",
+          "preset": "minecraft:nether"
+        }
+      }
+    },
+    "minecraft:the_end": {
+      "type": "minecraft:the_end",
+      "generator": {
+        "type": "minecraft:noise",
+        "settings": "minecraft:end",
+        "biome_source": {
+          "type": "minecraft:the_end"
+        }
+      }
+    },
+    "hopelessinfinity:space": {
+      "type": "hopelessinfinity:space",
+      "generator": {
+        "type": "minecraft:flat",
+        "settings": {
+          "layers": [],
+          "biome": "minecraft:the_void",
+          "lakes": false,
+          "features": false,
+          "structure_overrides": []
+        }
+      }
+    },
+    "hopelessinfinity:moon_0": {
+      "type": "hopelessinfinity:moon",
+      "generator": {
+        "type": "hopelessinfinity:planet",
+        "face": 0,
+        "body": 1,
+        "biome_source": {
+          "type": "hopelessinfinity:planet",
+          "face": 0,
+          "body": 1
+        }
+      }
+    },
+    "hopelessinfinity:moon_1": {
+      "type": "hopelessinfinity:moon",
+      "generator": {
+        "type": "hopelessinfinity:planet",
+        "face": 1,
+        "body": 1,
+        "biome_source": {
+          "type": "hopelessinfinity:planet",
+          "face": 1,
+          "body": 1
+        }
+      }
+    },
+    "hopelessinfinity:moon_2": {
+      "type": "hopelessinfinity:moon",
+      "generator": {
+        "type": "hopelessinfinity:planet",
+        "face": 2,
+        "body": 1,
+        "biome_source": {
+          "type": "hopelessinfinity:planet",
+          "face": 2,
+          "body": 1
+        }
+      }
+    },
+    "hopelessinfinity:moon_3": {
+      "type": "hopelessinfinity:moon",
+      "generator": {
+        "type": "hopelessinfinity:planet",
+        "face": 3,
+        "body": 1,
+        "biome_source": {
+          "type": "hopelessinfinity:planet",
+          "face": 3,
+          "body": 1
+        }
+      }
+    },
+    "hopelessinfinity:moon_4": {
+      "type": "hopelessinfinity:moon",
+      "generator": {
+        "type": "hopelessinfinity:planet",
+        "face": 4,
+        "body": 1,
+        "biome_source": {
+          "type": "hopelessinfinity:planet",
+          "face": 4,
+          "body": 1
+        }
+      }
+    },
+    "hopelessinfinity:moon_5": {
+      "type": "hopelessinfinity:moon",
+      "generator": {
+        "type": "hopelessinfinity:planet",
+        "face": 5,
+        "body": 1,
+        "biome_source": {
+          "type": "hopelessinfinity:planet",
+          "face": 5,
+          "body": 1
+        }
+      }
+    }
+  }
+}

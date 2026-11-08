@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/fire_department_connection"
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/fire_department_connection",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/fire_department_connection",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/fire_department_connection",
+   "y": 270
+  }
+ }
+}

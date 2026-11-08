@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/speed_limit_25"
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/speed_limit_25",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/speed_limit_25",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/speed_limit_25",
+   "y": 270
+  }
+ }
+}

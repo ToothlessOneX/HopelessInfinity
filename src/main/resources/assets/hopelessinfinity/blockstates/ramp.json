@@ -1,0 +1,49 @@
+{
+ "variants": {
+  "height=1": {
+   "model": "hopelessinfinity:block/ramp_1"
+  },
+  "height=2": {
+   "model": "hopelessinfinity:block/ramp_2"
+  },
+  "height=3": {
+   "model": "hopelessinfinity:block/ramp_3"
+  },
+  "height=4": {
+   "model": "hopelessinfinity:block/ramp_4"
+  },
+  "height=5": {
+   "model": "hopelessinfinity:block/ramp_5"
+  },
+  "height=6": {
+   "model": "hopelessinfinity:block/ramp_6"
+  },
+  "height=7": {
+   "model": "hopelessinfinity:block/ramp_7"
+  },
+  "height=8": {
+   "model": "hopelessinfinity:block/ramp_8"
+  },
+  "height=9": {
+   "model": "hopelessinfinity:block/ramp_9"
+  },
+  "height=10": {
+   "model": "hopelessinfinity:block/ramp_10"
+  },
+  "height=11": {
+   "model": "hopelessinfinity:block/ramp_11"
+  },
+  "height=12": {
+   "model": "hopelessinfinity:block/ramp_12"
+  },
+  "height=13": {
+   "model": "hopelessinfinity:block/ramp_13"
+  },
+  "height=14": {
+   "model": "hopelessinfinity:block/ramp_14"
+  },
+  "height=15": {
+   "model": "hopelessinfinity:block/ramp_15"
+  }
+ }
+}

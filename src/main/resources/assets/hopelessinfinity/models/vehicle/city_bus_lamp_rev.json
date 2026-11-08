@@ -1,0 +1,12 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/vehicle/city_bus_lamp_rev.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "lamp_rev": "hopelessinfinity:block/vehicle/lamp_rev",
+  "particle": "hopelessinfinity:block/vehicle/lamp_rev"
+ }
+}

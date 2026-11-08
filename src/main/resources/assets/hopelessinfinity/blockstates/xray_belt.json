@@ -1,0 +1,34 @@
+{
+ "variants": {
+  "facing=north,hood=false": {
+   "model": "hopelessinfinity:block/xray_belt"
+  },
+  "facing=north,hood=true": {
+   "model": "hopelessinfinity:block/xray_belt_hood"
+  },
+  "facing=east,hood=false": {
+   "model": "hopelessinfinity:block/xray_belt",
+   "y": 90
+  },
+  "facing=east,hood=true": {
+   "model": "hopelessinfinity:block/xray_belt_hood",
+   "y": 90
+  },
+  "facing=south,hood=false": {
+   "model": "hopelessinfinity:block/xray_belt",
+   "y": 180
+  },
+  "facing=south,hood=true": {
+   "model": "hopelessinfinity:block/xray_belt_hood",
+   "y": 180
+  },
+  "facing=west,hood=false": {
+   "model": "hopelessinfinity:block/xray_belt",
+   "y": 270
+  },
+  "facing=west,hood=true": {
+   "model": "hopelessinfinity:block/xray_belt_hood",
+   "y": 270
+  }
+ }
+}

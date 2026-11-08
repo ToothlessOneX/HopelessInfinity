@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "  I",
+  " I ",
+  "R  "
+ ],
+ "key": {
+  "I": {
+   "item": "minecraft:iron_ingot"
+  },
+  "R": {
+   "item": "minecraft:red_dye"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:screwdriver",
+  "count": 1
+ }
+}

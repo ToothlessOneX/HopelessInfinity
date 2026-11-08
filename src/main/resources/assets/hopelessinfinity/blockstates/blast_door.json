@@ -1,0 +1,10 @@
+{
+ "variants": {
+  "open=false": {
+   "model": "hopelessinfinity:block/blast_door"
+  },
+  "open=true": {
+   "model": "hopelessinfinity:block/blast_door"
+  }
+ }
+}

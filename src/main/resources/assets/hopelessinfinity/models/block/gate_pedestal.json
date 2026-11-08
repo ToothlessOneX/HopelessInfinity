@@ -1,0 +1,96 @@
+{
+ "parent": "minecraft:block/block",
+ "textures": {
+  "particle": "hopelessinfinity:block/gate_pedestal_side",
+  "top": "hopelessinfinity:block/gate_pedestal_top",
+  "side": "hopelessinfinity:block/gate_pedestal_side",
+  "bottom": "hopelessinfinity:block/gate_pedestal_bottom"
+ },
+ "elements": [
+  {
+   "from": [
+    3,
+    0,
+    3
+   ],
+   "to": [
+    13,
+    10,
+    13
+   ],
+   "faces": {
+    "north": {
+     "texture": "#side"
+    },
+    "south": {
+     "texture": "#side"
+    },
+    "east": {
+     "texture": "#side"
+    },
+    "west": {
+     "texture": "#side"
+    },
+    "down": {
+     "texture": "#bottom"
+    }
+   }
+  },
+  {
+   "from": [
+    1,
+    10,
+    1
+   ],
+   "to": [
+    15,
+    14,
+    15
+   ],
+   "faces": {
+    "north": {
+     "texture": "#side",
+     "uv": [
+      1,
+      6,
+      15,
+      10
+     ]
+    },
+    "south": {
+     "texture": "#side",
+     "uv": [
+      1,
+      6,
+      15,
+      10
+     ]
+    },
+    "east": {
+     "texture": "#side",
+     "uv": [
+      1,
+      6,
+      15,
+      10
+     ]
+    },
+    "west": {
+     "texture": "#side",
+     "uv": [
+      1,
+      6,
+      15,
+      10
+     ]
+    },
+    "up": {
+     "texture": "#top"
+    },
+    "down": {
+     "texture": "#bottom"
+    }
+   }
+  }
+ ]
+}

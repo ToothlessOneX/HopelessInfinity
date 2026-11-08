@@ -1,0 +1,13 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/vehicle/tow_lift_down.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "chrome": "hopelessinfinity:block/vehicle/chrome",
+  "steel_dark": "hopelessinfinity:block/vehicle/steel_dark",
+  "particle": "hopelessinfinity:block/vehicle/chrome"
+ }
+}

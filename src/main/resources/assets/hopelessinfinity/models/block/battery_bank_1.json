@@ -1,0 +1,47 @@
+{
+ "textures": {
+  "f": "hopelessinfinity:block/own/battery_front_1",
+  "s": "hopelessinfinity:block/own/battery_side",
+  "particle": "hopelessinfinity:block/own/battery_front_1"
+ },
+ "elements": [
+  {
+   "from": [
+    1,
+    0,
+    2
+   ],
+   "to": [
+    15,
+    16,
+    14
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#s"
+    },
+    "east": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#s"
+    },
+    "down": {
+     "texture": "#s"
+    }
+   }
+  }
+ ]
+}

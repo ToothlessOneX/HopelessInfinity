@@ -1,0 +1,73 @@
+{
+ "textures": {
+  "a": "hopelessinfinity:block/city/gate_arm",
+  "r": "hopelessinfinity:block/city/lens_on",
+  "particle": "hopelessinfinity:block/city/gate_arm"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    18,
+    7
+   ],
+   "to": [
+    16,
+    22,
+    9
+   ],
+   "faces": {
+    "north": {
+     "texture": "#a"
+    },
+    "south": {
+     "texture": "#a"
+    },
+    "east": {
+     "texture": "#a"
+    },
+    "west": {
+     "texture": "#a"
+    },
+    "up": {
+     "texture": "#a"
+    },
+    "down": {
+     "texture": "#a"
+    }
+   }
+  },
+  {
+   "from": [
+    7.5,
+    22,
+    7
+   ],
+   "to": [
+    8.5,
+    23,
+    9
+   ],
+   "faces": {
+    "north": {
+     "texture": "#r"
+    },
+    "south": {
+     "texture": "#r"
+    },
+    "east": {
+     "texture": "#r"
+    },
+    "west": {
+     "texture": "#r"
+    },
+    "up": {
+     "texture": "#r"
+    },
+    "down": {
+     "texture": "#r"
+    }
+   }
+  }
+ ]
+}

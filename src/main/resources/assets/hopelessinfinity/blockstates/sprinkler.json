@@ -1,0 +1,10 @@
+{
+ "variants": {
+  "wet=false": {
+   "model": "hopelessinfinity:block/sprinkler"
+  },
+  "wet=true": {
+   "model": "hopelessinfinity:block/sprinkler_wet"
+  }
+ }
+}

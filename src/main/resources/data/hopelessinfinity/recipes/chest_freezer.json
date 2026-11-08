@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PPP",
+  "PCP",
+  "PIP"
+ ],
+ "key": {
+  "P": {
+   "item": "hopelessinfinity:iron_plate"
+  },
+  "C": {
+   "item": "minecraft:chest"
+  },
+  "I": {
+   "item": "minecraft:ice"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:chest_freezer",
+  "count": 1
+ }
+}

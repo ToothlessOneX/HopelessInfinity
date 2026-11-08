@@ -1,0 +1,19 @@
+{
+ "display": {
+  "icon": {
+   "item": "hopelessinfinity:millstone"
+  },
+  "title": "Piece Work",
+  "description": "Fill an order with goods from the machines",
+  "frame": "task",
+  "show_toast": true,
+  "announce_to_chat": true,
+  "hidden": false
+ },
+ "criteria": {
+  "done": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "hopelessinfinity:city/paycheck"
+}

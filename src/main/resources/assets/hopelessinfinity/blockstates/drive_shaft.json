@@ -1,0 +1,16 @@
+{
+ "variants": {
+  "axis=y": {
+   "model": "hopelessinfinity:block/drive_shaft"
+  },
+  "axis=z": {
+   "model": "hopelessinfinity:block/drive_shaft",
+   "x": 90
+  },
+  "axis=x": {
+   "model": "hopelessinfinity:block/drive_shaft",
+   "y": 90,
+   "x": 90
+  }
+ }
+}

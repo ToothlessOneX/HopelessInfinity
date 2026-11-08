@@ -1,0 +1,107 @@
+{
+ "textures": {
+  "s": "hopelessinfinity:block/own/motor_side",
+  "e": "hopelessinfinity:block/own/motor_end",
+  "h": "hopelessinfinity:block/own/shaft",
+  "f": "hopelessinfinity:block/city/steel_dark",
+  "particle": "hopelessinfinity:block/own/motor_side"
+ },
+ "elements": [
+  {
+   "from": [
+    2,
+    2,
+    3
+   ],
+   "to": [
+    14,
+    14,
+    16
+   ],
+   "faces": {
+    "north": {
+     "texture": "#e"
+    },
+    "south": {
+     "texture": "#e"
+    },
+    "east": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#s"
+    },
+    "down": {
+     "texture": "#s"
+    }
+   }
+  },
+  {
+   "from": [
+    6,
+    6,
+    0
+   ],
+   "to": [
+    10,
+    10,
+    3
+   ],
+   "faces": {
+    "north": {
+     "texture": "#h"
+    },
+    "south": {
+     "texture": "#h"
+    },
+    "east": {
+     "texture": "#h"
+    },
+    "west": {
+     "texture": "#h"
+    },
+    "up": {
+     "texture": "#h"
+    },
+    "down": {
+     "texture": "#h"
+    }
+   }
+  },
+  {
+   "from": [
+    1,
+    0,
+    4
+   ],
+   "to": [
+    15,
+    2,
+    15
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f"
+    },
+    "south": {
+     "texture": "#f"
+    },
+    "east": {
+     "texture": "#f"
+    },
+    "west": {
+     "texture": "#f"
+    },
+    "up": {
+     "texture": "#f"
+    },
+    "down": {
+     "texture": "#f"
+    }
+   }
+  }
+ ]
+}

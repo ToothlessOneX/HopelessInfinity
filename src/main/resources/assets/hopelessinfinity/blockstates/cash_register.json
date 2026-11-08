@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/cash_register"
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/cash_register",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/cash_register",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/cash_register",
+   "y": 270
+  }
+ }
+}

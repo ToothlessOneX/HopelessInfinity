@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PSP",
+  "LLL",
+  "P P"
+ ],
+ "key": {
+  "P": {
+   "item": "hopelessinfinity:iron_plate"
+  },
+  "S": {
+   "item": "hopelessinfinity:drive_shaft"
+  },
+  "L": {
+   "item": "minecraft:lead"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:mine_winch",
+  "count": 1
+ }
+}

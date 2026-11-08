@@ -1,0 +1,20 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/dumpster",
+   "y": 0
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/dumpster",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/dumpster",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/dumpster",
+   "y": 270
+  }
+ }
+}

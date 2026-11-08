@@ -1,0 +1,14 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/street/swings.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "play_blue": "hopelessinfinity:block/street/play_blue",
+  "rack_steel": "hopelessinfinity:block/street/rack_steel",
+  "car_tire": "hopelessinfinity:block/street/car_tire",
+  "particle": "hopelessinfinity:block/street/play_blue"
+ }
+}

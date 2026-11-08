@@ -1,0 +1,13 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/street/bus_stop.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "pole_gray": "hopelessinfinity:block/street/pole_gray",
+  "bus_sign": "hopelessinfinity:block/street/bus_sign",
+  "particle": "hopelessinfinity:block/street/pole_gray"
+ }
+}

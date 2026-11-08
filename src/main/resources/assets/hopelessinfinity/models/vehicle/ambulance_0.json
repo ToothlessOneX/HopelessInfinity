@@ -1,0 +1,23 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/vehicle/ambulance.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "ambulance_front": "hopelessinfinity:block/vehicle/ambulance_front",
+  "ambulance_side": "hopelessinfinity:block/vehicle/ambulance_side",
+  "cargo_white": "hopelessinfinity:block/vehicle/cargo_white",
+  "chrome": "hopelessinfinity:block/vehicle/chrome",
+  "grille": "hopelessinfinity:block/vehicle/grille",
+  "headlight": "hopelessinfinity:block/vehicle/headlight",
+  "lightbar_off": "hopelessinfinity:block/vehicle/lightbar_off",
+  "paint": "hopelessinfinity:block/vehicle/paint_white",
+  "plate": "hopelessinfinity:block/vehicle/plate",
+  "rear_doors": "hopelessinfinity:block/vehicle/rear_doors",
+  "taillight": "hopelessinfinity:block/vehicle/taillight",
+  "trim": "hopelessinfinity:block/vehicle/trim",
+  "particle": "hopelessinfinity:block/vehicle/ambulance_front"
+ }
+}

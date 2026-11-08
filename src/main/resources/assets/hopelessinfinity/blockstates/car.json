@@ -1,0 +1,148 @@
+{
+ "variants": {
+  "facing=north,color=0": {
+   "model": "hopelessinfinity:block/car_white",
+   "y": 0
+  },
+  "facing=north,color=1": {
+   "model": "hopelessinfinity:block/car_black",
+   "y": 0
+  },
+  "facing=north,color=2": {
+   "model": "hopelessinfinity:block/car_silver",
+   "y": 0
+  },
+  "facing=north,color=3": {
+   "model": "hopelessinfinity:block/car_gray",
+   "y": 0
+  },
+  "facing=north,color=4": {
+   "model": "hopelessinfinity:block/car_red",
+   "y": 0
+  },
+  "facing=north,color=5": {
+   "model": "hopelessinfinity:block/car_blue",
+   "y": 0
+  },
+  "facing=north,color=6": {
+   "model": "hopelessinfinity:block/car_green",
+   "y": 0
+  },
+  "facing=north,color=7": {
+   "model": "hopelessinfinity:block/car_brown",
+   "y": 0
+  },
+  "facing=north,color=8": {
+   "model": "hopelessinfinity:block/car_navy",
+   "y": 0
+  },
+  "facing=east,color=0": {
+   "model": "hopelessinfinity:block/car_white",
+   "y": 90
+  },
+  "facing=east,color=1": {
+   "model": "hopelessinfinity:block/car_black",
+   "y": 90
+  },
+  "facing=east,color=2": {
+   "model": "hopelessinfinity:block/car_silver",
+   "y": 90
+  },
+  "facing=east,color=3": {
+   "model": "hopelessinfinity:block/car_gray",
+   "y": 90
+  },
+  "facing=east,color=4": {
+   "model": "hopelessinfinity:block/car_red",
+   "y": 90
+  },
+  "facing=east,color=5": {
+   "model": "hopelessinfinity:block/car_blue",
+   "y": 90
+  },
+  "facing=east,color=6": {
+   "model": "hopelessinfinity:block/car_green",
+   "y": 90
+  },
+  "facing=east,color=7": {
+   "model": "hopelessinfinity:block/car_brown",
+   "y": 90
+  },
+  "facing=east,color=8": {
+   "model": "hopelessinfinity:block/car_navy",
+   "y": 90
+  },
+  "facing=south,color=0": {
+   "model": "hopelessinfinity:block/car_white",
+   "y": 180
+  },
+  "facing=south,color=1": {
+   "model": "hopelessinfinity:block/car_black",
+   "y": 180
+  },
+  "facing=south,color=2": {
+   "model": "hopelessinfinity:block/car_silver",
+   "y": 180
+  },
+  "facing=south,color=3": {
+   "model": "hopelessinfinity:block/car_gray",
+   "y": 180
+  },
+  "facing=south,color=4": {
+   "model": "hopelessinfinity:block/car_red",
+   "y": 180
+  },
+  "facing=south,color=5": {
+   "model": "hopelessinfinity:block/car_blue",
+   "y": 180
+  },
+  "facing=south,color=6": {
+   "model": "hopelessinfinity:block/car_green",
+   "y": 180
+  },
+  "facing=south,color=7": {
+   "model": "hopelessinfinity:block/car_brown",
+   "y": 180
+  },
+  "facing=south,color=8": {
+   "model": "hopelessinfinity:block/car_navy",
+   "y": 180
+  },
+  "facing=west,color=0": {
+   "model": "hopelessinfinity:block/car_white",
+   "y": 270
+  },
+  "facing=west,color=1": {
+   "model": "hopelessinfinity:block/car_black",
+   "y": 270
+  },
+  "facing=west,color=2": {
+   "model": "hopelessinfinity:block/car_silver",
+   "y": 270
+  },
+  "facing=west,color=3": {
+   "model": "hopelessinfinity:block/car_gray",
+   "y": 270
+  },
+  "facing=west,color=4": {
+   "model": "hopelessinfinity:block/car_red",
+   "y": 270
+  },
+  "facing=west,color=5": {
+   "model": "hopelessinfinity:block/car_blue",
+   "y": 270
+  },
+  "facing=west,color=6": {
+   "model": "hopelessinfinity:block/car_green",
+   "y": 270
+  },
+  "facing=west,color=7": {
+   "model": "hopelessinfinity:block/car_brown",
+   "y": 270
+  },
+  "facing=west,color=8": {
+   "model": "hopelessinfinity:block/car_navy",
+   "y": 270
+  }
+ }
+}

@@ -1,0 +1,9 @@
+{
+ "type": "minecraft:smoking",
+ "ingredient": {
+  "item": "hopelessinfinity:flour"
+ },
+ "result": "minecraft:bread",
+ "experience": 0.35,
+ "cookingtime": 100
+}

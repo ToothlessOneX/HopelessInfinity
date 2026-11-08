@@ -1,0 +1,13 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/street/street_tree.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "tree_bark": "hopelessinfinity:block/street/tree_bark",
+  "tree_leaves": "hopelessinfinity:block/street/tree_leaves",
+  "particle": "hopelessinfinity:block/street/tree_bark"
+ }
+}

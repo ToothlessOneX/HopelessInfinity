@@ -1,0 +1,13 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/city/menu_board.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "black_paint": "hopelessinfinity:block/city/black_paint",
+  "menu_face": "hopelessinfinity:block/city/menu_face",
+  "particle": "hopelessinfinity:block/city/black_paint"
+ }
+}

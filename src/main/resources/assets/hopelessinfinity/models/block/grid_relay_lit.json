@@ -1,0 +1,47 @@
+{
+ "textures": {
+  "f": "hopelessinfinity:block/own/relay_front_lit",
+  "s": "hopelessinfinity:block/own/relay_side",
+  "particle": "hopelessinfinity:block/own/relay_front_lit"
+ },
+ "elements": [
+  {
+   "from": [
+    1,
+    1,
+    0
+   ],
+   "to": [
+    15,
+    15,
+    16
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#s"
+    },
+    "east": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#s"
+    },
+    "down": {
+     "texture": "#s"
+    }
+   }
+  }
+ ]
+}

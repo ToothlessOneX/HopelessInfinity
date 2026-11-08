@@ -1,0 +1,19 @@
+{
+ "display": {
+  "icon": {
+   "item": "minecraft:compass"
+  },
+  "title": "Sightseer",
+  "description": "Visit 10 landmarks",
+  "frame": "challenge",
+  "show_toast": true,
+  "announce_to_chat": true,
+  "hidden": false
+ },
+ "criteria": {
+  "done": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "hopelessinfinity:city/atlas"
+}

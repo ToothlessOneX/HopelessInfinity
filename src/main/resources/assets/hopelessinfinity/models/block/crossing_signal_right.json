@@ -1,0 +1,21 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/city/crossing_signal_on.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "backplate": "hopelessinfinity:block/city/backplate",
+  "black_paint": "hopelessinfinity:block/city/black_paint",
+  "crossbuck_crossing": "hopelessinfinity:block/city/crossbuck_crossing",
+  "crossbuck_railroad": "hopelessinfinity:block/city/crossbuck_railroad",
+  "galv": "hopelessinfinity:block/city/galv",
+  "gate_arm": "hopelessinfinity:block/city/gate_arm",
+  "lensL": "hopelessinfinity:block/city/lens_off",
+  "lensR": "hopelessinfinity:block/city/lens_on",
+  "sign_back": "hopelessinfinity:block/city/sign_back",
+  "steel_dark": "hopelessinfinity:block/city/steel_dark",
+  "particle": "hopelessinfinity:block/city/backplate"
+ }
+}

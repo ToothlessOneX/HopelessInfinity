@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/station_clock"
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/station_clock",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/station_clock",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/station_clock",
+   "y": 270
+  }
+ }
+}

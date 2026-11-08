@@ -1,0 +1,1679 @@
+2026-11-02T18:14:20Z AtmosphereTest 1.574503641 AtmosphereTest: 6 pass, 0 fail
+2026-11-02T18:14:20Z BreathTest .643834913 BreathTest: 0 fail
+2026-11-02T18:14:20Z EphemerisTest .801129130 EphemerisTest: 6 pass, 0 fail
+2026-11-02T18:14:20Z FarTest 1.148789634 FarTest: 3 pass, 0 fail
+2026-11-02T18:14:20Z GalaxyTest 7.124781765 31 passed, 0 failed
+2026-11-02T18:14:20Z GateTest .097508366 GateTest: 0 fail
+2026-11-02T18:14:20Z OrbitTest 1.985172360 OrbitTest: 10 pass, 0 fail
+2026-11-02T18:14:20Z PlanetTest 3.753675194 15 passed, 0 failed
+2026-11-02T18:14:20Z SeabedTest 3.954377167 SeabedTest: 9 pass, 0 fail
+2026-11-02T18:14:20Z SpaceTest .745325536 SpaceTest: 0 fail
+2026-11-02T18:14:20Z SpawnTest 2.471124436 SpawnTest: 3 of 3 pass
+2026-11-02T18:14:20Z SuitTest .714154613 SuitTest: 0 fail
+2026-11-02T18:14:20Z TideTest .968928719 TideTest: PASS
+2026-11-02T18:14:20Z X15Test .789645030 X15Test: 0 fail
+2026-11-02T18:14:58Z AtmosphereTest 1.783271719 AtmosphereTest: 6 pass, 0 fail
+2026-11-02T18:14:58Z BreathTest .836008052 BreathTest: 0 fail
+2026-11-02T18:14:58Z EphemerisTest .876665519 EphemerisTest: 6 pass, 0 fail
+2026-11-02T18:14:58Z FarTest 1.291600632 FarTest: 3 pass, 0 fail
+2026-11-02T18:14:58Z GalaxyTest 7.038067267 31 passed, 0 failed
+2026-11-02T18:14:58Z GateTest .093717969 GateTest: 0 fail
+2026-11-02T18:14:58Z OrbitTest 1.893772719 OrbitTest: 10 pass, 0 fail
+2026-11-02T18:14:58Z PlanetTest 3.629258248 15 passed, 0 failed
+2026-11-02T18:14:58Z SeabedTest 3.818086820 SeabedTest: 9 pass, 0 fail
+2026-11-02T18:14:58Z SpaceTest .800322744 SpaceTest: 0 fail
+2026-11-02T18:14:58Z SpawnTest 2.423742780 SpawnTest: 3 of 3 pass
+2026-11-02T18:14:58Z SuitTest .641840038 SuitTest: 0 fail
+2026-11-02T18:14:58Z TideTest .964715803 TideTest: PASS
+2026-11-02T18:14:58Z X15Test .740225493 X15Test: 0 fail
+2026-11-02T22:34:31Z AtmosphereTest 1.609043486 AtmosphereTest: 6 pass, 0 fail
+2026-11-02T22:34:31Z BreathTest .646140043 BreathTest: 0 fail
+2026-11-02T22:34:31Z EphemerisTest .808623691 EphemerisTest: 6 pass, 0 fail
+2026-11-02T22:34:31Z FarTest 1.231679754 FarTest: 3 pass, 0 fail
+2026-11-02T22:34:31Z GalaxyTest 6.960820894 31 passed, 0 failed
+2026-11-02T22:34:31Z GateTest .108381363 GateTest: 0 fail
+2026-11-02T22:34:31Z OrbitTest 1.962378196 OrbitTest: 10 pass, 0 fail
+2026-11-02T22:34:31Z PlanetTest 3.651619705 15 passed, 0 failed
+2026-11-02T22:34:31Z SeabedTest 4.215085276 SeabedTest: 9 pass, 0 fail
+2026-11-02T22:34:31Z SpaceTest .802626497 SpaceTest: 0 fail
+2026-11-02T22:34:31Z SpawnTest 2.402667570 SpawnTest: 3 of 3 pass
+2026-11-02T22:34:31Z SuitTest .648565187 SuitTest: 0 fail
+2026-11-02T22:34:31Z TideTest .933975445 TideTest: PASS
+2026-11-02T22:34:31Z X15Test .659456187 X15Test: 0 fail
+2026-11-02T23:38:59Z AtmosphereTest 1.693531179 AtmosphereTest: 6 pass, 0 fail
+2026-11-02T23:38:59Z BreathTest .632887523 BreathTest: 0 fail
+2026-11-02T23:38:59Z EphemerisTest .818989391 EphemerisTest: 6 pass, 0 fail
+2026-11-02T23:38:59Z FarTest 1.129502273 FarTest: 3 pass, 0 fail
+2026-11-02T23:38:59Z GalaxyTest 6.799762757 31 passed, 0 failed
+2026-11-02T23:38:59Z GateTest .127452439 GateTest: 0 fail
+2026-11-02T23:38:59Z OrbitTest 1.798144992 OrbitTest: 10 pass, 0 fail
+2026-11-02T23:38:59Z PlanetTest 3.532663479 15 passed, 0 failed
+2026-11-02T23:38:59Z SeabedTest 3.765256168 SeabedTest: 9 pass, 0 fail
+2026-11-02T23:38:59Z SpaceTest .832504540 SpaceTest: 0 fail
+2026-11-02T23:38:59Z SpawnTest 2.394029866 SpawnTest: 3 of 3 pass
+2026-11-02T23:38:59Z SuitTest .630873804 SuitTest: 0 fail
+2026-11-02T23:38:59Z TideTest .876368668 TideTest: PASS
+2026-11-02T23:38:59Z X15Test .636913541 X15Test: 0 fail
+2026-11-02T23:39:53Z AtmosphereTest 1.512594445 AtmosphereTest: 6 pass, 0 fail
+2026-11-02T23:39:53Z BreathTest .619649658 BreathTest: 0 fail
+2026-11-02T23:39:53Z EphemerisTest .765079277 EphemerisTest: 6 pass, 0 fail
+2026-11-02T23:39:53Z FarTest 1.127570635 FarTest: 3 pass, 0 fail
+2026-11-02T23:39:53Z GalaxyTest 6.481022652 31 passed, 0 failed
+2026-11-02T23:39:53Z GateTest .109675075 GateTest: 0 fail
+2026-11-02T23:39:53Z MoonTest .893366580 MoonTest: 0 fail
+2026-11-02T23:39:53Z OrbitTest 1.779541661 OrbitTest: 10 pass, 0 fail
+2026-11-02T23:39:53Z PlanetTest 3.435340004 15 passed, 0 failed
+2026-11-02T23:39:53Z SeabedTest 3.571444879 SeabedTest: 9 pass, 0 fail
+2026-11-02T23:39:53Z SpaceTest .766333538 SpaceTest: 0 fail
+2026-11-02T23:39:53Z SpawnTest 2.461384121 SpawnTest: 3 of 3 pass
+2026-11-02T23:39:53Z SuitTest .670046375 SuitTest: 0 fail
+2026-11-02T23:39:53Z TideTest .809583194 TideTest: PASS
+2026-11-02T23:39:53Z X15Test .586981380 X15Test: 0 fail
+2026-11-02T23:48:39Z AtmosphereTest .151091955 Caused by: java.lang.ClassNotFoundException: AtmosphereTest
+2026-11-02T23:48:39Z BreathTest .145155941 Caused by: java.lang.ClassNotFoundException: BreathTest
+2026-11-02T23:48:39Z EphemerisTest .118455891 Caused by: java.lang.ClassNotFoundException: EphemerisTest
+2026-11-02T23:48:39Z FarTest .146789021 Caused by: java.lang.ClassNotFoundException: FarTest
+2026-11-02T23:48:39Z GalaxyTest .141053068 Caused by: java.lang.ClassNotFoundException: GalaxyTest
+2026-11-02T23:48:39Z GateTest .135385566 Caused by: java.lang.ClassNotFoundException: GateTest
+2026-11-02T23:48:39Z MoonTest .141602007 Caused by: java.lang.ClassNotFoundException: MoonTest
+2026-11-02T23:48:39Z OrbitTest .157339059 Caused by: java.lang.ClassNotFoundException: OrbitTest
+2026-11-02T23:48:39Z PlanetTest .143415447 Caused by: java.lang.ClassNotFoundException: PlanetTest
+2026-11-02T23:48:39Z SeabedTest .133469064 Caused by: java.lang.ClassNotFoundException: SeabedTest
+2026-11-02T23:48:39Z SpaceTest .159277757 Caused by: java.lang.ClassNotFoundException: SpaceTest
+2026-11-02T23:48:39Z SpawnTest .146773271 Caused by: java.lang.ClassNotFoundException: SpawnTest
+2026-11-02T23:48:39Z SuitTest .148922748 Caused by: java.lang.ClassNotFoundException: SuitTest
+2026-11-02T23:48:39Z TideTest .128658665 Caused by: java.lang.ClassNotFoundException: TideTest
+2026-11-02T23:48:39Z X15Test .136815211 Caused by: java.lang.ClassNotFoundException: X15Test
+2026-11-02T23:49:20Z AtmosphereTest 1.475440875 AtmosphereTest: 6 pass, 0 fail
+2026-11-02T23:49:20Z BreathTest .585817928 BreathTest: 0 fail
+2026-11-02T23:49:20Z EphemerisTest .808798777 EphemerisTest: 6 pass, 0 fail
+2026-11-02T23:49:20Z FarTest 1.119970639 FarTest: 3 pass, 0 fail
+2026-11-02T23:49:20Z GalaxyTest 6.581015994 31 passed, 0 failed
+2026-11-02T23:49:20Z GateTest .121846490 GateTest: 0 fail
+2026-11-02T23:49:20Z MoonTest .868297295 MoonTest: 0 fail
+2026-11-02T23:49:20Z OrbitTest 1.778361967 OrbitTest: 10 pass, 0 fail
+2026-11-02T23:49:20Z PlanetTest 3.320729214 15 passed, 0 failed
+2026-11-02T23:49:20Z SeabedTest 3.741108773 SeabedTest: 9 pass, 0 fail
+2026-11-02T23:49:20Z SpaceTest .737641309 SpaceTest: 0 fail
+2026-11-02T23:49:20Z SpawnTest 2.567247070 SpawnTest: 3 of 3 pass
+2026-11-02T23:49:20Z SuitTest .610009502 SuitTest: 0 fail
+2026-11-02T23:49:20Z TideTest .801175714 TideTest: PASS
+2026-11-02T23:49:20Z X15Test .659999658 X15Test: 0 fail
+2026-11-02T23:49:59Z AtmosphereTest 1.534776586 AtmosphereTest: 6 pass, 0 fail
+2026-11-02T23:49:59Z BreathTest .647449326 BreathTest: 0 fail
+2026-11-02T23:49:59Z EphemerisTest .796436723 EphemerisTest: 6 pass, 0 fail
+2026-11-02T23:49:59Z FarTest 1.140684754 FarTest: 3 pass, 0 fail
+2026-11-02T23:49:59Z GalaxyTest 6.234585982 31 passed, 0 failed
+2026-11-02T23:49:59Z GateTest .118282624 GateTest: 0 fail
+2026-11-02T23:49:59Z MoonTest .880056059 MoonTest: 0 fail
+2026-11-02T23:49:59Z OrbitTest 1.867213814 OrbitTest: 10 pass, 0 fail
+2026-11-02T23:49:59Z PlanetTest 3.594336419 15 passed, 0 failed
+2026-11-02T23:49:59Z SeabedTest 3.633386553 SeabedTest: 9 pass, 0 fail
+2026-11-02T23:49:59Z SpaceTest .701853358 SpaceTest: 0 fail
+2026-11-02T23:49:59Z SpawnTest 2.491070589 SpawnTest: 3 of 3 pass
+2026-11-02T23:49:59Z SuitTest .604919137 SuitTest: 0 fail
+2026-11-02T23:49:59Z TideTest .842993430 TideTest: PASS
+2026-11-02T23:49:59Z X15Test .668135962 X15Test: 0 fail
+2026-11-02T23:52:39Z AtmosphereTest 1.431696063 AtmosphereTest: 6 pass, 0 fail
+2026-11-02T23:52:39Z BreathTest .665938367 BreathTest: 0 fail
+2026-11-02T23:52:39Z EphemerisTest .797930418 EphemerisTest: 6 pass, 0 fail
+2026-11-02T23:52:39Z FarTest 1.052896851 FarTest: 3 pass, 0 fail
+2026-11-02T23:52:39Z GalaxyTest 6.448071562 31 passed, 0 failed
+2026-11-02T23:52:39Z GateTest .115210962 GateTest: 0 fail
+2026-11-02T23:52:39Z MoonTest .860603229 MoonTest: 0 fail
+2026-11-02T23:52:39Z OrbitTest 1.898357866 OrbitTest: 10 pass, 0 fail
+2026-11-02T23:52:39Z PlanetTest 3.528773859 15 passed, 0 failed
+2026-11-02T23:52:39Z SeabedTest 3.677081610 SeabedTest: 9 pass, 0 fail
+2026-11-02T23:52:39Z SpaceTest .721303624 SpaceTest: 0 fail
+2026-11-02T23:52:39Z SpawnTest 2.315523793 SpawnTest: 3 of 3 pass
+2026-11-02T23:52:39Z SuitTest .585496622 SuitTest: 0 fail
+2026-11-02T23:52:39Z TideTest .832896672 TideTest: PASS
+2026-11-02T23:52:39Z X15Test .608128072 X15Test: 0 fail
+2026-11-03T07:38:28Z AtmosphereTest 1.480003248 AtmosphereTest: 6 pass, 0 fail
+2026-11-03T07:38:28Z BreathTest .602661338 BreathTest: 0 fail
+2026-11-03T07:38:28Z EphemerisTest .772800358 EphemerisTest: 6 pass, 0 fail
+2026-11-03T07:38:28Z FarTest 1.130044093 FarTest: 3 pass, 0 fail
+2026-11-03T07:38:28Z GalaxyTest 6.986752537 31 passed, 0 failed
+2026-11-03T07:38:28Z GateTest .116022284 GateTest: 0 fail
+2026-11-03T07:38:28Z MoonTest .914799917 MoonTest: 0 fail
+2026-11-03T07:38:28Z NearTest 1.028963983 NearTest: 0 fail
+2026-11-03T07:38:28Z OrbitTest 1.756825022 OrbitTest: 10 pass, 0 fail
+2026-11-03T07:38:28Z PlanetTest 3.649992202 15 passed, 0 failed
+2026-11-03T07:38:28Z SeabedTest 3.830065615 SeabedTest: 9 pass, 0 fail
+2026-11-03T07:38:28Z SpaceTest .777662086 SpaceTest: 0 fail
+2026-11-03T07:38:28Z SpawnTest 2.352884649 SpawnTest: 3 of 3 pass
+2026-11-03T07:38:28Z SuitTest .712585157 SuitTest: 0 fail
+2026-11-03T07:38:28Z TideTest 1.059670877 TideTest: PASS
+2026-11-03T07:38:28Z X15Test .712688392 X15Test: 0 fail
+2026-11-03T07:54:50Z AtmosphereTest 1.669458099 AtmosphereTest: 6 pass, 0 fail
+2026-11-03T07:54:50Z BreathTest .627879422 BreathTest: 0 fail
+2026-11-03T07:54:50Z EphemerisTest .885711498 EphemerisTest: 6 pass, 0 fail
+2026-11-03T07:54:50Z FarTest 1.269770790 FarTest: 3 pass, 0 fail
+2026-11-03T07:54:50Z GalaxyTest 6.918133898 31 passed, 0 failed
+2026-11-03T07:54:50Z GateTest .130280400 GateTest: 0 fail
+2026-11-03T07:54:50Z MoonTest .969374098 MoonTest: 0 fail
+2026-11-03T07:54:50Z NearTest 14.616896864 NearTest: 0 fail
+2026-11-03T07:54:50Z OrbitTest 1.898256587 OrbitTest: 10 pass, 0 fail
+2026-11-03T07:54:50Z PlanetTest 3.641878714 15 passed, 0 failed
+2026-11-03T07:54:50Z SeabedTest 4.037294687 SeabedTest: 9 pass, 0 fail
+2026-11-03T07:54:50Z SpaceTest .797138013 SpaceTest: 0 fail
+2026-11-03T07:54:50Z SpawnTest 2.599660630 SpawnTest: 3 of 3 pass
+2026-11-03T07:54:50Z SuitTest .691541752 SuitTest: 0 fail
+2026-11-03T07:54:50Z TideTest .854179952 TideTest: PASS
+2026-11-03T07:54:50Z X15Test .790073413 X15Test: 0 fail
+2026-11-03T12:56:22Z AtmosphereTest 1.679118016 AtmosphereTest: 6 pass, 0 fail
+2026-11-03T12:56:22Z BreathTest .654750464 BreathTest: 0 fail
+2026-11-03T12:56:22Z EphemerisTest .824410131 EphemerisTest: 6 pass, 0 fail
+2026-11-03T12:56:22Z FarTest 1.216243457 FarTest: 3 pass, 0 fail
+2026-11-03T12:56:22Z GalaxyTest 6.755474134 31 passed, 0 failed
+2026-11-03T12:56:22Z GateTest .118517354 GateTest: 0 fail
+2026-11-03T12:56:22Z MoonTest .935437343 MoonTest: 0 fail
+2026-11-03T12:56:22Z NearTest 13.654951684 NearTest: 1 fail
+2026-11-03T12:56:22Z OrbitTest 1.762719688 OrbitTest: 10 pass, 0 fail
+2026-11-03T12:56:22Z PlanetTest 3.484288405 15 passed, 0 failed
+2026-11-03T12:56:22Z SeabedTest 4.095634979 SeabedTest: 9 pass, 0 fail
+2026-11-03T12:56:22Z SpaceTest .743415140 SpaceTest: 0 fail
+2026-11-03T12:56:22Z SpawnTest 2.354639309 SpawnTest: 3 of 3 pass
+2026-11-03T12:56:22Z SuitTest .664372511 SuitTest: 0 fail
+2026-11-03T12:56:22Z TideTest .849819600 TideTest: PASS
+2026-11-03T12:56:22Z X15Test .647362850 X15Test: 0 fail
+2026-11-03T13:16:38Z AtmosphereTest 1.715336220 AtmosphereTest: 6 pass, 0 fail
+2026-11-03T13:16:38Z BodiesTest 1.054310692 BodiesTest: 0 fail
+2026-11-03T13:16:38Z BreathTest .690665451 BreathTest: 0 fail
+2026-11-03T13:16:38Z EphemerisTest .845702527 EphemerisTest: 6 pass, 0 fail
+2026-11-03T13:16:38Z FarTest 1.222366586 FarTest: 3 pass, 0 fail
+2026-11-03T13:16:38Z GalaxyTest 7.029244117 31 passed, 0 failed
+2026-11-03T13:16:38Z GateTest .126269611 GateTest: 0 fail
+2026-11-03T13:16:38Z MoonTest .961823573 MoonTest: 0 fail
+2026-11-03T13:16:38Z NearTest 18.182815370 NearTest: 0 fail
+2026-11-03T13:16:38Z OrbitTest 1.863258967 OrbitTest: 10 pass, 0 fail
+2026-11-03T13:16:38Z PlanetTest 3.689839895 15 passed, 0 failed
+2026-11-03T13:16:38Z SeabedTest 3.920529800 SeabedTest: 9 pass, 0 fail
+2026-11-03T13:16:38Z SpaceTest .852954016 SpaceTest: 0 fail
+2026-11-03T13:16:38Z SpawnTest 2.446625162 SpawnTest: 3 of 3 pass
+2026-11-03T13:16:38Z SuitTest .674750305 SuitTest: 0 fail
+2026-11-03T13:16:38Z TideTest .884266808 TideTest: PASS
+2026-11-03T13:16:38Z X15Test .629037144 X15Test: 0 fail
+2026-11-03T13:51:26Z AtmosphereTest 1.782994417 AtmosphereTest: 6 pass, 0 fail
+2026-11-03T13:51:26Z BodiesTest 1.049080256 BodiesTest: 0 fail
+2026-11-03T13:51:26Z BreathTest .689849407 BreathTest: 0 fail
+2026-11-03T13:51:26Z CavesTest 7.331662319 CavesTest: 0 fail
+2026-11-03T13:51:26Z EphemerisTest .850558434 EphemerisTest: 6 pass, 0 fail
+2026-11-03T13:51:26Z FarTest 1.129008449 FarTest: 3 pass, 0 fail
+2026-11-03T13:51:26Z GalaxyTest 7.014858308 31 passed, 0 failed
+2026-11-03T13:51:26Z GateTest .114954725 GateTest: 0 fail
+2026-11-03T13:51:26Z MoonTest .960379281 MoonTest: 0 fail
+2026-11-03T13:51:26Z NearTest 19.337542108 NearTest: 0 fail
+2026-11-03T13:51:26Z OrbitTest 1.887056085 OrbitTest: 10 pass, 0 fail
+2026-11-03T13:51:26Z PlanetTest 3.589176695 15 passed, 0 failed
+2026-11-03T13:51:26Z SeabedTest 3.891267429 SeabedTest: 9 pass, 0 fail
+2026-11-03T13:51:26Z SpaceTest .785801206 SpaceTest: 0 fail
+2026-11-03T13:51:26Z SpawnTest 2.665737934 SpawnTest: 3 of 3 pass
+2026-11-03T13:51:26Z SuitTest .677072521 SuitTest: 0 fail
+2026-11-03T13:51:26Z TideTest .951692537 TideTest: PASS
+2026-11-03T13:51:26Z X15Test .690596606 X15Test: 0 fail
+2026-11-03T13:59:15Z AtmosphereTest 1.629791842 AtmosphereTest: 6 pass, 0 fail
+2026-11-03T13:59:15Z BiomesTest .884119499 BiomesTest: 0 fail
+2026-11-03T13:59:15Z BodiesTest 1.009539450 BodiesTest: 0 fail
+2026-11-03T13:59:15Z BreathTest .537145214 BreathTest: 0 fail
+2026-11-03T13:59:15Z CavesTest 7.106466924 CavesTest: 0 fail
+2026-11-03T13:59:15Z EphemerisTest .918075312 EphemerisTest: 6 pass, 0 fail
+2026-11-03T13:59:15Z FarTest 1.124819816 FarTest: 3 pass, 0 fail
+2026-11-03T13:59:15Z GalaxyTest 7.052612965 31 passed, 0 failed
+2026-11-03T13:59:15Z GateTest .120656176 GateTest: 0 fail
+2026-11-03T13:59:15Z MoonTest 1.029802453 MoonTest: 0 fail
+2026-11-03T13:59:15Z NearTest 18.722877882 NearTest: 0 fail
+2026-11-03T13:59:15Z OrbitTest 1.819199084 OrbitTest: 10 pass, 0 fail
+2026-11-03T13:59:15Z PlanetTest 3.375912835 15 passed, 0 failed
+2026-11-03T13:59:15Z SeabedTest 3.648859382 SeabedTest: 9 pass, 0 fail
+2026-11-03T13:59:15Z SpaceTest .774587447 SpaceTest: 0 fail
+2026-11-03T13:59:15Z SpawnTest 2.596099778 SpawnTest: 3 of 3 pass
+2026-11-03T13:59:15Z SuitTest .695889206 SuitTest: 0 fail
+2026-11-03T13:59:15Z TideTest .914305730 TideTest: PASS
+2026-11-03T13:59:15Z X15Test .672640809 X15Test: 0 fail
+2026-11-03T14:21:14Z AtmosphereTest 1.630875289 AtmosphereTest: 6 pass, 0 fail
+2026-11-03T14:21:14Z BiomesTest .904820838 BiomesTest: 0 fail
+2026-11-03T14:21:14Z BodiesTest 1.057815486 BodiesTest: 0 fail
+2026-11-03T14:21:14Z BreathTest .677668434 BreathTest: 0 fail
+2026-11-03T14:21:14Z CavesTest 7.336974067 CavesTest: 1 fail
+2026-11-03T14:21:14Z CoastTest 3.297581533 CoastTest: 0 fail
+2026-11-03T14:21:14Z EphemerisTest .918859268 EphemerisTest: 6 pass, 0 fail
+2026-11-03T14:21:14Z FarTest 1.376219053 FarTest: 3 pass, 0 fail
+2026-11-03T14:21:14Z GalaxyTest 6.846363153 31 passed, 0 failed
+2026-11-03T14:21:14Z GateTest .108086676 GateTest: 0 fail
+2026-11-03T14:21:14Z MoonTest .950911216 MoonTest: 0 fail
+2026-11-03T14:21:14Z NearTest 17.686677008 NearTest: 0 fail
+2026-11-03T14:21:14Z OrbitTest 1.847345558 OrbitTest: 10 pass, 0 fail
+2026-11-03T14:21:14Z PlanetTest 3.747744925 15 passed, 0 failed
+2026-11-03T14:21:14Z SeabedTest 4.271161725 SeabedTest: 9 pass, 0 fail
+2026-11-03T14:21:14Z SpaceTest .742283692 SpaceTest: 0 fail
+2026-11-03T14:21:14Z SpawnTest 2.402913451 SpawnTest: 3 of 3 pass
+2026-11-03T14:21:14Z SuitTest .720053204 SuitTest: 0 fail
+2026-11-03T14:21:14Z TideTest 1.001911230 TideTest: PASS
+2026-11-03T14:21:14Z X15Test .721116611 X15Test: 0 fail
+2026-11-03T14:25:17Z AtmosphereTest 1.570192526 AtmosphereTest: 6 pass, 0 fail
+2026-11-03T14:25:17Z BiomesTest .918198919 BiomesTest: 0 fail
+2026-11-03T14:25:17Z BodiesTest 1.003191815 BodiesTest: 0 fail
+2026-11-03T14:25:17Z BreathTest .655596654 BreathTest: 0 fail
+2026-11-03T14:25:17Z CavesTest 6.996686547 CavesTest: 0 fail
+2026-11-03T14:25:17Z CoastTest 3.490521367 CoastTest: 0 fail
+2026-11-03T14:25:17Z EphemerisTest .804528088 EphemerisTest: 6 pass, 0 fail
+2026-11-03T14:25:17Z FarTest 1.259508410 FarTest: 3 pass, 0 fail
+2026-11-03T14:25:17Z GalaxyTest 6.386203188 31 passed, 0 failed
+2026-11-03T14:25:17Z GateTest .111166933 GateTest: 0 fail
+2026-11-03T14:25:17Z MoonTest .903767382 MoonTest: 0 fail
+2026-11-03T14:25:17Z NearTest 18.277324652 NearTest: 0 fail
+2026-11-03T14:25:17Z OrbitTest 2.208736284 OrbitTest: 10 pass, 0 fail
+2026-11-03T14:25:17Z PlanetTest 3.765320065 15 passed, 0 failed
+2026-11-03T14:25:17Z SeabedTest 3.672724424 SeabedTest: 9 pass, 0 fail
+2026-11-03T14:25:17Z SpaceTest .806489181 SpaceTest: 0 fail
+2026-11-03T14:25:17Z SpawnTest 2.398650127 SpawnTest: 3 of 3 pass
+2026-11-03T14:25:17Z SuitTest .628931357 SuitTest: 0 fail
+2026-11-03T14:25:17Z TideTest .930449843 TideTest: PASS
+2026-11-03T14:25:17Z VolcanoTest 2.313078584 VolcanoTest: 0 fail
+2026-11-03T14:25:17Z X15Test .643151937 X15Test: 0 fail
+2026-11-03T14:51:24Z AtmosphereTest 4.247477591 AtmosphereTest: 6 pass, 0 fail
+2026-11-03T14:51:24Z BiomesTest 3.762594763 BiomesTest: 0 fail
+2026-11-03T14:51:24Z BodiesTest 3.738608397 BodiesTest: 0 fail
+2026-11-03T14:51:24Z BreathTest 3.270462059 BreathTest: 0 fail
+2026-11-03T14:51:24Z CavesTest 10.111152315 CavesTest: 0 fail
+2026-11-03T14:51:24Z CoastTest 6.424631569 CoastTest: 0 fail
+2026-11-03T14:51:24Z EphemerisTest 3.610136619 EphemerisTest: 6 pass, 0 fail
+2026-11-03T14:51:24Z FarTest 4.239141260 FarTest: 2 pass, 1 fail
+2026-11-03T14:51:24Z GalaxyTest 6.711801575 31 passed, 0 failed
+2026-11-03T14:51:24Z GateTest .104942064 GateTest: 0 fail
+2026-11-03T14:51:24Z MoonTest 3.620845771 MoonTest: 0 fail
+2026-11-03T14:51:24Z NearTest 20.887327442 NearTest: 0 fail
+2026-11-03T14:51:24Z OrbitTest 4.759095256 OrbitTest: 10 pass, 0 fail
+2026-11-03T14:51:24Z PlanetTest 7.343625339 14 passed, 1 failed
+2026-11-03T14:51:24Z RiversTest 6.169753337 RiversTest: 0 fail
+2026-11-03T14:51:24Z SeabedTest 7.710326499 SeabedTest: 9 pass, 0 fail
+2026-11-03T14:51:24Z SpaceTest 3.406788891 SpaceTest: 0 fail
+2026-11-03T14:51:24Z SpawnTest 10.519900141 SpawnTest: 3 of 3 pass
+2026-11-03T14:51:24Z SuitTest 3.512312984 SuitTest: 0 fail
+2026-11-03T14:51:24Z TideTest 3.685743888 TideTest: PASS
+2026-11-03T14:51:24Z VolcanoTest 5.303277074 VolcanoTest: 0 fail
+2026-11-03T14:51:24Z X15Test 3.412840382 X15Test: 0 fail
+2026-11-03T14:58:29Z AtmosphereTest 5.433799641 AtmosphereTest: 6 pass, 0 fail
+2026-11-03T14:58:29Z BiomesTest 7.374397517 BiomesTest: 0 fail
+2026-11-03T14:58:29Z BodiesTest 6.494589136 BodiesTest: 0 fail
+2026-11-03T14:58:29Z BreathTest 3.358321307 BreathTest: 0 fail
+2026-11-03T14:58:29Z CavesTest 10.255700874 CavesTest: 0 fail
+2026-11-03T14:58:29Z CoastTest 7.735977582 CoastTest: 0 fail
+2026-11-03T14:58:29Z EphemerisTest 6.108372156 EphemerisTest: 6 pass, 0 fail
+2026-11-03T14:58:29Z FarTest 5.162361333 FarTest: 3 pass, 0 fail
+2026-11-03T14:58:29Z GalaxyTest 7.120979302 31 passed, 0 failed
+2026-11-03T14:58:29Z GateTest .167298641 GateTest: 0 fail
+2026-11-03T14:58:29Z MoonTest 4.031796325 MoonTest: 0 fail
+2026-11-03T14:58:29Z NearTest 21.961194782 NearTest: 0 fail
+2026-11-03T14:58:29Z OrbitTest 5.618951320 OrbitTest: 10 pass, 0 fail
+2026-11-03T14:58:29Z PlanetTest 7.763815163 15 passed, 0 failed
+2026-11-03T14:58:29Z RiversTest 5.902757446 RiversTest: 0 fail
+2026-11-03T14:58:29Z SeabedTest 7.403385161 SeabedTest: 9 pass, 0 fail
+2026-11-03T14:58:29Z SpaceTest 3.834305784 SpaceTest: 0 fail
+2026-11-03T14:58:29Z SpawnTest 10.738082064 SpawnTest: 3 of 3 pass
+2026-11-03T14:58:29Z SuitTest 3.693626028 SuitTest: 0 fail
+2026-11-03T14:58:29Z TideTest 3.823839149 TideTest: PASS
+2026-11-03T14:58:29Z VolcanoTest 5.285760265 VolcanoTest: 0 fail
+2026-11-03T14:58:29Z X15Test 3.548382425 X15Test: 0 fail
+2026-11-03T18:53:38Z AtmosphereTest 4.528028651 AtmosphereTest: 6 pass, 0 fail
+2026-11-03T18:53:38Z BiomesTest 3.962879159 BiomesTest: 0 fail
+2026-11-03T18:53:38Z BodiesTest 3.961984223 BodiesTest: 0 fail
+2026-11-03T18:53:38Z BreathTest 3.512670664 BreathTest: 0 fail
+2026-11-03T18:53:38Z CavesTest 10.513969721 CavesTest: 0 fail
+2026-11-03T18:53:38Z CoastTest 6.965777212 CoastTest: 0 fail
+2026-11-03T18:53:38Z EphemerisTest 3.802241690 EphemerisTest: 6 pass, 0 fail
+2026-11-03T18:53:38Z FarTest 4.469906326 FarTest: 3 pass, 0 fail
+2026-11-03T18:53:38Z GalaxyTest 6.835547430 31 passed, 0 failed
+2026-11-03T18:53:38Z GateTest .120832207 GateTest: 0 fail
+2026-11-03T18:53:38Z MoonTest 3.794031664 MoonTest: 0 fail
+2026-11-03T18:53:38Z NearTest 21.539376079 NearTest: 0 fail
+2026-11-03T18:53:38Z OrbitTest 4.649531164 OrbitTest: 10 pass, 0 fail
+2026-11-03T18:53:38Z PlanetTest 7.748459537 15 passed, 0 failed
+2026-11-03T18:53:38Z RiversTest 6.093321895 RiversTest: 0 fail
+2026-11-03T18:53:38Z SeabedTest 8.545921292 SeabedTest: 9 pass, 0 fail
+2026-11-03T18:53:38Z SitesTest 9.068354885 SitesTest: 0 fail
+2026-11-03T18:53:38Z SpaceTest 3.685797768 SpaceTest: 0 fail
+2026-11-03T18:53:38Z SpawnTest 10.585325994 SpawnTest: 3 of 3 pass
+2026-11-03T18:53:38Z SuitTest 3.335717861 SuitTest: 0 fail
+2026-11-03T18:53:38Z TideTest 3.747174342 TideTest: PASS
+2026-11-03T18:53:38Z VolcanoTest 5.358620228 VolcanoTest: 0 fail
+2026-11-03T18:53:38Z X15Test 3.645288931 X15Test: 0 fail
+2026-11-03T20:01:15Z AtmosphereTest 4.565734366 AtmosphereTest: 6 pass, 0 fail
+2026-11-03T20:01:15Z BiomesTest 3.979723130 BiomesTest: 0 fail
+2026-11-03T20:01:15Z BodiesTest 4.067844995 BodiesTest: 0 fail
+2026-11-03T20:01:15Z BreathTest 3.499854419 BreathTest: 0 fail
+2026-11-03T20:01:15Z CavesTest 10.479217079 CavesTest: 0 fail
+2026-11-03T20:01:15Z CoastTest 73.484581378 	... 4 more
+2026-11-03T20:01:15Z EphemerisTest 9.926198336 EphemerisTest: 6 pass, 0 fail
+2026-11-03T20:01:15Z FarTest 10.434220987 FarTest: 3 pass, 0 fail
+2026-11-03T20:01:15Z GalaxyTest 6.737879703 31 passed, 0 failed
+2026-11-03T20:01:15Z GateTest .104766915 GateTest: 0 fail
+2026-11-03T20:01:15Z MoonTest 3.970566986 MoonTest: 0 fail
+2026-11-03T20:01:15Z NearTest 21.694763699 NearTest: 0 fail
+2026-11-03T20:01:15Z OrbitTest 4.777000233 OrbitTest: 10 pass, 0 fail
+2026-11-03T20:01:15Z PlanetTest 72.989676436 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188)
+2026-11-03T20:01:15Z RiversTest 6.213937890 RiversTest: 0 fail
+2026-11-03T20:01:15Z RoadsTest 31.171601534 RoadsTest: 0 fail
+2026-11-03T20:01:15Z SeabedTest 14.283780011 SeabedTest: 9 pass, 0 fail
+2026-11-03T20:01:15Z SitesTest 14.187981326 SitesTest: 0 fail
+2026-11-03T20:01:15Z SpaceTest 3.714105222 SpaceTest: 0 fail
+2026-11-03T20:01:15Z SpawnTest 25.888122286 SpawnTest: 3 of 3 pass
+2026-11-03T20:01:15Z SuitTest 3.570712151 SuitTest: 0 fail
+2026-11-03T20:01:15Z TideTest 10.377700598 TideTest: PASS
+2026-11-03T20:01:15Z VolcanoTest 5.398562359 VolcanoTest: 0 fail
+2026-11-03T20:01:15Z X15Test 3.713836234 X15Test: 0 fail
+2026-11-03T20:10:20Z AtmosphereTest 4.343202125 AtmosphereTest: 6 pass, 0 fail
+2026-11-03T20:10:20Z BiomesTest 4.024625537 BiomesTest: 0 fail
+2026-11-03T20:10:20Z BodiesTest 3.943343036 BodiesTest: 0 fail
+2026-11-03T20:10:20Z BreathTest 3.853350164 BreathTest: 0 fail
+2026-11-03T20:10:20Z CavesTest 10.784706584 CavesTest: 0 fail
+2026-11-03T20:10:20Z CoastTest 7.123619667 CoastTest: 0 fail
+2026-11-03T20:10:20Z EphemerisTest 3.793083097 EphemerisTest: 6 pass, 0 fail
+2026-11-03T20:10:20Z FarTest 10.486107328 FarTest: 3 pass, 0 fail
+2026-11-03T20:10:20Z GalaxyTest 6.931661422 31 passed, 0 failed
+2026-11-03T20:10:20Z GateTest .125116013 GateTest: 0 fail
+2026-11-03T20:10:20Z MoonTest 3.885804062 MoonTest: 0 fail
+2026-11-03T20:10:20Z NearTest 21.465177060 NearTest: 0 fail
+2026-11-03T20:10:20Z OrbitTest 4.628565469 OrbitTest: 10 pass, 0 fail
+2026-11-03T20:10:20Z PlanetTest 7.730218956 15 passed, 0 failed
+2026-11-03T20:10:20Z RiversTest 6.159924518 RiversTest: 0 fail
+2026-11-03T20:10:20Z RoadsTest 30.535459865 RoadsTest: 0 fail
+2026-11-03T20:10:20Z SeabedTest 8.054808547 SeabedTest: 9 pass, 0 fail
+2026-11-03T20:10:20Z SitesTest 12.420928202 SitesTest: 0 fail
+2026-11-03T20:10:20Z SpaceTest 3.350781891 SpaceTest: 0 fail
+2026-11-03T20:10:20Z SpawnTest 10.131497951 SpawnTest: 3 of 3 pass
+2026-11-03T20:10:20Z SuitTest 3.479864190 SuitTest: 0 fail
+2026-11-03T20:10:20Z TideTest 3.698329681 TideTest: PASS
+2026-11-03T20:10:20Z VolcanoTest 5.615650375 VolcanoTest: 0 fail
+2026-11-03T20:10:20Z X15Test 3.607693934 X15Test: 0 fail
+2026-11-03T21:07:59Z AtmosphereTest 4.444295171 AtmosphereTest: 6 pass, 0 fail
+2026-11-03T21:07:59Z BiomesTest 3.851822511 BiomesTest: 0 fail
+2026-11-03T21:07:59Z BodiesTest 3.855338938 BodiesTest: 0 fail
+2026-11-03T21:07:59Z BreathTest 3.569418846 BreathTest: 0 fail
+2026-11-03T21:07:59Z CavesTest 10.028438044 CavesTest: 0 fail
+2026-11-03T21:07:59Z CoastTest 6.404796092 CoastTest: 0 fail
+2026-11-03T21:07:59Z EphemerisTest 3.707999894 EphemerisTest: 6 pass, 0 fail
+2026-11-03T21:07:59Z FarTest 10.358657821 FarTest: 3 pass, 0 fail
+2026-11-03T21:07:59Z GalaxyTest 6.572457800 31 passed, 0 failed
+2026-11-03T21:07:59Z GateTest .107812914 GateTest: 0 fail
+2026-11-03T21:07:59Z MoonTest 3.754076745 MoonTest: 0 fail
+2026-11-03T21:07:59Z NearTest 20.969032150 NearTest: 0 fail
+2026-11-03T21:07:59Z OrbitTest 4.700434732 OrbitTest: 10 pass, 0 fail
+2026-11-03T21:07:59Z PlanetTest 7.370573839 15 passed, 0 failed
+2026-11-03T21:07:59Z RiversTest 5.918096949 RiversTest: 0 fail
+2026-11-03T21:07:59Z RoadsTest 31.915201049 RoadsTest: 0 fail
+2026-11-03T21:07:59Z SeabedTest 7.697497649 SeabedTest: 9 pass, 0 fail
+2026-11-03T21:07:59Z SitesTest 12.395304505 SitesTest: 0 fail
+2026-11-03T21:07:59Z SpaceTest 3.553130597 SpaceTest: 0 fail
+2026-11-03T21:07:59Z SpawnTest 10.092679522 SpawnTest: 3 of 3 pass
+2026-11-03T21:07:59Z SuitTest 3.647897515 SuitTest: 0 fail
+2026-11-03T21:07:59Z TideTest 3.628112177 TideTest: PASS
+2026-11-03T21:07:59Z VolcanoTest 5.152930559 VolcanoTest: 0 fail
+2026-11-03T21:07:59Z X15Test 3.646083123 X15Test: 0 fail
+2026-11-03T23:18:07Z AtmosphereTest 4.300601952 AtmosphereTest: 6 pass, 0 fail
+2026-11-03T23:18:07Z BiomesTest 3.770641080 BiomesTest: 0 fail
+2026-11-03T23:18:07Z BodiesTest 3.886058772 BodiesTest: 0 fail
+2026-11-03T23:18:07Z BreathTest 3.391623901 BreathTest: 0 fail
+2026-11-03T23:18:07Z CavesTest 10.175287737 CavesTest: 0 fail
+2026-11-03T23:18:07Z CoastTest 25.037519046 CoastTest: 0 fail
+2026-11-03T23:18:07Z EphemerisTest 10.666231296 EphemerisTest: 6 pass, 0 fail
+2026-11-03T23:18:07Z FarTest 13.139992767 FarTest: 3 pass, 0 fail
+2026-11-03T23:18:07Z GalaxyTest 6.902832792 31 passed, 0 failed
+2026-11-03T23:18:07Z GateTest .125868755 GateTest: 0 fail
+2026-11-03T23:18:07Z MoonTest 3.724378605 MoonTest: 0 fail
+2026-11-03T23:18:07Z NearTest 21.065375440 NearTest: 0 fail
+2026-11-03T23:18:07Z OrbitTest 4.654736211 OrbitTest: 10 pass, 0 fail
+2026-11-03T23:18:07Z PlanetTest 149.131055365 14 passed, 1 failed
+2026-11-03T23:18:07Z RiversTest 6.693782458 RiversTest: 0 fail
+2026-11-03T23:18:07Z RoadsTest 115.154140602 RoadsTest: 5 fail
+2026-11-03T23:18:07Z SeabedTest 16.942831443 SeabedTest: 9 pass, 0 fail
+2026-11-03T23:18:07Z SitesTest 18.318930833 SitesTest: 0 fail
+2026-11-03T23:18:07Z SpaceTest 3.684384639 SpaceTest: 0 fail
+2026-11-03T23:18:07Z SpawnTest 32.407299681 SpawnTest: 3 of 3 pass
+2026-11-03T23:18:07Z SuitTest 3.579465195 SuitTest: 0 fail
+2026-11-03T23:18:07Z TideTest 11.812551715 TideTest: PASS
+2026-11-03T23:18:07Z TownsTest 15.826401546 TownsTest: 0 fail
+2026-11-03T23:18:07Z VolcanoTest 5.553154248 VolcanoTest: 0 fail
+2026-11-03T23:18:07Z X15Test 3.620123794 X15Test: 0 fail
+2026-11-04T00:02:11Z AtmosphereTest 7.656734885 AtmosphereTest: 6 pass, 0 fail
+2026-11-04T00:02:11Z BiomesTest 7.615089906 BiomesTest: 0 fail
+2026-11-04T00:02:11Z BodiesTest 4.085462634 BodiesTest: 0 fail
+2026-11-04T00:02:11Z BreathTest 3.593925135 BreathTest: 0 fail
+2026-11-04T00:04:33Z AtmosphereTest 4.514052552 AtmosphereTest: 6 pass, 0 fail
+2026-11-04T00:04:33Z BiomesTest 4.036877246 BiomesTest: 0 fail
+2026-11-04T00:04:33Z BodiesTest 4.048526159 BodiesTest: 0 fail
+2026-11-04T00:04:33Z BreathTest 3.496089199 BreathTest: 0 fail
+2026-11-04T00:04:33Z CavesTest 10.459251496 CavesTest: 0 fail
+2026-11-04T00:04:33Z CoastTest 6.760449311 CoastTest: 0 fail
+2026-11-04T00:04:33Z EphemerisTest 3.928765651 EphemerisTest: 6 pass, 0 fail
+2026-11-04T00:04:33Z FarTest 13.557735317 FarTest: 3 pass, 0 fail
+2026-11-04T00:04:33Z GalaxyTest 7.029685845 31 passed, 0 failed
+2026-11-04T00:04:33Z GateTest .128377600 GateTest: 0 fail
+2026-11-04T00:04:33Z MoonTest 3.956378455 MoonTest: 0 fail
+2026-11-04T00:04:33Z NearTest 22.452367091 NearTest: 0 fail
+2026-11-04T00:04:33Z OrbitTest 4.789365482 OrbitTest: 10 pass, 0 fail
+2026-11-04T00:04:33Z PlanetTest 7.903348199 15 passed, 0 failed
+2026-11-04T00:04:33Z RiversTest 6.219718458 RiversTest: 0 fail
+2026-11-04T00:04:33Z RoadsTest 103.769034340 RoadsTest: 5 fail
+2026-11-04T00:04:33Z SeabedTest 8.357868977 SeabedTest: 9 pass, 0 fail
+2026-11-04T00:04:33Z SitesTest 18.192387823 SitesTest: 0 fail
+2026-11-04T00:04:33Z SpaceTest 3.709600873 SpaceTest: 0 fail
+2026-11-04T00:04:33Z SpawnTest 10.714409690 SpawnTest: 3 of 3 pass
+2026-11-04T00:04:33Z SuitTest 3.691319511 SuitTest: 0 fail
+2026-11-04T00:04:33Z TideTest 3.980578275 TideTest: PASS
+2026-11-04T00:04:33Z TownsTest 22.456733325 TownsTest: 0 fail
+2026-11-04T00:04:33Z VolcanoTest 5.620516965 VolcanoTest: 0 fail
+2026-11-04T00:04:33Z X15Test 3.672035934 X15Test: 0 fail
+2026-11-04T05:18:26Z AtmosphereTest 4.163483503 AtmosphereTest: 6 pass, 0 fail
+2026-11-04T05:18:26Z BiomesTest 3.649748019 BiomesTest: 0 fail
+2026-11-04T05:18:26Z BodiesTest 3.584913667 BodiesTest: 0 fail
+2026-11-04T05:18:26Z BreathTest 3.236550880 BreathTest: 0 fail
+2026-11-04T05:18:26Z CavesTest 9.946460493 CavesTest: 0 fail
+2026-11-04T05:18:26Z CoastTest 6.270434646 CoastTest: 0 fail
+2026-11-04T05:18:26Z EphemerisTest 3.625126062 EphemerisTest: 6 pass, 0 fail
+2026-11-04T05:18:26Z FarTest 12.221108113 FarTest: 3 pass, 0 fail
+2026-11-04T05:18:26Z GalaxyTest 6.545893754 31 passed, 0 failed
+2026-11-04T05:18:26Z GateTest .120033773 GateTest: 0 fail
+2026-11-04T05:18:26Z MoonTest 3.768351911 MoonTest: 0 fail
+2026-11-04T05:18:26Z NearTest 20.955445942 NearTest: 0 fail
+2026-11-04T05:18:26Z OrbitTest 4.536037762 OrbitTest: 10 pass, 0 fail
+2026-11-04T05:18:26Z PlanetTest 7.263050846 15 passed, 0 failed
+2026-11-04T05:18:26Z RiversTest 5.843143441 RiversTest: 0 fail
+2026-11-04T05:18:26Z RoadsTest 97.689841466 RoadsTest: 5 fail
+2026-11-04T05:18:26Z SeabedTest 7.640388421 SeabedTest: 9 pass, 0 fail
+2026-11-04T05:18:26Z SitesTest 16.293200080 SitesTest: 0 fail
+2026-11-04T05:18:26Z SpaceTest 3.551116826 SpaceTest: 0 fail
+2026-11-04T05:18:26Z SpawnTest 9.947740330 SpawnTest: 3 of 3 pass
+2026-11-04T05:18:26Z SuitTest 3.261108656 SuitTest: 0 fail
+2026-11-04T05:18:26Z TideTest 3.710479000 TideTest: PASS
+2026-11-04T05:18:26Z TownsTest 21.887938451 TownsTest: 0 fail
+2026-11-04T05:18:26Z VolcanoTest 5.247389069 VolcanoTest: 0 fail
+2026-11-04T05:18:26Z X15Test 3.346589286 X15Test: 0 fail
+2026-11-04T06:04:26Z AtmosphereTest 4.470191582 AtmosphereTest: 6 pass, 0 fail
+2026-11-04T06:04:26Z BiomesTest 3.671368308 BiomesTest: 0 fail
+2026-11-04T06:04:26Z BodiesTest 3.975345138 BodiesTest: 0 fail
+2026-11-04T06:04:26Z BreathTest 3.392939980 BreathTest: 0 fail
+2026-11-04T06:04:26Z CavesTest 9.922156749 CavesTest: 0 fail
+2026-11-04T06:04:26Z CoastTest 6.442500670 CoastTest: 0 fail
+2026-11-04T06:04:26Z EphemerisTest 3.634684849 EphemerisTest: 6 pass, 0 fail
+2026-11-04T06:04:26Z FarTest 12.672357762 FarTest: 3 pass, 0 fail
+2026-11-04T06:04:26Z GalaxyTest 6.701051032 31 passed, 0 failed
+2026-11-04T06:04:26Z GateTest .109612002 GateTest: 0 fail
+2026-11-04T06:04:26Z MoonTest 3.584464932 MoonTest: 0 fail
+2026-11-04T06:04:26Z NearTest 21.039028019 NearTest: 0 fail
+2026-11-04T06:04:26Z OrbitTest 4.457298622 OrbitTest: 10 pass, 0 fail
+2026-11-04T06:04:26Z PlanetTest 7.310882968 15 passed, 0 failed
+2026-11-04T06:04:26Z RiversTest 5.918544355 RiversTest: 0 fail
+2026-11-04T06:04:26Z RoadsTest 97.799086545 RoadsTest: 5 fail
+2026-11-04T06:04:26Z SeabedTest 7.663815775 SeabedTest: 9 pass, 0 fail
+2026-11-04T06:04:26Z SitesTest 16.740921088 SitesTest: 0 fail
+2026-11-04T06:04:26Z SpaceTest 3.500536203 SpaceTest: 0 fail
+2026-11-04T06:04:26Z SpawnTest 9.982513525 SpawnTest: 3 of 3 pass
+2026-11-04T06:04:26Z SuitTest 3.465792697 SuitTest: 0 fail
+2026-11-04T06:04:26Z TideTest 3.876733329 TideTest: PASS
+2026-11-04T06:04:26Z TownsTest 39.321474654 TownsTest: 0 fail
+2026-11-04T06:04:26Z VolcanoTest 5.124754118 VolcanoTest: 0 fail
+2026-11-04T06:04:26Z X15Test 3.460789028 X15Test: 0 fail
+2026-11-04T07:06:25Z AtmosphereTest 6.223538795 AtmosphereTest: 6 pass, 0 fail
+2026-11-04T07:06:25Z BiomesTest 6.236170231 BiomesTest: 0 fail
+2026-11-04T07:06:25Z BodiesTest 6.390404721 BodiesTest: 0 fail
+2026-11-04T07:06:25Z BreathTest 5.899408636 BreathTest: 0 fail
+2026-11-04T07:06:25Z CavesTest 12.706507976 CavesTest: 0 fail
+2026-11-04T07:06:25Z CoastTest 9.170131716 CoastTest: 0 fail
+2026-11-04T07:06:25Z EphemerisTest 5.924177578 EphemerisTest: 6 pass, 0 fail
+2026-11-04T07:06:25Z FarTest 26.896239279 FarTest: 3 pass, 0 fail
+2026-11-04T07:06:25Z GalaxyTest 7.788682546 31 passed, 0 failed
+2026-11-04T07:06:25Z GateTest .155833783 GateTest: 0 fail
+2026-11-04T07:06:25Z MoonTest 5.943464989 MoonTest: 0 fail
+2026-11-04T07:06:25Z NearTest 25.398748435 NearTest: 0 fail
+2026-11-04T07:06:25Z OrbitTest 7.305404215 OrbitTest: 10 pass, 0 fail
+2026-11-04T07:06:25Z PlanetTest 10.390427118 15 passed, 0 failed
+2026-11-04T07:06:25Z RiversTest 10.317548260 RiversTest: 0 fail
+2026-11-04T07:06:25Z RoadsTest 134.449010302 RoadsTest: 9 fail
+2026-11-04T07:06:25Z SeabedTest 10.439967351 SeabedTest: 9 pass, 0 fail
+2026-11-04T07:06:25Z SitesTest 32.511567250 SitesTest: 2 fail
+2026-11-04T07:06:25Z SpaceTest 3.658686355 SpaceTest: 0 fail
+2026-11-04T07:06:25Z SpawnTest 10.507194090 SpawnTest: 3 of 3 pass
+2026-11-04T07:06:25Z SuitTest 3.428738949 SuitTest: 0 fail
+2026-11-04T07:06:25Z TideTest 3.759267026 TideTest: PASS
+2026-11-04T07:06:25Z TownsTest 186.766328360 	... 3 more
+2026-11-04T07:06:25Z VolcanoTest 7.664042771 VolcanoTest: 0 fail
+2026-11-04T07:06:25Z X15Test 5.762317058 X15Test: 0 fail
+2026-11-04T07:17:51Z AtmosphereTest 6.369238083 AtmosphereTest: 6 pass, 0 fail
+2026-11-04T07:17:51Z BiomesTest 6.208279682 BiomesTest: 0 fail
+2026-11-04T07:17:51Z BodiesTest 6.384767970 BodiesTest: 0 fail
+2026-11-04T07:17:51Z BreathTest 5.748694037 BreathTest: 0 fail
+2026-11-04T07:17:51Z CavesTest 12.909545447 CavesTest: 0 fail
+2026-11-04T07:17:51Z CoastTest 9.239485287 CoastTest: 0 fail
+2026-11-04T07:17:51Z EphemerisTest 5.631523957 EphemerisTest: 6 pass, 0 fail
+2026-11-04T07:17:51Z FarTest 26.610310465 FarTest: 3 pass, 0 fail
+2026-11-04T07:17:51Z GalaxyTest 7.546233240 31 passed, 0 failed
+2026-11-04T07:17:51Z GateTest .186596894 GateTest: 0 fail
+2026-11-04T07:17:51Z MoonTest 6.274973187 MoonTest: 0 fail
+2026-11-04T07:17:51Z NearTest 25.001958297 NearTest: 0 fail
+2026-11-04T07:17:51Z OrbitTest 7.019512342 OrbitTest: 10 pass, 0 fail
+2026-11-04T07:17:51Z PlanetTest 10.195716523 15 passed, 0 failed
+2026-11-04T07:17:51Z RiversTest 11.044245929 RiversTest: 0 fail
+2026-11-04T07:17:51Z RoadsTest 108.892652011 RoadsTest: 4 fail
+2026-11-04T07:17:51Z SeabedTest 10.350221191 SeabedTest: 9 pass, 0 fail
+2026-11-04T07:17:51Z SitesTest 35.764902904 SitesTest: 1 fail
+2026-11-04T07:17:51Z SpaceTest 5.856884955 SpaceTest: 0 fail
+2026-11-04T07:17:51Z SpawnTest 16.783140066 SpawnTest: 3 of 3 pass
+2026-11-04T07:17:51Z SuitTest 5.499074896 SuitTest: 0 fail
+2026-11-04T07:17:51Z TideTest 5.949824069 TideTest: PASS
+2026-11-04T07:17:51Z TownsTest 147.786721791 	at com.hopeless.infinity.planet.Roads.lay(Roads.java:167)
+2026-11-04T07:17:51Z VolcanoTest 5.486576495 VolcanoTest: 0 fail
+2026-11-04T07:17:51Z X15Test 3.564417951 X15Test: 0 fail
+2026-11-04T07:30:40Z AtmosphereTest 4.211623827 AtmosphereTest: 6 pass, 0 fail
+2026-11-04T07:30:40Z BiomesTest 3.657634713 BiomesTest: 0 fail
+2026-11-04T07:30:40Z BodiesTest 3.652483688 BodiesTest: 0 fail
+2026-11-04T07:30:40Z BreathTest 3.340487462 BreathTest: 0 fail
+2026-11-04T07:30:40Z CavesTest 9.807320552 CavesTest: 0 fail
+2026-11-04T07:30:40Z CoastTest 6.175494243 CoastTest: 0 fail
+2026-11-04T07:30:40Z EphemerisTest 3.745771805 EphemerisTest: 6 pass, 0 fail
+2026-11-04T07:30:40Z FarTest 14.992691890 FarTest: 3 pass, 0 fail
+2026-11-04T07:30:40Z GalaxyTest 6.604969731 31 passed, 0 failed
+2026-11-04T07:30:40Z GateTest .126157924 GateTest: 0 fail
+2026-11-04T07:30:40Z MoonTest 3.866483181 MoonTest: 0 fail
+2026-11-04T07:30:40Z NearTest 20.597426739 NearTest: 0 fail
+2026-11-04T07:30:40Z OrbitTest 4.474168017 OrbitTest: 10 pass, 0 fail
+2026-11-04T07:30:40Z PlanetTest 7.268836193 15 passed, 0 failed
+2026-11-04T07:30:40Z RiversTest 6.027275936 RiversTest: 0 fail
+2026-11-04T07:30:40Z RoadsTest 68.596389545 RoadsTest: 5 fail
+2026-11-04T07:30:40Z SeabedTest 8.045896516 SeabedTest: 9 pass, 0 fail
+2026-11-04T07:30:40Z SitesTest 19.787681910 SitesTest: 0 fail
+2026-11-04T07:30:40Z SpaceTest 3.679672294 SpaceTest: 0 fail
+2026-11-04T07:30:40Z SpawnTest 10.630779673 SpawnTest: 3 of 3 pass
+2026-11-04T07:30:40Z SuitTest 3.479327666 SuitTest: 0 fail
+2026-11-04T07:30:40Z TideTest 3.828012697 TideTest: PASS
+2026-11-04T07:30:40Z TownsTest 139.913929888 	... 3 more
+2026-11-04T07:30:40Z VolcanoTest 5.232894999 VolcanoTest: 0 fail
+2026-11-04T07:30:40Z X15Test 3.600058448 X15Test: 0 fail
+2026-11-04T07:48:25Z AtmosphereTest 4.221428843 AtmosphereTest: 6 pass, 0 fail
+2026-11-04T07:48:25Z BiomesTest 3.592204170 BiomesTest: 0 fail
+2026-11-04T07:48:25Z BodiesTest 3.864995384 BodiesTest: 0 fail
+2026-11-04T07:48:25Z BreathTest 3.307996226 BreathTest: 0 fail
+2026-11-04T07:48:25Z CavesTest 10.008508718 CavesTest: 0 fail
+2026-11-04T07:48:25Z CoastTest 6.506715037 CoastTest: 0 fail
+2026-11-04T07:48:25Z EphemerisTest 3.532455693 EphemerisTest: 6 pass, 0 fail
+2026-11-04T07:48:25Z FarTest 15.446355660 FarTest: 3 pass, 0 fail
+2026-11-04T07:48:25Z GalaxyTest 6.671548672 31 passed, 0 failed
+2026-11-04T07:48:25Z GateTest .101737079 GateTest: 0 fail
+2026-11-04T07:48:25Z MoonTest 3.790374271 MoonTest: 0 fail
+2026-11-04T07:48:25Z NearTest 20.861050737 NearTest: 0 fail
+2026-11-04T07:48:25Z OrbitTest 4.366639690 OrbitTest: 10 pass, 0 fail
+2026-11-04T07:48:25Z PlanetTest 7.435784538 15 passed, 0 failed
+2026-11-04T07:48:25Z RiversTest 5.523083460 RiversTest: 0 fail
+2026-11-04T07:48:25Z RoadsTest 67.263366074 RoadsTest: 4 fail
+2026-11-04T07:48:25Z SeabedTest 7.399142508 SeabedTest: 9 pass, 0 fail
+2026-11-04T07:48:25Z SitesTest 20.810824612 SitesTest: 0 fail
+2026-11-04T07:48:25Z SpaceTest 3.427895379 SpaceTest: 0 fail
+2026-11-04T07:48:25Z SpawnTest 10.354446048 SpawnTest: 3 of 3 pass
+2026-11-04T07:48:25Z SuitTest 3.413136396 SuitTest: 0 fail
+2026-11-04T07:48:25Z TideTest 3.781240312 TideTest: PASS
+2026-11-04T07:48:25Z TownsTest 69.999688736 TownsTest: 0 fail
+2026-11-04T07:48:25Z VolcanoTest 4.904050885 VolcanoTest: 0 fail
+2026-11-04T07:48:25Z X15Test 3.413062154 X15Test: 0 fail
+2026-11-04T11:39:19Z AtmosphereTest 4.833864998 AtmosphereTest: 6 pass, 0 fail
+2026-11-04T11:39:19Z BiomesTest 4.366434386 BiomesTest: 0 fail
+2026-11-04T11:39:19Z BodiesTest 4.327092763 BodiesTest: 0 fail
+2026-11-04T11:39:19Z BreathTest 3.866452525 BreathTest: 0 fail
+2026-11-04T11:39:19Z CavesTest 12.523472921 CavesTest: 0 fail
+2026-11-04T11:39:19Z CoastTest 8.097884801 CoastTest: 0 fail
+2026-11-04T11:39:19Z EphemerisTest 4.512239371 EphemerisTest: 6 pass, 0 fail
+2026-11-04T11:39:19Z FarTest 18.968065717 FarTest: 3 pass, 0 fail
+2026-11-04T11:39:19Z GalaxyTest 8.134087792 31 passed, 0 failed
+2026-11-04T11:39:19Z GateTest .133352269 GateTest: 0 fail
+2026-11-04T11:39:19Z MoonTest 4.743271734 MoonTest: 0 fail
+2026-11-04T11:39:19Z NearTest 26.014129471 NearTest: 0 fail
+2026-11-04T11:39:19Z OrbitTest 5.433443386 OrbitTest: 10 pass, 0 fail
+2026-11-04T11:39:19Z PlanetTest 8.929116766 15 passed, 0 failed
+2026-11-04T11:39:19Z RiversTest 7.331854717 RiversTest: 0 fail
+2026-11-04T11:39:19Z RoadsTest 89.435663121 RoadsTest: 5 fail
+2026-11-04T11:39:19Z SeabedTest 9.243834266 SeabedTest: 9 pass, 0 fail
+2026-11-04T11:39:19Z SitesTest 24.321117272 SitesTest: 1 fail
+2026-11-04T11:39:19Z SpaceTest 4.323525013 SpaceTest: 0 fail
+2026-11-04T11:39:19Z SpawnTest 11.834358991 SpawnTest: 3 of 3 pass
+2026-11-04T11:39:19Z SuitTest 3.966153437 SuitTest: 0 fail
+2026-11-04T11:39:19Z TideTest 4.499475692 TideTest: PASS
+2026-11-04T11:39:19Z TownsTest 82.612296029 TownsTest: 0 fail
+2026-11-04T11:39:19Z VolcanoTest 6.218666790 VolcanoTest: 0 fail
+2026-11-04T11:39:19Z X15Test 3.832897146 X15Test: 0 fail
+2026-11-04T12:19:48Z AtmosphereTest 4.742523403 AtmosphereTest: 6 pass, 0 fail
+2026-11-04T12:19:48Z BiomesTest 4.213000297 BiomesTest: 0 fail
+2026-11-04T12:19:48Z BodiesTest 4.628296381 BodiesTest: 0 fail
+2026-11-04T12:19:48Z BreathTest 3.754669350 BreathTest: 0 fail
+2026-11-04T12:19:48Z CavesTest 11.910628941 CavesTest: 0 fail
+2026-11-04T12:19:48Z CoastTest 7.416834897 CoastTest: 0 fail
+2026-11-04T12:19:48Z EphemerisTest 3.986484071 EphemerisTest: 6 pass, 0 fail
+2026-11-04T12:19:48Z FarTest 15.390293835 FarTest: 3 pass, 0 fail
+2026-11-04T12:19:48Z GalaxyTest 7.880588635 31 passed, 0 failed
+2026-11-04T12:19:48Z GateTest .111643620 GateTest: 0 fail
+2026-11-04T12:19:48Z MoonTest 4.286092094 MoonTest: 0 fail
+2026-11-04T12:19:48Z NearTest 24.216332301 NearTest: 0 fail
+2026-11-04T12:19:48Z OrbitTest 5.021619576 OrbitTest: 10 pass, 0 fail
+2026-11-04T12:19:48Z PlanetTest 8.870924104 15 passed, 0 failed
+2026-11-04T12:19:48Z RiversTest 6.980121022 RiversTest: 0 fail
+2026-11-04T12:19:48Z RoadsTest 86.188546002 RoadsTest: 5 fail
+2026-11-04T12:19:48Z SeabedTest 9.139750518 SeabedTest: 9 pass, 0 fail
+2026-11-04T12:19:48Z SitesTest 20.369357275 SitesTest: 0 fail
+2026-11-04T12:19:48Z SpaceTest 4.294965463 SpaceTest: 0 fail
+2026-11-04T12:19:48Z SpawnTest 11.069489284 SpawnTest: 3 of 3 pass
+2026-11-04T12:19:48Z SuitTest 3.698153223 SuitTest: 0 fail
+2026-11-04T12:19:48Z TideTest 4.518597736 TideTest: PASS
+2026-11-04T12:19:48Z TownsTest 80.580285090 TownsTest: 0 fail
+2026-11-04T12:19:48Z VolcanoTest 6.098856205 VolcanoTest: 0 fail
+2026-11-04T12:19:48Z X15Test 4.188835688 X15Test: 0 fail
+2026-11-04T12:54:05Z AtmosphereTest 5.329113434 AtmosphereTest: 6 pass, 0 fail
+2026-11-04T12:54:05Z BiomesTest 4.258903643 BiomesTest: 0 fail
+2026-11-04T12:54:05Z BodiesTest 4.414040132 BodiesTest: 0 fail
+2026-11-04T12:54:05Z BreathTest 4.023643147 BreathTest: 0 fail
+2026-11-04T12:54:05Z CavesTest 12.419333995 CavesTest: 0 fail
+2026-11-04T12:54:05Z CoastTest 7.915524274 CoastTest: 0 fail
+2026-11-04T12:54:05Z EphemerisTest 4.084929750 EphemerisTest: 6 pass, 0 fail
+2026-11-04T12:54:05Z FarTest 15.421534932 FarTest: 3 pass, 0 fail
+2026-11-04T12:54:05Z GalaxyTest 8.321383705 31 passed, 0 failed
+2026-11-04T12:54:05Z GateTest .110842911 GateTest: 0 fail
+2026-11-04T12:54:05Z MoonTest 4.339967393 MoonTest: 0 fail
+2026-11-04T12:54:05Z NearTest 25.084825099 NearTest: 0 fail
+2026-11-04T12:54:05Z OrbitTest 5.468693589 OrbitTest: 10 pass, 0 fail
+2026-11-04T12:54:05Z PlanetTest 8.697411353 15 passed, 0 failed
+2026-11-04T12:54:05Z RiversTest 7.034914669 RiversTest: 0 fail
+2026-11-04T12:54:05Z RoadsTest 62.790035866 RoadsTest: 5 fail
+2026-11-04T12:54:05Z SeabedTest 9.511404233 SeabedTest: 9 pass, 0 fail
+2026-11-04T12:54:05Z SitesTest 21.794951822 SitesTest: 0 fail
+2026-11-04T12:54:05Z SpaceTest 4.482589806 SpaceTest: 0 fail
+2026-11-04T12:54:05Z SpawnTest 12.560790403 SpawnTest: 3 of 3 pass
+2026-11-04T12:54:05Z SuitTest 4.014994600 SuitTest: 0 fail
+2026-11-04T12:54:05Z TideTest 4.443947498 TideTest: PASS
+2026-11-04T12:54:05Z TownsTest 86.701519343 TownsTest: 1 fail
+2026-11-04T12:54:05Z VolcanoTest 6.356835346 VolcanoTest: 0 fail
+2026-11-04T12:54:05Z X15Test 4.163357528 X15Test: 0 fail
+2026-11-04T13:54:05Z AtmosphereTest 5.020594992 AtmosphereTest: 6 pass, 0 fail
+2026-11-04T13:54:05Z BiomesTest 4.252946085 BiomesTest: 0 fail
+2026-11-04T13:54:05Z BodiesTest 4.649661021 BodiesTest: 0 fail
+2026-11-04T13:54:05Z BreathTest 4.366246943 BreathTest: 0 fail
+2026-11-04T13:54:05Z CavesTest 12.534863921 CavesTest: 0 fail
+2026-11-04T13:54:05Z CoastTest 7.802722455 CoastTest: 0 fail
+2026-11-04T13:54:05Z EphemerisTest 4.224761173 EphemerisTest: 6 pass, 0 fail
+2026-11-04T13:54:05Z FarTest 15.127327063 FarTest: 3 pass, 0 fail
+2026-11-04T13:54:05Z GalaxyTest 8.203986437 31 passed, 0 failed
+2026-11-04T13:54:05Z GateTest .117410480 GateTest: 0 fail
+2026-11-04T13:54:05Z MoonTest 4.255253432 MoonTest: 0 fail
+2026-11-04T13:54:05Z NearTest 25.310127653 NearTest: 0 fail
+2026-11-04T13:54:05Z OrbitTest 5.232638029 OrbitTest: 10 pass, 0 fail
+2026-11-04T13:54:05Z PlanetTest 9.481727878 15 passed, 0 failed
+2026-11-04T13:54:05Z RiversTest 7.105157365 RiversTest: 0 fail
+2026-11-04T13:54:05Z RoadsTest 87.610516997 RoadsTest: 4 fail
+2026-11-04T13:54:05Z SeabedTest 9.450088615 SeabedTest: 9 pass, 0 fail
+2026-11-04T13:54:05Z SitesTest 21.955855276 SitesTest: 0 fail
+2026-11-04T13:54:05Z SpaceTest 4.394944631 SpaceTest: 0 fail
+2026-11-04T13:54:05Z SpawnTest 12.923945587 SpawnTest: 3 of 3 pass
+2026-11-04T13:54:05Z SuitTest 4.189785664 SuitTest: 0 fail
+2026-11-04T13:54:05Z TideTest 4.515918986 TideTest: PASS
+2026-11-04T13:54:05Z TowerTest 3.381505549 TowerTest: 0 fail
+2026-11-04T13:54:05Z TownsTest 79.534730387 TownsTest: 0 fail
+2026-11-04T13:54:05Z VolcanoTest 6.301599032 VolcanoTest: 0 fail
+2026-11-04T13:54:05Z X15Test 4.011953824 X15Test: 0 fail
+2026-11-04T15:06:36Z AtmosphereTest 7.989610021 AtmosphereTest: 6 pass, 0 fail
+2026-11-04T15:06:36Z BiomesTest 7.605182833 BiomesTest: 0 fail
+2026-11-04T15:06:36Z BodiesTest 7.309692649 BodiesTest: 0 fail
+2026-11-04T15:06:36Z BreathTest 4.351315816 BreathTest: 0 fail
+2026-11-04T15:06:36Z CavesTest 12.156353687 CavesTest: 0 fail
+2026-11-04T15:06:36Z CoastTest 14.990446933 CoastTest: 0 fail
+2026-11-04T15:06:36Z EphemerisTest 10.341856907 EphemerisTest: 6 pass, 0 fail
+2026-11-04T15:06:36Z FarTest 16.699179005 FarTest: 3 pass, 0 fail
+2026-11-04T15:06:36Z GalaxyTest 8.652998544 31 passed, 0 failed
+2026-11-04T15:06:36Z GateTest .112441775 GateTest: 0 fail
+2026-11-04T15:06:36Z MetroTest 19.532398247 MetroTest: 0 fail
+2026-11-04T15:06:36Z MoonTest 4.688175699 MoonTest: 0 fail
+2026-11-04T15:06:36Z NearTest 26.178071614 NearTest: 0 fail
+2026-11-04T15:06:36Z OrbitTest 5.682877944 OrbitTest: 10 pass, 0 fail
+2026-11-04T15:06:36Z PlanetTest 16.006277764 14 passed, 1 failed
+2026-11-04T15:06:36Z RiversTest 7.149305208 RiversTest: 0 fail
+2026-11-04T15:06:36Z RoadsTest 88.044285895 RoadsTest: 4 fail
+2026-11-04T15:06:36Z SeabedTest 18.379663350 SeabedTest: 9 pass, 0 fail
+2026-11-04T15:06:36Z SitesTest 26.112248237 SitesTest: 1 fail
+2026-11-04T15:06:36Z SpaceTest 7.558556777 SpaceTest: 0 fail
+2026-11-04T15:06:36Z SpawnTest 46.616241948 SpawnTest: 3 of 3 pass
+2026-11-04T15:06:36Z SuitTest 6.990311280 SuitTest: 0 fail
+2026-11-04T15:06:36Z TideTest 18.713029718 TideTest: PASS
+2026-11-04T15:06:36Z TowerTest 8.550243031 TowerTest: 0 fail
+2026-11-04T15:06:36Z TownsTest 123.245160362 TownsTest: 1 fail
+2026-11-04T15:06:36Z VolcanoTest 9.715142207 VolcanoTest: 0 fail
+2026-11-04T15:06:36Z X15Test 4.800608688 X15Test: 0 fail
+2026-11-04T15:37:38Z AtmosphereTest 5.498731583 AtmosphereTest: 6 pass, 0 fail
+2026-11-04T15:37:38Z BiomesTest 4.511486266 BiomesTest: 0 fail
+2026-11-04T15:37:38Z BodiesTest 4.635729747 BodiesTest: 0 fail
+2026-11-04T15:37:38Z BreathTest 4.449069410 BreathTest: 0 fail
+2026-11-04T15:37:38Z CavesTest 12.876030694 CavesTest: 0 fail
+2026-11-04T15:37:38Z CoastTest 8.389466976 CoastTest: 0 fail
+2026-11-04T15:37:38Z EphemerisTest 4.565881839 EphemerisTest: 6 pass, 0 fail
+2026-11-04T15:37:38Z FarTest 17.812898359 FarTest: 3 pass, 0 fail
+2026-11-04T15:37:38Z GalaxyTest 9.351558037 31 passed, 0 failed
+2026-11-04T15:37:38Z GateTest .118531654 GateTest: 0 fail
+2026-11-04T15:37:38Z GreatGateTest 18.796980649 GreatGateTest: 0 fail
+2026-11-04T15:37:38Z MetroTest 19.913715248 MetroTest: 0 fail
+2026-11-04T15:37:38Z MoonTest 4.762358978 MoonTest: 0 fail
+2026-11-04T15:37:38Z NearTest 25.409188325 NearTest: 0 fail
+2026-11-04T15:37:38Z OrbitTest 5.691963733 OrbitTest: 10 pass, 0 fail
+2026-11-04T15:37:38Z PlanetTest 9.195943127 15 passed, 0 failed
+2026-11-04T15:37:38Z RiversTest 7.241969778 RiversTest: 0 fail
+2026-11-04T15:37:38Z RoadsTest 91.325959002 RoadsTest: 4 fail
+2026-11-04T15:37:38Z SeabedTest 10.208231366 SeabedTest: 9 pass, 0 fail
+2026-11-04T15:37:38Z SitesTest 22.494731356 SitesTest: 0 fail
+2026-11-04T15:37:38Z SpaceTest 4.383011335 SpaceTest: 0 fail
+2026-11-04T15:37:38Z SpawnTest 11.704324538 SpawnTest: 3 of 3 pass
+2026-11-04T15:37:38Z SuitTest 4.636291516 SuitTest: 0 fail
+2026-11-04T15:37:38Z TideTest 4.512787111 TideTest: PASS
+2026-11-04T15:37:38Z TowerTest 5.273847204 TowerTest: 0 fail
+2026-11-04T15:37:38Z TownsTest 80.159752942 TownsTest: 0 fail
+2026-11-04T15:37:38Z VolcanoTest 6.155823925 VolcanoTest: 0 fail
+2026-11-04T15:37:38Z X15Test 4.059958202 X15Test: 0 fail
+2026-11-04T15:55:01Z AtmosphereTest 4.839351459 AtmosphereTest: 6 pass, 0 fail
+2026-11-04T15:55:01Z BiomesTest 4.934384400 BiomesTest: 0 fail
+2026-11-04T15:55:01Z BodiesTest 4.597513748 BodiesTest: 0 fail
+2026-11-04T15:55:01Z BreathTest 4.258019380 BreathTest: 0 fail
+2026-11-04T15:55:01Z CavesTest 12.172120559 CavesTest: 0 fail
+2026-11-04T15:55:01Z CoastTest 8.142365654 CoastTest: 0 fail
+2026-11-04T15:55:01Z EphemerisTest 4.295564846 EphemerisTest: 6 pass, 0 fail
+2026-11-04T15:55:01Z FarTest 16.066783153 FarTest: 3 pass, 0 fail
+2026-11-04T15:55:01Z GalaxyTest 9.717163960 31 passed, 0 failed
+2026-11-04T15:55:01Z GateTest .128281239 GateTest: 0 fail
+2026-11-04T15:55:01Z GreatGateTest 19.831074808 GreatGateTest: 0 fail
+2026-11-04T15:55:01Z MetroTest 19.608378020 MetroTest: 0 fail
+2026-11-04T15:55:01Z MoonTest 4.772374783 MoonTest: 0 fail
+2026-11-04T15:55:01Z NearTest 25.797113765 NearTest: 0 fail
+2026-11-04T15:55:01Z OrbitTest 5.570556818 OrbitTest: 10 pass, 0 fail
+2026-11-04T15:55:01Z PlanetTest 8.666753424 15 passed, 0 failed
+2026-11-04T15:55:01Z RiversTest 7.172113078 RiversTest: 0 fail
+2026-11-04T15:55:01Z RoadsTest 87.091655351 RoadsTest: 4 fail
+2026-11-04T15:55:01Z SeabedTest 9.412992606 SeabedTest: 9 pass, 0 fail
+2026-11-04T15:55:01Z SitesTest 23.474202629 SitesTest: 0 fail
+2026-11-04T15:55:01Z SpaceTest 4.403513522 SpaceTest: 0 fail
+2026-11-04T15:55:01Z SpawnTest 12.475728108 SpawnTest: 3 of 3 pass
+2026-11-04T15:55:01Z SuitTest 4.043648624 SuitTest: 0 fail
+2026-11-04T15:55:01Z TideTest 4.368162609 TideTest: PASS
+2026-11-04T15:55:01Z TowerTest 5.428308847 TowerTest: 0 fail
+2026-11-04T15:55:01Z TownsTest 83.745149255 TownsTest: 0 fail
+2026-11-04T15:55:01Z VolcanoTest 6.369254267 VolcanoTest: 0 fail
+2026-11-04T15:55:01Z X15Test 4.383434896 X15Test: 0 fail
+2026-11-04T21:12:36Z AtmosphereTest 4.912262909 AtmosphereTest: 6 pass, 0 fail
+2026-11-04T21:12:36Z BiomesTest 3.938720922 BiomesTest: 0 fail
+2026-11-04T21:12:36Z BodiesTest 3.896546750 BodiesTest: 0 fail
+2026-11-04T21:12:36Z BreathTest 3.420698108 BreathTest: 0 fail
+2026-11-04T21:12:36Z CavesTest 11.059581234 CavesTest: 0 fail
+2026-11-04T21:12:36Z CoastTest 7.404636798 CoastTest: 0 fail
+2026-11-04T21:12:36Z EphemerisTest 4.210480662 EphemerisTest: 6 pass, 0 fail
+2026-11-04T21:12:36Z FarTest 13.931379733 FarTest: 3 pass, 0 fail
+2026-11-04T21:12:36Z FrontageTest 18.182306869 FrontageTest: 0 fail
+2026-11-04T21:12:36Z GalaxyTest 7.974061549 31 passed, 0 failed
+2026-11-04T21:12:36Z GateTest .093868940 GateTest: 0 fail
+2026-11-04T21:12:36Z GreatGateTest 17.200217089 GreatGateTest: 0 fail
+2026-11-04T21:12:36Z MetroTest 18.330547054 MetroTest: 0 fail
+2026-11-04T21:12:36Z MoonTest 4.115777662 MoonTest: 0 fail
+2026-11-04T21:12:36Z NearTest 23.995253006 NearTest: 0 fail
+2026-11-04T21:12:36Z OrbitTest 5.394268760 OrbitTest: 10 pass, 0 fail
+2026-11-04T21:12:36Z PlanetTest 8.448214943 15 passed, 0 failed
+2026-11-04T21:12:36Z RiversTest 6.675152826 RiversTest: 0 fail
+2026-11-04T21:12:36Z RoadsTest 81.879457060 RoadsTest: 5 fail
+2026-11-04T21:12:36Z SeabedTest 8.857846064 SeabedTest: 9 pass, 0 fail
+2026-11-04T21:12:36Z SitesTest 19.724328157 SitesTest: 0 fail
+2026-11-04T21:12:36Z SpaceTest 4.117085275 SpaceTest: 0 fail
+2026-11-04T21:12:36Z SpawnTest 13.977835258 SpawnTest: 3 of 3 pass
+2026-11-04T21:12:36Z SuitTest 5.315879625 SuitTest: 0 fail
+2026-11-04T21:12:36Z TideTest 6.833957559 TideTest: PASS
+2026-11-04T21:12:36Z TowerTest 6.849545360 TowerTest: 0 fail
+2026-11-04T21:12:36Z TownsTest 193.300616082 TownsTest: 0 fail
+2026-11-04T21:12:36Z VolcanoTest 7.561660003 VolcanoTest: 0 fail
+2026-11-04T21:12:36Z X15Test 4.227502741 X15Test: 0 fail
+2026-11-04T22:13:49Z AtmosphereTest 4.177520215 AtmosphereTest: 6 pass, 0 fail
+2026-11-04T22:13:49Z BiomesTest 3.672894377 BiomesTest: 0 fail
+2026-11-04T22:13:49Z BodiesTest 3.717795749 BodiesTest: 0 fail
+2026-11-04T22:13:49Z BreathTest 3.403164752 BreathTest: 0 fail
+2026-11-04T22:13:49Z BusinessesTest 33.540616367 BusinessesTest: 0 fail
+2026-11-04T22:13:49Z CavesTest 10.391894008 CavesTest: 0 fail
+2026-11-04T22:13:49Z CoastTest 6.308176458 CoastTest: 0 fail
+2026-11-04T22:13:49Z EphemerisTest 3.626156925 EphemerisTest: 6 pass, 0 fail
+2026-11-04T22:13:49Z FarTest 12.891191657 FarTest: 3 pass, 0 fail
+2026-11-04T22:13:49Z FrontageTest 16.574370766 FrontageTest: 0 fail
+2026-11-04T22:13:49Z GalaxyTest 6.938093028 31 passed, 0 failed
+2026-11-04T22:13:49Z GateTest .101650392 GateTest: 0 fail
+2026-11-04T22:13:49Z GreatGateTest 14.636830012 GreatGateTest: 0 fail
+2026-11-04T22:13:49Z MetroTest 15.765936349 MetroTest: 0 fail
+2026-11-04T22:13:49Z MoonTest 3.625788720 MoonTest: 0 fail
+2026-11-04T22:13:49Z NearTest 22.062146782 NearTest: 0 fail
+2026-11-04T22:13:49Z OrbitTest 4.526850057 OrbitTest: 10 pass, 0 fail
+2026-11-04T22:13:49Z PlanetTest 7.444854078 15 passed, 0 failed
+2026-11-04T22:13:49Z RiversTest 5.683983054 RiversTest: 0 fail
+2026-11-04T22:13:49Z RoadsTest 74.915484246 RoadsTest: 4 fail
+2026-11-04T22:13:49Z SeabedTest 7.459198493 SeabedTest: 9 pass, 0 fail
+2026-11-04T22:13:49Z SitesTest 16.595710654 SitesTest: 0 fail
+2026-11-04T22:13:49Z SpaceTest 3.347964673 SpaceTest: 0 fail
+2026-11-04T22:13:49Z SpawnTest 10.135123315 SpawnTest: 3 of 3 pass
+2026-11-04T22:13:49Z SuitTest 3.374414842 SuitTest: 0 fail
+2026-11-04T22:13:49Z TideTest 3.736649924 TideTest: PASS
+2026-11-04T22:13:49Z TowerTest 4.218337274 TowerTest: 0 fail
+2026-11-04T22:13:49Z TownsTest 67.964202104 TownsTest: 0 fail
+2026-11-04T22:13:49Z VolcanoTest 5.027150524 VolcanoTest: 0 fail
+2026-11-04T22:13:49Z X15Test 3.226603825 X15Test: 0 fail
+2026-11-04T22:25:08Z AtmosphereTest 4.129737697 AtmosphereTest: 6 pass, 0 fail
+2026-11-04T22:25:08Z BiomesTest 3.520478175 BiomesTest: 0 fail
+2026-11-04T22:25:08Z BodiesTest 3.784193916 BodiesTest: 0 fail
+2026-11-04T22:25:08Z BreathTest 3.240743604 BreathTest: 0 fail
+2026-11-04T22:25:08Z BusinessesTest 33.298807326 BusinessesTest: 0 fail
+2026-11-04T22:25:08Z CavesTest 10.175178207 CavesTest: 0 fail
+2026-11-04T22:25:08Z CoastTest 6.315913254 CoastTest: 0 fail
+2026-11-04T22:25:08Z EphemerisTest 3.378802970 EphemerisTest: 6 pass, 0 fail
+2026-11-04T22:25:08Z FarTest 12.674153944 FarTest: 3 pass, 0 fail
+2026-11-04T22:25:08Z FrontageTest 14.523946852 FrontageTest: 0 fail
+2026-11-04T22:25:08Z GalaxyTest 6.746926556 31 passed, 0 failed
+2026-11-04T22:25:08Z GateTest .086739001 GateTest: 0 fail
+2026-11-04T22:25:08Z GreatGateTest 14.834103988 GreatGateTest: 0 fail
+2026-11-04T22:25:08Z MetroTest 15.369050191 MetroTest: 0 fail
+2026-11-04T22:25:08Z MoonTest 3.533780047 MoonTest: 0 fail
+2026-11-04T22:25:08Z NearTest 21.140298750 NearTest: 0 fail
+2026-11-04T22:25:08Z OrbitTest 4.528416348 OrbitTest: 10 pass, 0 fail
+2026-11-04T22:25:08Z PlanetTest 7.296167087 15 passed, 0 failed
+2026-11-04T22:25:08Z RiversTest 5.539947286 RiversTest: 0 fail
+2026-11-04T22:25:08Z RoadsTest 73.088191062 RoadsTest: 4 fail
+2026-11-04T22:25:08Z SeabedTest 7.510139497 SeabedTest: 9 pass, 0 fail
+2026-11-04T22:25:08Z SitesTest 16.701908860 SitesTest: 0 fail
+2026-11-04T22:25:08Z SpaceTest 3.520488324 SpaceTest: 0 fail
+2026-11-04T22:25:08Z SpawnTest 9.612830116 SpawnTest: 3 of 3 pass
+2026-11-04T22:25:08Z SuitTest 3.268418489 SuitTest: 0 fail
+2026-11-04T22:25:08Z TideTest 3.554570883 TideTest: PASS
+2026-11-04T22:25:08Z TowerTest 4.244856248 TowerTest: 0 fail
+2026-11-04T22:25:08Z TownsTest 67.717367612 TownsTest: 0 fail
+2026-11-04T22:25:08Z VolcanoTest 5.379259277 VolcanoTest: 0 fail
+2026-11-04T22:25:08Z X15Test 3.462442996 X15Test: 0 fail
+2026-11-04T23:50:38Z AtmosphereTest 3.495896243 AtmosphereTest: 6 pass, 0 fail
+2026-11-04T23:50:55Z AtmosphereTest 3.416629717 AtmosphereTest: 6 pass, 0 fail
+2026-11-04T23:50:55Z BiomesTest 2.902827885 BiomesTest: 0 fail
+2026-11-04T23:50:55Z BodiesTest 3.157521859 BodiesTest: 0 fail
+2026-11-04T23:50:55Z BreathTest 2.657873674 BreathTest: 0 fail
+2026-11-04T23:50:55Z BusinessesTest 27.780733178 BusinessesTest: 0 fail
+2026-11-04T23:50:55Z CavesTest 8.098966242 CavesTest: 0 fail
+2026-11-04T23:50:55Z CoastTest 4.974568486 CoastTest: 0 fail
+2026-11-04T23:50:55Z EphemerisTest 2.906759049 EphemerisTest: 6 pass, 0 fail
+2026-11-04T23:50:55Z FarTest 10.551176493 FarTest: 3 pass, 0 fail
+2026-11-04T23:50:55Z FrontageTest 15.725541741 FrontageTest: 0 fail
+2026-11-04T23:50:55Z GalaxyTest 5.367474191 31 passed, 0 failed
+2026-11-04T23:50:55Z GateTest .093533806 GateTest: 0 fail
+2026-11-04T23:50:55Z GreatGateTest 12.929797326 GreatGateTest: 0 fail
+2026-11-04T23:50:55Z MetroTest 12.484857744 MetroTest: 0 fail
+2026-11-04T23:50:55Z MoonTest 2.986981146 MoonTest: 0 fail
+2026-11-04T23:50:55Z NearTest 16.836084442 NearTest: 0 fail
+2026-11-04T23:50:55Z OrbitTest 3.689017759 OrbitTest: 10 pass, 0 fail
+2026-11-04T23:50:55Z PlanetTest 5.951671284 15 passed, 0 failed
+2026-11-04T23:50:55Z RiversTest 4.822456973 RiversTest: 0 fail
+2026-11-04T23:50:55Z RoadsTest 49.811163384 RoadsTest: 0 fail
+2026-11-04T23:50:55Z SeabedTest 6.230937247 SeabedTest: 9 pass, 0 fail
+2026-11-04T23:50:55Z SitesTest 14.174269270 SitesTest: 0 fail
+2026-11-04T23:50:55Z SpaceTest 2.773585150 SpaceTest: 0 fail
+2026-11-04T23:50:55Z SpawnTest 7.709628651 SpawnTest: 3 of 3 pass
+2026-11-04T23:50:55Z SuitTest 2.709122965 SuitTest: 0 fail
+2026-11-04T23:50:55Z TideTest 2.919321558 TideTest: PASS
+2026-11-04T23:50:55Z TowerTest 3.297489985 TowerTest: 0 fail
+2026-11-04T23:50:55Z TownsTest 54.259009302 TownsTest: 0 fail
+2026-11-04T23:50:55Z VolcanoTest 4.177592166 VolcanoTest: 0 fail
+2026-11-04T23:50:55Z X15Test 2.703615340 X15Test: 0 fail
+2026-11-05T03:12:47Z AtmosphereTest 5.379885602 AtmosphereTest: 6 pass, 0 fail
+2026-11-05T03:12:47Z BiomesTest 4.407279818 BiomesTest: 0 fail
+2026-11-05T03:12:47Z BodiesTest 4.611090686 BodiesTest: 0 fail
+2026-11-05T03:12:47Z BreathTest 4.179425343 BreathTest: 0 fail
+2026-11-05T03:12:47Z BusinessesTest 43.155778222 BusinessesTest: 1 fail
+2026-11-05T03:12:47Z CavesTest 12.478650847 CavesTest: 0 fail
+2026-11-05T03:12:47Z CoastTest 8.203265006 CoastTest: 0 fail
+2026-11-05T03:12:47Z EphemerisTest 4.254116876 EphemerisTest: 6 pass, 0 fail
+2026-11-05T03:12:47Z FarTest 16.043877079 FarTest: 3 pass, 0 fail
+2026-11-05T03:12:47Z FrontageTest 20.516024007 FrontageTest: 0 fail
+2026-11-05T03:12:47Z GalaxyTest 8.823276146 31 passed, 0 failed
+2026-11-05T03:12:47Z GateTest .115022927 GateTest: 0 fail
+2026-11-05T03:12:47Z GreatGateTest 18.706456366 GreatGateTest: 0 fail
+2026-11-05T03:12:47Z MetroRoadsTest 25.708501296 MetroRoadsTest: 0 fail
+2026-11-05T03:12:47Z MetroTest 18.917810520 MetroTest: 0 fail
+2026-11-05T03:12:47Z MoonTest 4.434499220 MoonTest: 0 fail
+2026-11-05T03:12:47Z NearTest 26.090007612 NearTest: 0 fail
+2026-11-05T03:12:47Z OrbitTest 5.455045844 OrbitTest: 10 pass, 0 fail
+2026-11-05T03:12:47Z PlanetTest 8.689643704 15 passed, 0 failed
+2026-11-05T03:12:47Z RiversTest 7.019078168 RiversTest: 0 fail
+2026-11-05T03:12:47Z RoadsTest 79.206058742 RoadsTest: 0 fail
+2026-11-05T03:12:47Z SeabedTest 9.406164778 SeabedTest: 9 pass, 0 fail
+2026-11-05T03:12:47Z SitesTest 23.465498261 SitesTest: 0 fail
+2026-11-05T03:12:47Z SpaceTest 4.200637391 SpaceTest: 0 fail
+2026-11-05T03:12:47Z SpawnTest 11.514445136 SpawnTest: 3 of 3 pass
+2026-11-05T03:12:47Z SuitTest 4.099173404 SuitTest: 0 fail
+2026-11-05T03:12:47Z TideTest 4.297117796 TideTest: PASS
+2026-11-05T03:12:47Z TowerTest 5.807556039 TowerTest: 0 fail
+2026-11-05T03:12:47Z TownsTest 84.724677121 TownsTest: 0 fail
+2026-11-05T03:12:47Z VolcanoTest 6.133957583 VolcanoTest: 0 fail
+2026-11-05T03:12:47Z X15Test 4.170844262 X15Test: 0 fail
+2026-11-05T05:01:30Z AtmosphereTest 5.387707511 AtmosphereTest: 6 pass, 0 fail
+2026-11-05T05:01:30Z BiomesTest 4.473667877 BiomesTest: 0 fail
+2026-11-05T05:01:30Z BodiesTest 4.489573352 BodiesTest: 0 fail
+2026-11-05T05:01:30Z BreathTest 4.026943258 BreathTest: 0 fail
+2026-11-05T05:01:30Z BusinessesTest 44.972103416 BusinessesTest: 0 fail
+2026-11-05T05:01:30Z CavesTest 12.731763482 CavesTest: 0 fail
+2026-11-05T05:01:30Z CoastTest 8.655362348 CoastTest: 0 fail
+2026-11-05T05:01:30Z EphemerisTest 4.560379938 EphemerisTest: 6 pass, 0 fail
+2026-11-05T05:01:30Z FarTest 18.978750658 FarTest: 3 pass, 0 fail
+2026-11-05T05:01:30Z FrontageTest 21.010215817 FrontageTest: 0 fail
+2026-11-05T05:01:30Z GalaxyTest 8.785223315 31 passed, 0 failed
+2026-11-05T05:01:30Z GateTest .131274462 GateTest: 0 fail
+2026-11-05T05:01:30Z GreatGateTest 20.311600821 GreatGateTest: 0 fail
+2026-11-05T05:01:30Z MetroRoadsTest 31.218371397 MetroRoadsTest: 0 fail
+2026-11-05T05:01:30Z MetroTest 20.169921922 MetroTest: 0 fail
+2026-11-05T05:01:30Z MoonTest 4.730373009 MoonTest: 0 fail
+2026-11-05T05:01:30Z NearTest 27.319150714 NearTest: 0 fail
+2026-11-05T05:01:30Z OrbitTest 5.704811467 OrbitTest: 10 pass, 0 fail
+2026-11-05T05:01:30Z PlanetTest 8.722603558 15 passed, 0 failed
+2026-11-05T05:01:30Z RiversTest 7.566566821 RiversTest: 0 fail
+2026-11-05T05:01:30Z RoadsTest 60.354190188 RoadsTest: 0 fail
+2026-11-05T05:01:30Z SeabedTest 9.818722242 SeabedTest: 9 pass, 0 fail
+2026-11-05T05:01:30Z SitesTest 22.939205439 SitesTest: 0 fail
+2026-11-05T05:01:30Z SpaceTest 4.393428958 SpaceTest: 0 fail
+2026-11-05T05:01:30Z SpawnTest 13.731490803 SpawnTest: 3 of 3 pass
+2026-11-05T05:01:30Z SuitTest 4.025463776 SuitTest: 0 fail
+2026-11-05T05:01:30Z TideTest 4.406068396 TideTest: PASS
+2026-11-05T05:01:30Z TowerTest 6.080344869 TowerTest: 0 fail
+2026-11-05T05:01:30Z TownsTest 96.559431760 TownsTest: 0 fail
+2026-11-05T05:01:30Z VolcanoTest 6.315467025 VolcanoTest: 0 fail
+2026-11-05T05:01:30Z X15Test 4.454758754 X15Test: 0 fail
+2026-11-05T05:16:04Z AtmosphereTest 5.510382163 AtmosphereTest: 6 pass, 0 fail
+2026-11-05T05:16:04Z BiomesTest 4.335170329 BiomesTest: 0 fail
+2026-11-05T05:16:04Z BodiesTest 4.625845199 BodiesTest: 0 fail
+2026-11-05T05:16:04Z BreathTest 3.964240992 BreathTest: 0 fail
+2026-11-05T05:16:04Z BusinessesTest 47.841880767 BusinessesTest: 1 fail
+2026-11-05T05:16:04Z CavesTest 11.898109148 CavesTest: 0 fail
+2026-11-05T05:16:04Z CoastTest 8.463816198 CoastTest: 0 fail
+2026-11-05T05:16:04Z EphemerisTest 4.638090581 EphemerisTest: 6 pass, 0 fail
+2026-11-05T05:16:04Z FarTest 19.308195462 FarTest: 3 pass, 0 fail
+2026-11-05T05:16:04Z FrontageTest 18.490729796 FrontageTest: 0 fail
+2026-11-05T05:16:04Z GalaxyTest 8.948363852 31 passed, 0 failed
+2026-11-05T05:16:04Z GateTest .153904552 GateTest: 0 fail
+2026-11-05T05:16:04Z GreatGateTest 22.470747645 GreatGateTest: 0 fail
+2026-11-05T05:16:04Z MetroRoadsTest 28.333773014 MetroRoadsTest: 0 fail
+2026-11-05T05:16:04Z MetroTest 20.180846195 MetroTest: 0 fail
+2026-11-05T05:16:04Z MoonTest 4.738048555 MoonTest: 0 fail
+2026-11-05T05:16:04Z NearTest 25.942800488 NearTest: 0 fail
+2026-11-05T05:16:04Z OrbitTest 5.664968748 OrbitTest: 10 pass, 0 fail
+2026-11-05T05:16:04Z PlanetTest 9.092076668 15 passed, 0 failed
+2026-11-05T05:16:04Z RiversTest 7.076989561 RiversTest: 0 fail
+2026-11-05T05:16:04Z RoadsTest 54.124584635 RoadsTest: 0 fail
+2026-11-05T05:16:04Z SeabedTest 8.931806413 SeabedTest: 9 pass, 0 fail
+2026-11-05T05:16:04Z SitesTest 21.972962837 SitesTest: 0 fail
+2026-11-05T05:16:04Z SpaceTest 4.263328005 SpaceTest: 0 fail
+2026-11-05T05:16:04Z SpawnTest 11.748906483 SpawnTest: 3 of 3 pass
+2026-11-05T05:16:04Z SuitTest 3.780493677 SuitTest: 0 fail
+2026-11-05T05:16:04Z TideTest 4.214833368 TideTest: PASS
+2026-11-05T05:16:04Z TowerTest 5.754756903 TowerTest: 0 fail
+2026-11-05T05:16:04Z TownsTest 91.050819690 TownsTest: 0 fail
+2026-11-05T05:16:04Z VolcanoTest 6.028515761 VolcanoTest: 0 fail
+2026-11-05T05:16:04Z X15Test 4.151288035 X15Test: 0 fail
+2026-11-05T05:30:58Z AtmosphereTest 4.962630045 AtmosphereTest: 6 pass, 0 fail
+2026-11-05T05:30:58Z BiomesTest 4.306508230 BiomesTest: 0 fail
+2026-11-05T05:30:58Z BodiesTest 4.313178868 BodiesTest: 0 fail
+2026-11-05T05:30:58Z BreathTest 4.048371887 BreathTest: 0 fail
+2026-11-05T05:30:58Z BusinessesTest 41.087178357 BusinessesTest: 0 fail
+2026-11-05T05:30:58Z CavesTest 11.725252481 CavesTest: 0 fail
+2026-11-05T05:30:58Z CoastTest 7.874757668 CoastTest: 0 fail
+2026-11-05T05:30:58Z EphemerisTest 4.209024019 EphemerisTest: 6 pass, 0 fail
+2026-11-05T05:30:58Z FarTest 17.721974625 FarTest: 3 pass, 0 fail
+2026-11-05T05:30:58Z FrontageTest 19.136798700 FrontageTest: 0 fail
+2026-11-05T05:30:58Z GalaxyTest 8.348041426 31 passed, 0 failed
+2026-11-05T05:30:58Z GateTest .122076178 GateTest: 0 fail
+2026-11-05T05:30:58Z GreatGateTest 18.361196549 GreatGateTest: 0 fail
+2026-11-05T05:30:58Z MetroRoadsTest 26.758156139 MetroRoadsTest: 0 fail
+2026-11-05T05:30:58Z MetroTest 17.953180757 MetroTest: 0 fail
+2026-11-05T05:30:58Z MoonTest 4.397960613 MoonTest: 0 fail
+2026-11-05T05:30:58Z NearTest 25.936648359 NearTest: 0 fail
+2026-11-05T05:30:58Z OrbitTest 5.456461238 OrbitTest: 10 pass, 0 fail
+2026-11-05T05:30:58Z ParksTest 18.363955268 ParksTest: 0 fail
+2026-11-05T05:30:58Z PlanetTest 8.695533987 15 passed, 0 failed
+2026-11-05T05:30:58Z RiversTest 7.044304874 RiversTest: 0 fail
+2026-11-05T05:30:58Z RoadsTest 55.327601456 RoadsTest: 0 fail
+2026-11-05T05:30:58Z SeabedTest 8.823209681 SeabedTest: 9 pass, 0 fail
+2026-11-05T05:30:58Z SitesTest 22.306378758 SitesTest: 0 fail
+2026-11-05T05:30:58Z SpaceTest 3.918963210 SpaceTest: 0 fail
+2026-11-05T05:30:58Z SpawnTest 11.984377866 SpawnTest: 3 of 3 pass
+2026-11-05T05:30:58Z SuitTest 4.093991458 SuitTest: 0 fail
+2026-11-05T05:30:58Z TideTest 4.280562760 TideTest: PASS
+2026-11-05T05:30:58Z TowerTest 5.532243416 TowerTest: 0 fail
+2026-11-05T05:30:58Z TownsTest 92.708805202 TownsTest: 0 fail
+2026-11-05T05:30:58Z VolcanoTest 6.408485916 VolcanoTest: 0 fail
+2026-11-05T05:30:58Z X15Test 4.364796943 X15Test: 0 fail
+2026-11-05T05:44:05Z AtmosphereTest 5.154364589 AtmosphereTest: 6 pass, 0 fail
+2026-11-05T05:44:05Z BiomesTest 4.674000461 BiomesTest: 0 fail
+2026-11-05T05:44:05Z BodiesTest 4.516382579 BodiesTest: 0 fail
+2026-11-05T05:44:05Z BreathTest 3.870980237 BreathTest: 0 fail
+2026-11-05T05:44:05Z BusinessesTest 42.488471758 BusinessesTest: 0 fail
+2026-11-05T05:44:05Z CavesTest 12.518752365 CavesTest: 0 fail
+2026-11-05T05:44:05Z CoastTest 7.646156430 CoastTest: 0 fail
+2026-11-05T05:44:05Z EphemerisTest 4.416079351 EphemerisTest: 6 pass, 0 fail
+2026-11-05T05:44:05Z FarTest 17.296573302 FarTest: 3 pass, 0 fail
+2026-11-05T05:44:05Z FrontageTest 17.861692249 FrontageTest: 0 fail
+2026-11-05T05:44:05Z GalaxyTest 8.478580332 31 passed, 0 failed
+2026-11-05T05:44:05Z GateTest .117947506 GateTest: 0 fail
+2026-11-05T05:44:05Z GreatGateTest 20.563356095 GreatGateTest: 0 fail
+2026-11-05T05:44:05Z MetroRoadsTest 27.997174435 MetroRoadsTest: 0 fail
+2026-11-05T05:44:05Z MetroTest 18.620350331 MetroTest: 0 fail
+2026-11-05T05:44:05Z MoonTest 4.398294128 MoonTest: 0 fail
+2026-11-05T05:44:05Z NearTest 25.552460689 NearTest: 0 fail
+2026-11-05T05:44:05Z OrbitTest 5.667434100 OrbitTest: 10 pass, 0 fail
+2026-11-05T05:44:05Z ParksTest 17.724012659 ParksTest: 0 fail
+2026-11-05T05:44:05Z PlanetTest 8.475018625 15 passed, 0 failed
+2026-11-05T05:44:05Z RiversTest 7.126757401 RiversTest: 0 fail
+2026-11-05T05:44:05Z RoadsTest 56.021980395 RoadsTest: 0 fail
+2026-11-05T05:44:05Z SeabedTest 8.856412467 SeabedTest: 9 pass, 0 fail
+2026-11-05T05:44:05Z SitesTest 21.548956391 SitesTest: 0 fail
+2026-11-05T05:44:05Z SkyBridgeTest 16.628828124 SkyBridgeTest: 0 fail
+2026-11-05T05:44:05Z SpaceTest 4.091442472 SpaceTest: 0 fail
+2026-11-05T05:44:05Z SpawnTest 12.403358709 SpawnTest: 3 of 3 pass
+2026-11-05T05:44:05Z SuitTest 3.784480968 SuitTest: 0 fail
+2026-11-05T05:44:05Z TideTest 4.049461643 TideTest: PASS
+2026-11-05T05:44:05Z TowerTest 5.684374300 TowerTest: 0 fail
+2026-11-05T05:44:05Z TownsTest 91.336670131 TownsTest: 0 fail
+2026-11-05T05:44:05Z VolcanoTest 6.098889261 VolcanoTest: 0 fail
+2026-11-05T05:44:05Z X15Test 3.935137561 X15Test: 0 fail
+2026-11-05T05:56:52Z AtmosphereTest 5.569407250 AtmosphereTest: 6 pass, 0 fail
+2026-11-05T05:56:52Z BiomesTest 4.434031121 BiomesTest: 0 fail
+2026-11-05T05:56:52Z BodiesTest 4.548409881 BodiesTest: 0 fail
+2026-11-05T05:56:52Z BreathTest 4.113087322 BreathTest: 0 fail
+2026-11-05T05:56:52Z BusinessesTest 43.916502910 BusinessesTest: 0 fail
+2026-11-05T05:56:52Z CavesTest 12.361803543 CavesTest: 0 fail
+2026-11-05T05:56:52Z CoastTest 8.002709374 CoastTest: 0 fail
+2026-11-05T05:56:52Z EphemerisTest 4.512809989 EphemerisTest: 6 pass, 0 fail
+2026-11-05T05:56:52Z FarTest 19.797856287 FarTest: 3 pass, 0 fail
+2026-11-05T05:56:52Z FrontageTest 20.466938978 FrontageTest: 1 fail
+2026-11-05T05:56:52Z GalaxyTest 8.962942153 31 passed, 0 failed
+2026-11-05T05:56:52Z GateTest .143552638 GateTest: 0 fail
+2026-11-05T05:56:52Z GreatGateTest 21.407600460 GreatGateTest: 0 fail
+2026-11-05T05:56:52Z MetroRoadsTest 35.441470027 MetroRoadsTest: 1 fail
+2026-11-05T05:56:52Z MetroTest 21.900014677 MetroTest: 0 fail
+2026-11-05T05:56:52Z MoonTest 4.812313480 MoonTest: 0 fail
+2026-11-05T05:56:52Z NearTest 26.439798435 NearTest: 0 fail
+2026-11-05T05:56:52Z OrbitTest 5.447423366 OrbitTest: 10 pass, 0 fail
+2026-11-05T05:56:52Z ParksTest 21.266872341 ParksTest: 0 fail
+2026-11-05T05:56:52Z PlanetTest 8.480892024 15 passed, 0 failed
+2026-11-05T05:56:52Z RiversTest 6.719028602 RiversTest: 0 fail
+2026-11-05T05:56:52Z RoadsTest 57.194820648 RoadsTest: 0 fail
+2026-11-05T05:56:52Z SeabedTest 8.975242079 SeabedTest: 9 pass, 0 fail
+2026-11-05T05:56:52Z SitesTest 24.176782917 SitesTest: 0 fail
+2026-11-05T05:56:52Z SkyBridgeTest 18.552435459 SkyBridgeTest: 0 fail
+2026-11-05T05:56:52Z SpaceTest 4.110943245 SpaceTest: 0 fail
+2026-11-05T05:56:52Z SpawnTest 12.336715315 SpawnTest: 3 of 3 pass
+2026-11-05T05:56:52Z SuitTest 4.164191349 SuitTest: 0 fail
+2026-11-05T05:56:52Z TideTest 4.981727859 TideTest: PASS
+2026-11-05T05:56:52Z TowerTest 5.823154147 TowerTest: 0 fail
+2026-11-05T05:56:52Z TownsTest 100.348861657 TownsTest: 0 fail
+2026-11-05T05:56:52Z VolcanoTest 6.594044377 VolcanoTest: 0 fail
+2026-11-05T05:56:52Z X15Test 4.010076179 X15Test: 0 fail
+2026-11-05T06:14:37Z AtmosphereTest 5.086914273 AtmosphereTest: 6 pass, 0 fail
+2026-11-05T06:14:37Z BiomesTest 4.217369070 BiomesTest: 0 fail
+2026-11-05T06:14:37Z BodiesTest 4.269388478 BodiesTest: 0 fail
+2026-11-05T06:14:37Z BreathTest 4.052840378 BreathTest: 0 fail
+2026-11-05T06:14:37Z BusinessesTest 48.044544142 BusinessesTest: 0 fail
+2026-11-05T06:14:37Z CavesTest 12.761533151 CavesTest: 0 fail
+2026-11-05T06:14:37Z CoastTest 8.339425917 CoastTest: 0 fail
+2026-11-05T06:14:37Z EphemerisTest .280606879 	... 1 more
+2026-11-05T06:14:37Z FarTest .251745020 	... 1 more
+2026-11-05T06:14:37Z FrontageTest .216279794 	... 1 more
+2026-11-05T06:14:37Z FusionTest .236117588 	... 1 more
+2026-11-05T06:14:37Z GalaxyTest .210923604 	... 1 more
+2026-11-05T06:14:37Z GateTest .394416142 	... 1 more
+2026-11-05T06:14:37Z GreatGateTest .242907478 	... 1 more
+2026-11-05T06:14:37Z MetroRoadsTest .188508136 	... 1 more
+2026-11-05T06:14:37Z MetroTest .227847467 	... 1 more
+2026-11-05T06:14:37Z MoonTest .285255197 	... 1 more
+2026-11-05T06:14:37Z NearTest .248746914 	... 1 more
+2026-11-05T06:14:37Z OrbitTest .166592123 	... 1 more
+2026-11-05T06:14:37Z ParksTest .184538207 	... 1 more
+2026-11-05T06:14:37Z PlanetTest .207265485 	... 1 more
+2026-11-05T06:14:37Z RiversTest .276181587 	... 1 more
+2026-11-05T06:14:37Z RoadsTest .249347560 	... 1 more
+2026-11-05T06:14:37Z SeabedTest .182744758 	... 1 more
+2026-11-05T06:14:37Z SitesTest 28.124165514 SitesTest: 0 fail
+2026-11-05T06:14:37Z SkyBridgeTest 19.442652954 SkyBridgeTest: 0 fail
+2026-11-05T06:14:37Z SpaceTest 4.213028596 SpaceTest: 0 fail
+2026-11-05T06:14:37Z SpawnTest 12.685360701 SpawnTest: 3 of 3 pass
+2026-11-05T06:14:37Z SuitTest 4.032918731 SuitTest: 0 fail
+2026-11-05T06:14:37Z TideTest 4.545047293 TideTest: PASS
+2026-11-05T06:14:37Z TowerTest 6.378291142 TowerTest: 0 fail
+2026-11-05T06:14:37Z TownsTest 97.477422843 TownsTest: 0 fail
+2026-11-05T06:14:37Z VolcanoTest 6.477315523 VolcanoTest: 0 fail
+2026-11-05T06:14:37Z X15Test 4.132963886 X15Test: 0 fail
+2026-11-05T06:23:37Z AtmosphereTest 5.324133383 AtmosphereTest: 6 pass, 0 fail
+2026-11-05T06:23:37Z BillboardTest 24.441483059 BillboardTest: 0 fail
+2026-11-05T06:23:37Z BiomesTest 4.558994833 BiomesTest: 0 fail
+2026-11-05T06:23:37Z BodiesTest 4.748848802 BodiesTest: 0 fail
+2026-11-05T06:23:37Z BreathTest 4.217936043 BreathTest: 0 fail
+2026-11-05T06:23:37Z BusinessesTest 50.982891896 BusinessesTest: 0 fail
+2026-11-05T06:23:37Z CavesTest 12.690153158 CavesTest: 0 fail
+2026-11-05T06:23:37Z CoastTest 8.637025448 CoastTest: 0 fail
+2026-11-05T06:23:37Z EphemerisTest 4.594907803 EphemerisTest: 6 pass, 0 fail
+2026-11-05T06:23:37Z FarTest 20.351817879 FarTest: 3 pass, 0 fail
+2026-11-05T06:23:37Z FrontageTest 24.185700800 FrontageTest: 0 fail
+2026-11-05T06:23:37Z FusionTest 23.368959643 FusionTest: 0 fail
+2026-11-05T06:23:37Z GalaxyTest 9.600595184 31 passed, 0 failed
+2026-11-05T06:23:37Z GateTest .138652150 GateTest: 0 fail
+2026-11-05T06:23:37Z GreatGateTest 22.379141440 GreatGateTest: 0 fail
+2026-11-05T06:23:37Z MetroRoadsTest 38.149004617 MetroRoadsTest: 2 fail
+2026-11-05T06:23:37Z MetroTest 26.526569888 MetroTest: 0 fail
+2026-11-05T06:23:37Z MoonTest 4.962316555 MoonTest: 0 fail
+2026-11-05T06:23:37Z NearTest 27.329676510 NearTest: 0 fail
+2026-11-05T06:23:37Z OrbitTest 6.566403062 OrbitTest: 10 pass, 0 fail
+2026-11-05T06:23:37Z ParksTest 23.516830081 ParksTest: 0 fail
+2026-11-05T06:23:37Z PlanetTest 8.903541487 15 passed, 0 failed
+2026-11-05T06:23:37Z RiversTest 7.981451266 RiversTest: 0 fail
+2026-11-05T06:23:37Z RoadsTest 65.902813730 RoadsTest: 1 fail
+2026-11-05T06:23:37Z SeabedTest 9.218850945 SeabedTest: 9 pass, 0 fail
+2026-11-05T06:23:37Z SitesTest 26.208602431 SitesTest: 0 fail
+2026-11-05T06:23:37Z SkyBridgeTest 19.191747541 SkyBridgeTest: 0 fail
+2026-11-05T06:23:37Z SpaceTest 4.253036831 SpaceTest: 0 fail
+2026-11-05T06:23:37Z SpawnTest 12.099151488 SpawnTest: 3 of 3 pass
+2026-11-05T06:23:37Z SuitTest 4.242911584 SuitTest: 0 fail
+2026-11-05T06:23:37Z TideTest 4.754539467 TideTest: PASS
+2026-11-05T06:23:37Z TowerTest 6.402905584 TowerTest: 0 fail
+2026-11-05T06:23:37Z TownsTest 97.905151185 TownsTest: 0 fail
+2026-11-05T06:23:37Z VolcanoTest 6.295314473 VolcanoTest: 0 fail
+2026-11-05T06:23:37Z X15Test 3.985288796 X15Test: 0 fail
+2026-11-05T07:09:53Z AtmosphereTest 5.740809946 AtmosphereTest: 6 pass, 0 fail
+2026-11-05T07:09:53Z BillboardTest 24.575201511 BillboardTest: 0 fail
+2026-11-05T07:09:53Z BiomesTest 4.665963551 BiomesTest: 0 fail
+2026-11-05T07:09:53Z BodiesTest 4.849324018 BodiesTest: 0 fail
+2026-11-05T07:09:53Z BreathTest 3.998619584 BreathTest: 0 fail
+2026-11-05T07:09:53Z BusinessesTest 50.296027878 BusinessesTest: 0 fail
+2026-11-05T07:09:53Z CavesTest 12.696199335 CavesTest: 0 fail
+2026-11-05T07:09:53Z CoastTest 600.237070469 
+2026-11-05T07:09:53Z EphemerisTest 10.591298935 EphemerisTest: 6 pass, 0 fail
+2026-11-05T07:09:53Z FarTest 21.135921542 FarTest: 3 pass, 0 fail
+2026-11-05T07:09:53Z FrontageTest 24.781488365 FrontageTest: 0 fail
+2026-11-05T07:09:53Z FusionTest 23.178316483 FusionTest: 0 fail
+2026-11-05T07:09:53Z GalaxyTest 10.025885202 31 passed, 0 failed
+2026-11-05T07:09:53Z GateTest .151904077 GateTest: 0 fail
+2026-11-05T07:09:53Z GreatGateTest 25.017297132 GreatGateTest: 0 fail
+2026-11-05T07:09:53Z MetroRoadsTest 39.074453259 MetroRoadsTest: 0 fail
+2026-11-05T07:09:53Z MetroTest 23.210917732 MetroTest: 0 fail
+2026-11-05T07:09:53Z MoonTest 4.682059174 MoonTest: 0 fail
+2026-11-05T07:09:53Z NearTest 27.967964838 NearTest: 0 fail
+2026-11-05T07:09:53Z OrbitTest 6.148588321 OrbitTest: 10 pass, 0 fail
+2026-11-05T07:09:53Z ParksTest 22.357933865 ParksTest: 0 fail
+2026-11-05T07:09:53Z PlanetTest 600.214511803 PASS equator warmer than pole by about 42 K (North 1975)              42.9 K
+2026-11-05T07:09:53Z QuarryTest 23.934087016 QuarryTest: 0 fail
+2026-11-05T07:09:53Z RiversTest 8.161809313 RiversTest: 0 fail
+2026-11-05T07:09:53Z RoadsTest 72.486960985 RoadsTest: 0 fail
+2026-11-05T07:09:53Z SeabedTest 16.513916652 SeabedTest: 9 pass, 0 fail
+2026-11-05T07:09:53Z SitesTest 29.832255293 SitesTest: 0 fail
+2026-11-05T07:09:53Z SkyBridgeTest 23.562140639 SkyBridgeTest: 0 fail
+2026-11-05T07:09:53Z SpaceTest 4.429348938 SpaceTest: 0 fail
+2026-11-05T07:09:53Z SpawnTest 600.199586064 seed 2: coast (no megacity on face 0) in 7023 ms (coasts tried 204) at 54126 7 -895479 | sparse_jungle, ground y 6, 21.0 C | water 3 m deep 4 blocks away | 0 of 64 directions 10 m deep at 300 blocks | FAIL
+2026-11-05T07:09:53Z SuitTest 4.834517552 SuitTest: 0 fail
+2026-11-05T07:09:53Z TideTest 12.294626442 TideTest: PASS
+2026-11-05T07:09:53Z TowerTest 7.295504214 TowerTest: 0 fail
+2026-11-05T07:09:53Z TownGameTest 57.348675607 TownGameTest: 0 fail
+2026-11-05T07:09:53Z TownsTest 104.686158492 TownsTest: 0 fail
+2026-11-05T07:09:53Z VolcanoTest 6.916749934 VolcanoTest: 0 fail
+2026-11-05T07:09:53Z X15Test 4.451812217 X15Test: 0 fail
+2026-11-05T07:54:52Z AtmosphereTest 5.842057983 AtmosphereTest: 6 pass, 0 fail
+2026-11-05T07:54:52Z BillboardTest 27.892441072 BillboardTest: 0 fail
+2026-11-05T07:54:52Z BiomesTest 5.064313845 BiomesTest: 0 fail
+2026-11-05T07:54:52Z BodiesTest 5.177757291 BodiesTest: 0 fail
+2026-11-05T07:54:52Z BreathTest 4.500802351 BreathTest: 0 fail
+2026-11-05T07:54:52Z BusinessesTest 51.206223549 BusinessesTest: 0 fail
+2026-11-05T07:54:52Z CavesTest 13.012640525 CavesTest: 0 fail
+2026-11-05T07:54:52Z CoastTest 8.753249306 CoastTest: 0 fail
+2026-11-05T07:54:52Z EphemerisTest 5.056475796 EphemerisTest: 6 pass, 0 fail
+2026-11-05T07:54:52Z FarTest 23.343562052 FarTest: 3 pass, 0 fail
+2026-11-05T07:54:52Z FrontageTest 23.989209905 FrontageTest: 0 fail
+2026-11-05T07:54:52Z FusionTest 26.487515562 FusionTest: 0 fail
+2026-11-05T07:54:52Z GalaxyTest 10.363667476 31 passed, 0 failed
+2026-11-05T07:54:52Z GateTest .160912751 GateTest: 0 fail
+2026-11-05T07:54:52Z GreatGateTest 27.150987666 GreatGateTest: 0 fail
+2026-11-05T07:54:52Z MetroRoadsTest 39.972622127 MetroRoadsTest: 0 fail
+2026-11-05T07:54:52Z MetroTest 23.090427559 MetroTest: 0 fail
+2026-11-05T07:54:52Z MoonTest 4.704874808 MoonTest: 0 fail
+2026-11-05T07:54:52Z NearTest 28.682925634 NearTest: 0 fail
+2026-11-05T07:54:52Z OrbitTest 6.049947980 OrbitTest: 10 pass, 0 fail
+2026-11-05T07:54:52Z ParksTest 26.213712798 ParksTest: 0 fail
+2026-11-05T07:54:52Z PlanetTest 10.190709045 15 passed, 0 failed
+2026-11-05T07:54:52Z QuarryTest 24.647216737 QuarryTest: 0 fail
+2026-11-05T07:54:52Z RiversTest 7.995592883 RiversTest: 0 fail
+2026-11-05T07:54:52Z RoadsTest 75.558851949 RoadsTest: 1 fail
+2026-11-05T07:54:52Z SeabedTest 10.173847336 SeabedTest: 9 pass, 0 fail
+2026-11-05T07:54:52Z SitesTest 28.896752604 SitesTest: 0 fail
+2026-11-05T07:54:52Z SkyBridgeTest 24.790152714 SkyBridgeTest: 0 fail
+2026-11-05T07:54:52Z SpaceTest 4.770649064 SpaceTest: 0 fail
+2026-11-05T07:54:52Z SpawnTest 13.829095767 SpawnTest: 3 of 3 pass
+2026-11-05T07:54:52Z SuitTest 4.769724874 SuitTest: 0 fail
+2026-11-05T07:54:52Z TideTest 5.120835876 TideTest: PASS
+2026-11-05T07:54:52Z TowerTest 6.929149209 TowerTest: 0 fail
+2026-11-05T07:54:52Z TownGameTest 53.499518713 TownGameTest: 0 fail
+2026-11-05T07:54:52Z TownsTest 111.869151160 TownsTest: 0 fail
+2026-11-05T07:54:52Z VolcanoTest 7.275265494 VolcanoTest: 0 fail
+2026-11-05T07:54:52Z X15Test 4.594872638 X15Test: 0 fail
+2026-11-05T08:16:50Z AtmosphereTest 6.225444113 AtmosphereTest: 6 pass, 0 fail
+2026-11-05T08:16:50Z BillboardTest 29.295696118 BillboardTest: 0 fail
+2026-11-05T08:16:50Z BiomesTest 5.131730855 BiomesTest: 0 fail
+2026-11-05T08:16:50Z BodiesTest 5.350477135 BodiesTest: 0 fail
+2026-11-05T08:16:50Z BreathTest 4.926325076 BreathTest: 0 fail
+2026-11-05T08:16:50Z BusinessesTest 50.303857011 BusinessesTest: 0 fail
+2026-11-05T08:16:50Z CavesTest 13.621414778 CavesTest: 0 fail
+2026-11-05T08:16:50Z CoastTest 8.350108610 CoastTest: 0 fail
+2026-11-05T08:16:50Z EphemerisTest 4.418797816 EphemerisTest: 6 pass, 0 fail
+2026-11-05T08:16:50Z FarTest 23.193699107 FarTest: 3 pass, 0 fail
+2026-11-05T08:16:50Z FrontageTest 26.483488682 FrontageTest: 0 fail
+2026-11-05T08:16:50Z FusionTest 25.590971258 FusionTest: 0 fail
+2026-11-05T08:16:50Z GalaxyTest 9.342059169 31 passed, 0 failed
+2026-11-05T08:16:50Z GateTest .142167881 GateTest: 0 fail
+2026-11-05T08:16:50Z GreatGateTest 25.392689669 GreatGateTest: 0 fail
+2026-11-05T08:16:50Z MetroRoadsTest 40.940649756 MetroRoadsTest: 0 fail
+2026-11-05T08:16:50Z MetroTest 24.996873957 MetroTest: 0 fail
+2026-11-05T08:16:50Z MoonTest 5.108813451 MoonTest: 0 fail
+2026-11-05T08:16:50Z NearTest 30.072201365 NearTest: 0 fail
+2026-11-05T08:16:50Z OrbitTest 6.514852263 OrbitTest: 10 pass, 0 fail
+2026-11-05T08:16:50Z ParksTest 27.517666087 ParksTest: 0 fail
+2026-11-05T08:16:50Z PlanetTest 10.248018101 15 passed, 0 failed
+2026-11-05T08:16:50Z QuarryTest 25.053913987 QuarryTest: 0 fail
+2026-11-05T08:16:50Z RiversTest 7.437835490 RiversTest: 0 fail
+2026-11-05T08:16:50Z RoadsTest 71.758058499 RoadsTest: 0 fail
+2026-11-05T08:16:50Z SeabedTest 10.266696734 SeabedTest: 9 pass, 0 fail
+2026-11-05T08:16:50Z SitesTest 31.567192767 SitesTest: 0 fail
+2026-11-05T08:16:50Z SkyBridgeTest 23.719488494 SkyBridgeTest: 0 fail
+2026-11-05T08:16:50Z SpaceTest 4.746557799 SpaceTest: 0 fail
+2026-11-05T08:16:50Z SpawnTest 14.299741390 SpawnTest: 3 of 3 pass
+2026-11-05T08:16:50Z SuitTest 5.156139176 SuitTest: 0 fail
+2026-11-05T08:16:50Z TideTest 5.294748380 TideTest: PASS
+2026-11-05T08:16:50Z TowerTest 6.520362292 TowerTest: 0 fail
+2026-11-05T08:16:50Z TownGameTest 51.120041081 TownGameTest: 0 fail
+2026-11-05T08:16:50Z TownsTest 107.121691967 TownsTest: 0 fail
+2026-11-05T08:16:50Z VolcanoTest 7.658750201 VolcanoTest: 0 fail
+2026-11-05T08:16:50Z X15Test 4.678611042 X15Test: 0 fail
+2026-11-05T10:55:20Z AtmosphereTest 6.002775546 AtmosphereTest: 6 pass, 0 fail
+2026-11-05T10:55:20Z BillboardTest 27.154625264 BillboardTest: 0 fail
+2026-11-05T10:55:20Z BiomesTest 5.225062153 BiomesTest: 0 fail
+2026-11-05T10:55:20Z BodiesTest 4.875499677 BodiesTest: 0 fail
+2026-11-05T10:55:20Z BreathTest 4.839959764 BreathTest: 0 fail
+2026-11-05T10:55:20Z BusinessesTest 54.311522328 BusinessesTest: 0 fail
+2026-11-05T10:55:20Z CavesTest 14.185959650 CavesTest: 0 fail
+2026-11-05T10:55:20Z CoastTest 9.361914993 CoastTest: 0 fail
+2026-11-05T10:55:20Z EphemerisTest 5.291650575 EphemerisTest: 6 pass, 0 fail
+2026-11-05T10:55:20Z FarTest 24.405477206 FarTest: 3 pass, 0 fail
+2026-11-05T10:55:20Z FrontageTest 28.568489802 FrontageTest: 0 fail
+2026-11-05T10:55:20Z FusionTest 23.799051426 FusionTest: 0 fail
+2026-11-05T10:55:20Z GalaxyTest 10.290862441 31 passed, 0 failed
+2026-11-05T10:55:20Z GateTest .119427911 GateTest: 0 fail
+2026-11-05T10:55:20Z GreatGateTest 25.820538566 GreatGateTest: 0 fail
+2026-11-05T10:55:20Z MetroRoadsTest 41.817120862 MetroRoadsTest: 0 fail
+2026-11-05T10:55:20Z MetroTest 27.792737045 MetroTest: 0 fail
+2026-11-05T10:55:20Z MoonTest 5.229610503 MoonTest: 0 fail
+2026-11-05T10:55:20Z NearTest 29.402464349 NearTest: 0 fail
+2026-11-05T10:55:20Z OrbitTest 6.402972682 OrbitTest: 10 pass, 0 fail
+2026-11-05T10:55:20Z ParksTest 27.166708340 ParksTest: 0 fail
+2026-11-05T10:55:20Z PlanetTest 9.682401697 15 passed, 0 failed
+2026-11-05T10:55:20Z QuarryTest 25.830792527 QuarryTest: 0 fail
+2026-11-05T10:55:20Z RiversTest 7.935351670 RiversTest: 0 fail
+2026-11-05T10:55:20Z RoadsTest 72.699946227 RoadsTest: 0 fail
+2026-11-05T10:55:20Z SeabedTest 10.529910375 SeabedTest: 9 pass, 0 fail
+2026-11-05T10:55:20Z SitesTest 32.157340337 SitesTest: 0 fail
+2026-11-05T10:55:20Z SkyBridgeTest 25.401501141 SkyBridgeTest: 0 fail
+2026-11-05T10:55:20Z SpaceTest 4.902660121 SpaceTest: 0 fail
+2026-11-05T10:55:20Z SpawnTest 13.698302655 SpawnTest: 3 of 3 pass
+2026-11-05T10:55:20Z SuitTest 4.746652821 SuitTest: 0 fail
+2026-11-05T10:55:20Z TideTest 4.584090206 TideTest: PASS
+2026-11-05T10:55:20Z TowerTest 6.312594724 TowerTest: 0 fail
+2026-11-05T10:55:20Z TownGameTest 54.616558162 TownGameTest: 0 fail
+2026-11-05T10:55:20Z TownsTest 109.454702746 TownsTest: 0 fail
+2026-11-05T10:55:20Z VolcanoTest 6.502030356 VolcanoTest: 0 fail
+2026-11-05T10:55:20Z X15Test 4.298098990 X15Test: 0 fail
+2026-11-05T11:21:39Z AtmosphereTest 6.225612300 AtmosphereTest: 6 pass, 0 fail
+2026-11-05T11:21:39Z BillboardTest 33.380199035 BillboardTest: 0 fail
+2026-11-05T11:21:39Z BiomesTest 5.236577174 BiomesTest: 0 fail
+2026-11-05T11:21:39Z BodiesTest 4.983764438 BodiesTest: 0 fail
+2026-11-05T11:21:39Z BreathTest 4.711786239 BreathTest: 0 fail
+2026-11-05T11:21:39Z BusinessesTest 59.134709374 BusinessesTest: 0 fail
+2026-11-05T11:21:39Z CavesTest 14.165916096 CavesTest: 0 fail
+2026-11-05T11:21:39Z CoastTest 9.525979740 CoastTest: 0 fail
+2026-11-05T11:21:39Z EphemerisTest 5.093301756 EphemerisTest: 6 pass, 0 fail
+2026-11-05T11:21:39Z FarTest 27.093160797 FarTest: 3 pass, 0 fail
+2026-11-05T11:21:39Z FrontageTest 32.316724608 FrontageTest: 0 fail
+2026-11-05T11:21:39Z FusionTest 29.360144247 FusionTest: 0 fail
+2026-11-05T11:21:39Z GalaxyTest 11.282514810 31 passed, 0 failed
+2026-11-05T11:21:39Z GateTest .163527583 GateTest: 0 fail
+2026-11-05T11:21:39Z GreatGateTest 31.148275924 GreatGateTest: 0 fail
+2026-11-05T11:21:39Z MetroRoadsTest 47.856640353 MetroRoadsTest: 0 fail
+2026-11-05T11:21:39Z MetroTest 31.583278768 MetroTest: 0 fail
+2026-11-05T11:21:39Z MoonTest 5.392083524 MoonTest: 0 fail
+2026-11-05T11:21:39Z NearTest 31.585570222 NearTest: 0 fail
+2026-11-05T11:21:39Z OrbitTest 6.113935585 OrbitTest: 10 pass, 0 fail
+2026-11-05T11:21:39Z ParksTest 29.579716355 ParksTest: 0 fail
+2026-11-05T11:21:39Z PlanetTest 10.141387517 15 passed, 0 failed
+2026-11-05T11:21:39Z QuarryTest 25.531407023 QuarryTest: 0 fail
+2026-11-05T11:21:39Z RailTest 86.704968996 RailTest: 0 fail
+2026-11-05T11:21:39Z RiversTest 8.282957153 RiversTest: 0 fail
+2026-11-05T11:21:39Z RoadsTest 78.486096405 RoadsTest: 0 fail
+2026-11-05T11:21:39Z SeabedTest 9.884996976 SeabedTest: 9 pass, 0 fail
+2026-11-05T11:21:39Z SitesTest 33.304512620 SitesTest: 0 fail
+2026-11-05T11:21:39Z SkyBridgeTest 25.544897209 SkyBridgeTest: 0 fail
+2026-11-05T11:21:39Z SpaceTest 4.931474276 SpaceTest: 0 fail
+2026-11-05T11:21:39Z SpawnTest 13.497808740 SpawnTest: 3 of 3 pass
+2026-11-05T11:21:39Z SuitTest 4.899472619 SuitTest: 0 fail
+2026-11-05T11:21:39Z TideTest 5.048963446 TideTest: PASS
+2026-11-05T11:21:39Z TowerTest 7.181689648 TowerTest: 0 fail
+2026-11-05T11:21:39Z TownGameTest 55.712727683 TownGameTest: 0 fail
+2026-11-05T11:21:39Z TownsTest 111.222690505 TownsTest: 0 fail
+2026-11-05T11:21:39Z VolcanoTest 7.228372383 VolcanoTest: 0 fail
+2026-11-05T11:21:39Z X15Test 4.687294695 X15Test: 0 fail
+2026-11-07T18:28:19Z AtmosphereTest 3.667979057 AtmosphereTest: 6 pass, 0 fail
+2026-11-07T18:28:19Z BillboardTest 18.169297625 BillboardTest: 0 fail
+2026-11-07T18:28:19Z BiomesTest 3.226835120 BiomesTest: 0 fail
+2026-11-07T18:28:19Z BodiesTest 3.454490738 BodiesTest: 0 fail
+2026-11-07T18:28:19Z BreathTest 3.028178300 BreathTest: 0 fail
+2026-11-07T18:28:19Z BusinessesTest 34.234701585 BusinessesTest: 0 fail
+2026-11-07T18:28:19Z CavesTest 8.476941991 CavesTest: 0 fail
+2026-11-07T18:28:19Z CoastTest 5.273819094 CoastTest: 0 fail
+2026-11-07T18:28:19Z EphemerisTest 2.869854647 EphemerisTest: 6 pass, 0 fail
+2026-11-07T18:28:19Z FarTest 17.368986856 FarTest: 3 pass, 0 fail
+2026-11-07T18:28:19Z FrontageTest 20.710303642 FrontageTest: 0 fail
+2026-11-07T18:28:19Z FusionTest 18.685957995 FusionTest: 0 fail
+2026-11-07T18:28:19Z GalaxyTest 5.724210322 31 passed, 0 failed
+2026-11-07T18:28:19Z GateTest .108614399 GateTest: 0 fail
+2026-11-07T18:28:19Z GreatGateTest 17.947115117 GreatGateTest: 0 fail
+2026-11-07T18:28:19Z MetroRoadsTest 27.627359906 MetroRoadsTest: 0 fail
+2026-11-07T18:28:19Z MetroTest 18.751247786 MetroTest: 0 fail
+2026-11-07T18:28:19Z MoonTest 3.232983882 MoonTest: 0 fail
+2026-11-07T18:28:19Z NearTest 17.935400973 NearTest: 0 fail
+2026-11-07T18:28:19Z OrbitTest 4.377443549 OrbitTest: 10 pass, 0 fail
+2026-11-07T18:28:19Z ParksTest 18.014804380 ParksTest: 0 fail
+2026-11-07T18:28:19Z PlanetTest 6.269167163 15 passed, 0 failed
+2026-11-07T18:28:19Z QuarryTest 16.686078109 QuarryTest: 0 fail
+2026-11-07T18:28:19Z RailTest 56.291612539 RailTest: 0 fail
+2026-11-07T18:28:19Z RiversTest 5.223433198 RiversTest: 0 fail
+2026-11-07T18:28:19Z RoadsTest 51.617559038 RoadsTest: 0 fail
+2026-11-07T18:28:19Z SeabedTest 6.284225161 SeabedTest: 9 pass, 0 fail
+2026-11-07T18:28:19Z SitesTest 19.896390994 SitesTest: 0 fail
+2026-11-07T18:28:19Z SkyBridgeTest 16.714091894 SkyBridgeTest: 0 fail
+2026-11-07T18:28:19Z SpaceTest 3.049920366 SpaceTest: 0 fail
+2026-11-07T18:28:19Z SpawnTest 8.339631468 SpawnTest: 3 of 3 pass
+2026-11-07T18:28:19Z SuitTest 2.921221874 SuitTest: 0 fail
+2026-11-07T18:28:19Z TideTest 2.962382290 TideTest: PASS
+2026-11-07T18:28:19Z TowerTest 3.449779319 TowerTest: 0 fail
+2026-11-07T18:28:19Z TownGameTest 33.949015081 TownGameTest: 0 fail
+2026-11-07T18:28:19Z TownsTest 74.354554330 TownsTest: 0 fail
+2026-11-07T18:28:19Z VolcanoTest 4.377708607 VolcanoTest: 0 fail
+2026-11-07T18:28:19Z X15Test 3.006381383 X15Test: 0 fail
+2026-11-07T18:59:47Z AtmosphereTest 3.721951971 AtmosphereTest: 6 pass, 0 fail
+2026-11-07T18:59:47Z BillboardTest 21.179060505 BillboardTest: 0 fail
+2026-11-07T18:59:47Z BiomesTest 3.129645682 BiomesTest: 0 fail
+2026-11-07T18:59:47Z BodiesTest 3.090659478 BodiesTest: 0 fail
+2026-11-07T18:59:47Z BreathTest 3.000001801 BreathTest: 0 fail
+2026-11-07T18:59:47Z BusinessesTest 31.702914393 BusinessesTest: 0 fail
+2026-11-07T18:59:47Z CavesTest 8.453128443 CavesTest: 0 fail
+2026-11-07T18:59:47Z CoastTest 5.405428485 CoastTest: 0 fail
+2026-11-07T18:59:47Z EphemerisTest 3.077791513 EphemerisTest: 6 pass, 0 fail
+2026-11-07T18:59:47Z FarTest 16.783675684 FarTest: 3 pass, 0 fail
+2026-11-07T18:59:47Z FrontageTest 18.937112067 FrontageTest: 0 fail
+2026-11-07T18:59:47Z FusionTest 16.335883876 FusionTest: 0 fail
+2026-11-07T18:59:47Z GalaxyTest 5.550862555 31 passed, 0 failed
+2026-11-07T18:59:47Z GateTest .083670646 GateTest: 0 fail
+2026-11-07T18:59:47Z GreatGateTest 16.633940527 GreatGateTest: 0 fail
+2026-11-07T18:59:47Z MetroRoadsTest 27.198728176 MetroRoadsTest: 0 fail
+2026-11-07T18:59:47Z MetroTest 16.041449277 MetroTest: 0 fail
+2026-11-07T18:59:47Z MoonTest 3.031904488 MoonTest: 0 fail
+2026-11-07T18:59:47Z NearTest 17.214940126 NearTest: 0 fail
+2026-11-07T18:59:47Z OrbitTest 3.785339512 OrbitTest: 10 pass, 0 fail
+2026-11-07T18:59:47Z ParksTest 17.176429163 ParksTest: 0 fail
+2026-11-07T18:59:47Z PlanetTest 6.234629876 15 passed, 0 failed
+2026-11-07T18:59:47Z QuarryTest 16.929443544 QuarryTest: 0 fail
+2026-11-07T18:59:47Z RailTest 53.787226685 RailTest: 0 fail
+2026-11-07T18:59:47Z RiversTest 4.942292540 RiversTest: 0 fail
+2026-11-07T18:59:47Z RoadsTest 55.845646241 RoadsTest: 0 fail
+2026-11-07T18:59:47Z SeabedTest 6.605144908 SeabedTest: 9 pass, 0 fail
+2026-11-07T18:59:47Z SitesTest 19.642461758 SitesTest: 0 fail
+2026-11-07T18:59:47Z SkyBridgeTest 16.443323250 SkyBridgeTest: 0 fail
+2026-11-07T18:59:47Z SpaceTest 2.947182833 SpaceTest: 0 fail
+2026-11-07T18:59:47Z SpawnTest 8.477456676 SpawnTest: 3 of 3 pass
+2026-11-07T18:59:47Z SuitTest 3.044279897 SuitTest: 0 fail
+2026-11-07T18:59:47Z TideTest 3.005596755 TideTest: PASS
+2026-11-07T18:59:47Z TowerTest 3.678050780 TowerTest: 0 fail
+2026-11-07T18:59:47Z TownGameTest 33.239265503 TownGameTest: 0 fail
+2026-11-07T18:59:47Z TownsTest 75.618015397 TownsTest: 0 fail
+2026-11-07T18:59:47Z VolcanoTest 4.590432322 VolcanoTest: 0 fail
+2026-11-07T18:59:47Z X15Test 3.050543325 X15Test: 0 fail
+2026-11-07T19:35:06Z AtmosphereTest 3.587184664 AtmosphereTest: 6 pass, 0 fail
+2026-11-07T19:35:06Z BillboardTest 18.060650476 BillboardTest: 0 fail
+2026-11-07T19:35:06Z BiomesTest 3.000448155 BiomesTest: 0 fail
+2026-11-07T19:35:06Z BodiesTest 3.352802003 BodiesTest: 0 fail
+2026-11-07T19:35:06Z BreathTest 2.908208398 BreathTest: 0 fail
+2026-11-07T19:35:06Z BusinessesTest 32.475943664 BusinessesTest: 0 fail
+2026-11-07T19:35:06Z CavesTest 8.293601888 CavesTest: 0 fail
+2026-11-07T19:35:06Z CoastTest 5.706373190 CoastTest: 0 fail
+2026-11-07T19:35:06Z EphemerisTest 2.895748685 EphemerisTest: 6 pass, 0 fail
+2026-11-07T19:35:06Z FarTest 15.818701120 FarTest: 4 pass, 0 fail
+2026-11-07T19:35:06Z FrontageTest 18.006152438 FrontageTest: 0 fail
+2026-11-07T19:35:06Z FusionTest 18.671806738 FusionTest: 0 fail
+2026-11-07T19:35:06Z GalaxyTest 5.550992145 31 passed, 0 failed
+2026-11-07T19:35:06Z GateTest .096316318 GateTest: 0 fail
+2026-11-07T19:35:06Z GreatGateTest 17.484526172 GreatGateTest: 0 fail
+2026-11-07T19:35:06Z MetroRoadsTest 26.671497529 MetroRoadsTest: 0 fail
+2026-11-07T19:35:06Z MetroTest 16.671583520 MetroTest: 0 fail
+2026-11-07T19:35:06Z MoonTest 3.050960193 MoonTest: 0 fail
+2026-11-07T19:35:06Z NearTest 17.527813421 NearTest: 0 fail
+2026-11-07T19:35:06Z OrbitTest 3.932802332 OrbitTest: 10 pass, 0 fail
+2026-11-07T19:35:06Z ParksTest 16.659096744 ParksTest: 0 fail
+2026-11-07T19:35:06Z PlanetTest 6.002437749 15 passed, 0 failed
+2026-11-07T19:35:06Z QuarryTest 16.552500012 QuarryTest: 0 fail
+2026-11-07T19:35:06Z RailTest 56.113532524 RailTest: 0 fail
+2026-11-07T19:35:06Z RiversTest 5.042873278 RiversTest: 0 fail
+2026-11-07T19:35:06Z RoadsTest 51.230952231 RoadsTest: 0 fail
+2026-11-07T19:35:06Z SeabedTest 6.357884351 SeabedTest: 9 pass, 0 fail
+2026-11-07T19:35:06Z SitesTest 20.532062709 SitesTest: 0 fail
+2026-11-07T19:35:06Z SkyBridgeTest 16.542768669 SkyBridgeTest: 0 fail
+2026-11-07T19:35:06Z SpaceTest 2.795487375 SpaceTest: 0 fail
+2026-11-07T19:35:06Z SpawnTest 8.603492883 SpawnTest: 3 of 3 pass
+2026-11-07T19:35:06Z SuitTest 2.743518917 SuitTest: 0 fail
+2026-11-07T19:35:06Z TideTest 2.990037931 TideTest: PASS
+2026-11-07T19:35:06Z TowerTest 3.693659508 TowerTest: 0 fail
+2026-11-07T19:35:06Z TownGameTest 32.896133029 TownGameTest: 0 fail
+2026-11-07T19:35:06Z TownsTest 75.390025245 TownsTest: 0 fail
+2026-11-07T19:35:06Z VolcanoTest 4.308913674 VolcanoTest: 0 fail
+2026-11-07T19:35:06Z X15Test 2.771645928 X15Test: 0 fail
+2026-11-07T20:00:49Z AtmosphereTest 3.552304674 AtmosphereTest: 6 pass, 0 fail
+2026-11-07T20:00:49Z BillboardTest 17.892500266 BillboardTest: 0 fail
+2026-11-07T20:00:49Z BiomesTest 3.059253852 BiomesTest: 0 fail
+2026-11-07T20:00:49Z BodiesTest 3.093945390 BodiesTest: 0 fail
+2026-11-07T20:00:49Z BreathTest 2.981526432 BreathTest: 0 fail
+2026-11-07T20:00:49Z BusinessesTest 31.804035781 BusinessesTest: 0 fail
+2026-11-07T20:00:49Z CavesTest 8.205045367 CavesTest: 0 fail
+2026-11-07T20:00:49Z CoastTest 5.404873490 CoastTest: 0 fail
+2026-11-07T20:00:49Z DepotTest 33.319959595 DepotTest: 0 fail
+2026-11-07T20:00:49Z EphemerisTest 3.003286640 EphemerisTest: 6 pass, 0 fail
+2026-11-07T20:00:49Z FarTest 16.628447665 FarTest: 4 pass, 0 fail
+2026-11-07T20:00:49Z FrontageTest 17.872360197 FrontageTest: 0 fail
+2026-11-07T20:00:49Z FusionTest 18.222853139 FusionTest: 0 fail
+2026-11-07T20:00:49Z GalaxyTest 5.496100426 31 passed, 0 failed
+2026-11-07T20:00:49Z GateTest .100740674 GateTest: 0 fail
+2026-11-07T20:00:49Z GreatGateTest 17.744513416 GreatGateTest: 0 fail
+2026-11-07T20:00:49Z MetroRoadsTest 27.698886375 MetroRoadsTest: 0 fail
+2026-11-07T20:00:49Z MetroTest 16.514007716 MetroTest: 0 fail
+2026-11-07T20:00:49Z MoonTest 2.989594145 MoonTest: 0 fail
+2026-11-07T20:00:49Z NearTest 17.350433800 NearTest: 0 fail
+2026-11-07T20:00:49Z OrbitTest 3.687096671 OrbitTest: 10 pass, 0 fail
+2026-11-07T20:00:49Z ParksTest 16.694598588 ParksTest: 0 fail
+2026-11-07T20:00:49Z PlanetTest 6.243280751 15 passed, 0 failed
+2026-11-07T20:00:49Z QuarryTest 16.935611436 QuarryTest: 0 fail
+2026-11-07T20:00:49Z RailTest 53.812204813 RailTest: 0 fail
+2026-11-07T20:00:49Z RiversTest 4.888024382 RiversTest: 0 fail
+2026-11-07T20:00:49Z RoadsTest 51.363197930 RoadsTest: 0 fail
+2026-11-07T20:00:49Z SeabedTest 6.297771391 SeabedTest: 9 pass, 0 fail
+2026-11-07T20:00:49Z SitesTest 20.454422335 SitesTest: 0 fail
+2026-11-07T20:00:49Z SkyBridgeTest 17.110393146 SkyBridgeTest: 0 fail
+2026-11-07T20:00:49Z SpaceTest 3.081609376 SpaceTest: 0 fail
+2026-11-07T20:00:49Z SpawnTest 8.338152264 SpawnTest: 3 of 3 pass
+2026-11-07T20:00:49Z SuitTest 2.856283665 SuitTest: 0 fail
+2026-11-07T20:00:49Z TideTest 2.970212766 TideTest: PASS
+2026-11-07T20:00:49Z TowerTest 3.487840876 TowerTest: 0 fail
+2026-11-07T20:00:49Z TownGameTest 33.371746244 TownGameTest: 0 fail
+2026-11-07T20:00:49Z TownsTest 73.473977421 TownsTest: 1 fail
+2026-11-07T20:00:49Z VolcanoTest 4.356999514 VolcanoTest: 0 fail
+2026-11-07T20:00:49Z X15Test 2.968218039 X15Test: 0 fail
+2026-11-07T20:17:19Z AtmosphereTest 3.523856949 AtmosphereTest: 6 pass, 0 fail
+2026-11-07T20:17:19Z BillboardTest 18.235980818 BillboardTest: 0 fail
+2026-11-07T20:17:19Z BiomesTest 3.029538087 BiomesTest: 0 fail
+2026-11-07T20:17:19Z BodiesTest 3.195210221 BodiesTest: 0 fail
+2026-11-07T20:17:19Z BreathTest 2.703913078 BreathTest: 0 fail
+2026-11-07T20:17:19Z BusinessesTest 32.584827846 BusinessesTest: 0 fail
+2026-11-07T20:17:19Z CavesTest 8.478894245 CavesTest: 0 fail
+2026-11-07T20:17:19Z CoastTest 5.596211193 CoastTest: 0 fail
+2026-11-07T20:17:19Z DepotTest 33.462256269 DepotTest: 0 fail
+2026-11-07T20:17:19Z EphemerisTest 3.002456345 EphemerisTest: 6 pass, 0 fail
+2026-11-07T20:17:19Z FarTest 16.948522133 FarTest: 4 pass, 0 fail
+2026-11-07T20:17:19Z FrontageTest 18.511053439 FrontageTest: 0 fail
+2026-11-07T20:17:19Z FusionTest 16.672107018 FusionTest: 0 fail
+2026-11-07T20:17:19Z GalaxyTest 5.571023497 31 passed, 0 failed
+2026-11-07T20:17:19Z GateTest .120442432 GateTest: 0 fail
+2026-11-07T20:17:19Z GreatGateTest 17.604363255 GreatGateTest: 0 fail
+2026-11-07T20:17:19Z MetroRoadsTest 27.382910968 MetroRoadsTest: 0 fail
+2026-11-07T20:17:19Z MetroTest 17.611181470 MetroTest: 0 fail
+2026-11-07T20:17:19Z MoonTest 3.114581080 MoonTest: 0 fail
+2026-11-07T20:17:19Z NearTest 17.760576333 NearTest: 0 fail
+2026-11-07T20:17:19Z OrbitTest 3.815164348 OrbitTest: 10 pass, 0 fail
+2026-11-07T20:17:19Z ParksTest 16.600817973 ParksTest: 0 fail
+2026-11-07T20:17:19Z PlanetTest 6.633935384 15 passed, 0 failed
+2026-11-07T20:17:19Z QuarryTest 17.332372776 QuarryTest: 0 fail
+2026-11-07T20:17:19Z RailTest 55.756089755 RailTest: 0 fail
+2026-11-07T20:17:19Z RiversTest 4.951278404 RiversTest: 0 fail
+2026-11-07T20:17:19Z RoadsTest 53.965306472 RoadsTest: 0 fail
+2026-11-07T20:17:19Z SeabedTest 6.568854639 SeabedTest: 9 pass, 0 fail
+2026-11-07T20:17:19Z SitesTest 21.975538757 SitesTest: 0 fail
+2026-11-07T20:17:19Z SkyBridgeTest 16.695992475 SkyBridgeTest: 0 fail
+2026-11-07T20:17:19Z SpaceTest 3.234641737 SpaceTest: 0 fail
+2026-11-07T20:17:19Z SpawnTest 8.505576813 SpawnTest: 3 of 3 pass
+2026-11-07T20:17:19Z SuitTest 2.703960595 SuitTest: 0 fail
+2026-11-07T20:17:19Z TideTest 3.014695443 TideTest: PASS
+2026-11-07T20:17:19Z TowerTest 3.485864493 TowerTest: 0 fail
+2026-11-07T20:17:19Z TownGameTest 33.716250334 TownGameTest: 0 fail
+2026-11-07T20:17:19Z TownsTest 74.199466562 TownsTest: 0 fail
+2026-11-07T20:17:19Z VolcanoTest 4.509597948 VolcanoTest: 0 fail
+2026-11-07T20:17:19Z X15Test 2.931608937 X15Test: 0 fail
+2026-11-08T05:36:33Z AtmosphereTest 4.310952013 AtmosphereTest: 6 pass, 0 fail
+2026-11-08T05:36:33Z BillboardTest 21.729442338 BillboardTest: 0 fail
+2026-11-08T05:36:33Z BiomesTest 3.997250520 BiomesTest: 0 fail
+2026-11-08T05:36:33Z BodiesTest 4.168118645 BodiesTest: 0 fail
+2026-11-08T05:36:33Z BreathTest 3.808588725 BreathTest: 0 fail
+2026-11-08T05:36:33Z BusinessesTest 36.793720160 BusinessesTest: 0 fail
+2026-11-08T05:36:33Z CavesTest 10.703381094 CavesTest: 0 fail
+2026-11-08T05:36:33Z CoastTest 6.591350192 CoastTest: 0 fail
+2026-11-08T05:36:33Z DepotTest 38.767811836 DepotTest: 0 fail
+2026-11-08T05:36:33Z EphemerisTest 3.897741243 EphemerisTest: 6 pass, 0 fail
+2026-11-08T05:36:33Z FarTest 20.027554038 FarTest: 4 pass, 0 fail
+2026-11-08T05:36:33Z FrontageTest 22.243802310 FrontageTest: 0 fail
+2026-11-08T05:36:33Z FusionTest 19.726823412 FusionTest: 0 fail
+2026-11-08T05:36:33Z GalaxyTest 7.041255290 31 passed, 0 failed
+2026-11-08T05:36:33Z GateTest .112166495 GateTest: 0 fail
+2026-11-08T05:36:33Z GreatGateTest 20.685557298 GreatGateTest: 0 fail
+2026-11-08T05:36:33Z MetroRoadsTest 33.599400908 MetroRoadsTest: 0 fail
+2026-11-08T05:36:33Z MetroTest 21.448655146 MetroTest: 0 fail
+2026-11-08T05:36:33Z MoonTest 3.856599566 MoonTest: 0 fail
+2026-11-08T05:36:33Z NearTest 22.617237281 NearTest: 0 fail
+2026-11-08T05:36:33Z OrbitTest 4.785854161 OrbitTest: 10 pass, 0 fail
+2026-11-08T05:36:33Z ParksTest 19.965002604 ParksTest: 0 fail
+2026-11-08T05:36:33Z PlanetTest 7.877121966 15 passed, 0 failed
+2026-11-08T05:36:33Z QuarryTest 18.951248315 QuarryTest: 0 fail
+2026-11-08T05:36:33Z RailTest 64.485732729 RailTest: 0 fail
+2026-11-08T05:36:33Z RiversTest 5.680355410 RiversTest: 0 fail
+2026-11-08T05:36:33Z RoadsTest 63.075364162 RoadsTest: 0 fail
+2026-11-08T05:36:33Z SeabedTest 7.627982437 SeabedTest: 9 pass, 0 fail
+2026-11-08T05:36:33Z SitesTest 23.146204633 SitesTest: 0 fail
+2026-11-08T05:36:33Z SkyBridgeTest 18.684896850 SkyBridgeTest: 0 fail
+2026-11-08T05:36:33Z SpaceTest 3.439909521 SpaceTest: 0 fail
+2026-11-08T05:36:33Z SpawnTest 10.392642393 SpawnTest: 3 of 3 pass
+2026-11-08T05:36:33Z SuitTest 3.374091292 SuitTest: 0 fail
+2026-11-08T05:36:33Z TideTest 3.591983849 TideTest: PASS
+2026-11-08T05:36:33Z TowerTest 4.417201009 TowerTest: 0 fail
+2026-11-08T05:36:33Z TownGameTest 40.843931230 TownGameTest: 0 fail
+2026-11-08T05:36:33Z TownsTest 84.319207231 TownsTest: 0 fail
+2026-11-08T05:36:33Z VolcanoTest 5.304792013 VolcanoTest: 0 fail
+2026-11-08T05:36:33Z X15Test 3.276515381 X15Test: 0 fail
+2026-11-08T05:36:33Z YardTest 39.054964056 YardTest: 0 fail
+2026-11-08T05:51:02Z AtmosphereTest 4.248787203 AtmosphereTest: 6 pass, 0 fail
+2026-11-08T05:51:02Z BillboardTest 19.518797859 BillboardTest: 0 fail
+2026-11-08T05:51:02Z BiomesTest 3.570494258 BiomesTest: 0 fail
+2026-11-08T05:51:02Z BodiesTest 3.907886889 BodiesTest: 0 fail
+2026-11-08T05:51:02Z BreathTest 3.443457148 BreathTest: 0 fail
+2026-11-08T05:51:02Z BusinessesTest 37.836733187 BusinessesTest: 0 fail
+2026-11-08T05:51:02Z CavesTest 10.239558622 CavesTest: 0 fail
+2026-11-08T05:51:02Z CoastTest 6.606140072 CoastTest: 0 fail
+2026-11-08T05:51:02Z DepotTest 39.624680848 DepotTest: 0 fail
+2026-11-08T05:51:02Z EphemerisTest 3.658533148 EphemerisTest: 6 pass, 0 fail
+2026-11-08T05:51:02Z FarTest 19.825607171 FarTest: 4 pass, 0 fail
+2026-11-08T05:51:02Z FrontageTest 21.025365287 FrontageTest: 0 fail
+2026-11-08T05:51:02Z FusionTest 19.503210489 FusionTest: 0 fail
+2026-11-08T05:51:02Z GalaxyTest 6.825475110 31 passed, 0 failed
+2026-11-08T05:51:02Z GateTest .097171597 GateTest: 0 fail
+2026-11-08T05:51:02Z GreatGateTest 20.313645091 GreatGateTest: 0 fail
+2026-11-08T05:51:02Z MetroRoadsTest 33.001778039 MetroRoadsTest: 0 fail
+2026-11-08T05:51:02Z MetroTest 19.288875017 MetroTest: 0 fail
+2026-11-08T05:51:02Z MoonTest 3.696261543 MoonTest: 0 fail
+2026-11-08T05:51:02Z NearTest 21.492991373 NearTest: 0 fail
+2026-11-08T05:51:02Z OrbitTest 4.615523477 OrbitTest: 10 pass, 0 fail
+2026-11-08T05:51:02Z ParksTest 18.815049315 ParksTest: 0 fail
+2026-11-08T05:51:02Z PlanetTest 7.208668569 15 passed, 0 failed
+2026-11-08T05:51:02Z QuarryTest 18.495695508 QuarryTest: 0 fail
+2026-11-08T05:51:02Z RailTest 64.262809407 RailTest: 0 fail
+2026-11-08T05:51:02Z RiversTest 5.796695497 RiversTest: 0 fail
+2026-11-08T05:51:02Z RoadsTest 60.123305471 RoadsTest: 0 fail
+2026-11-08T05:51:02Z SeabedTest 7.518455429 SeabedTest: 9 pass, 0 fail
+2026-11-08T05:51:02Z SitesTest 22.741476068 SitesTest: 0 fail
+2026-11-08T05:51:02Z SkyBridgeTest 18.181924763 SkyBridgeTest: 0 fail
+2026-11-08T05:51:02Z SpaceTest 3.315625359 SpaceTest: 0 fail
+2026-11-08T05:51:02Z SpawnTest 9.706009671 SpawnTest: 3 of 3 pass
+2026-11-08T05:51:02Z SuitTest 3.281916634 SuitTest: 0 fail
+2026-11-08T05:51:02Z TideTest 3.601809442 TideTest: PASS
+2026-11-08T05:51:02Z TowerTest 4.127286714 TowerTest: 0 fail
+2026-11-08T05:51:02Z TownGameTest 38.684597891 TownGameTest: 0 fail
+2026-11-08T05:51:02Z TownsTest 82.898710054 TownsTest: 0 fail
+2026-11-08T05:51:02Z VolcanoTest 5.360728469 VolcanoTest: 0 fail
+2026-11-08T05:51:02Z X15Test 3.377207821 X15Test: 0 fail
+2026-11-08T05:51:02Z YardTest 41.130833466 YardTest: 0 fail
+2026-11-08T07:17:22Z AtmosphereTest 4.674843388 AtmosphereTest: 6 pass, 0 fail
+2026-11-08T07:17:22Z BillboardTest 29.803604075 BillboardTest: 0 fail
+2026-11-08T07:17:22Z BiomesTest 3.836711996 BiomesTest: 0 fail
+2026-11-08T07:17:22Z BodiesTest 4.280535729 BodiesTest: 0 fail
+2026-11-08T07:17:22Z BreathTest 3.537238591 BreathTest: 0 fail
+2026-11-08T07:17:22Z BusinessesTest 48.357713457 BusinessesTest: 0 fail
+2026-11-08T07:17:22Z CavesTest 10.696663128 CavesTest: 0 fail
+2026-11-08T07:17:22Z CoastTest 7.432179717 CoastTest: 0 fail
+2026-11-08T07:17:22Z DepotTest 39.934376763 DepotTest: 1 fail
+2026-11-08T07:17:22Z EphemerisTest 4.037345630 EphemerisTest: 6 pass, 0 fail
+2026-11-08T07:17:22Z FarTest 25.887924535 FarTest: 4 pass, 0 fail
+2026-11-08T07:17:22Z FrontageTest 28.997644435 FrontageTest: 0 fail
+2026-11-08T07:17:22Z FusionTest 26.759189084 FusionTest: 0 fail
+2026-11-08T07:17:22Z GalaxyTest 6.965653391 31 passed, 0 failed
+2026-11-08T07:17:22Z GateTest .093169363 GateTest: 0 fail
+2026-11-08T07:17:22Z GreatGateTest 26.191629590 GreatGateTest: 0 fail
+2026-11-08T07:17:22Z MetroRoadsTest 38.606333839 MetroRoadsTest: 0 fail
+2026-11-08T07:17:22Z MetroTest 24.773182878 MetroTest: 0 fail
+2026-11-08T07:17:22Z MoonTest 3.842898627 MoonTest: 0 fail
+2026-11-08T07:17:22Z NearTest 22.123606521 NearTest: 0 fail
+2026-11-08T07:17:22Z OrbitTest 4.473810193 OrbitTest: 10 pass, 0 fail
+2026-11-08T07:17:22Z ParksTest 24.698848138 ParksTest: 0 fail
+2026-11-08T07:17:22Z PlanetTest 9.172578085 15 passed, 0 failed
+2026-11-08T07:17:22Z QuarryTest 25.748884702 QuarryTest: 0 fail
+2026-11-08T07:17:22Z RailTest 58.301039811 RailTest: 1 fail
+2026-11-08T07:17:22Z RiversTest 31.211027257 RiversTest: 0 fail
+2026-11-08T07:17:22Z RoadsTest 83.324121309 RoadsTest: 5 fail
+2026-11-08T07:17:22Z SeabedTest 8.606694257 SeabedTest: 9 pass, 0 fail
+2026-11-08T07:17:22Z SitesTest 27.796576734 SitesTest: 1 fail
+2026-11-08T07:17:22Z SkyBridgeTest 23.917603340 SkyBridgeTest: 0 fail
+2026-11-08T07:17:22Z SpaceTest 3.612284648 SpaceTest: 0 fail
+2026-11-08T07:17:22Z SpawnTest 10.713711742 SpawnTest: 3 of 3 pass
+2026-11-08T07:17:22Z SuitTest 3.556253570 SuitTest: 0 fail
+2026-11-08T07:17:22Z TideTest 3.556705469 TideTest: PASS
+2026-11-08T07:17:22Z TowerTest 4.269454468 TowerTest: 0 fail
+2026-11-08T07:17:22Z TownGameTest 44.971800954 TownGameTest: 0 fail
+2026-11-08T07:17:22Z TownsTest 91.918199989 TownsTest: 0 fail
+2026-11-08T07:17:22Z VolcanoTest 5.312918487 VolcanoTest: 0 fail
+2026-11-08T07:17:22Z X15Test 3.716353207 X15Test: 0 fail
+2026-11-08T07:17:22Z YardTest 33.692715524 YardTest: 3 fail

@@ -1,0 +1,40 @@
+{
+ "textures": {
+  "c": "hopelessinfinity:block/city/cable",
+  "particle": "hopelessinfinity:block/city/cable"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    7,
+    7
+   ],
+   "to": [
+    16,
+    9,
+    9
+   ],
+   "faces": {
+    "north": {
+     "texture": "#c"
+    },
+    "south": {
+     "texture": "#c"
+    },
+    "east": {
+     "texture": "#c"
+    },
+    "west": {
+     "texture": "#c"
+    },
+    "up": {
+     "texture": "#c"
+    },
+    "down": {
+     "texture": "#c"
+    }
+   }
+  }
+ ]
+}

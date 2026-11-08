@@ -1,0 +1,107 @@
+{
+ "textures": {
+  "s": "hopelessinfinity:block/own/press_side",
+  "t": "hopelessinfinity:block/own/press_top",
+  "h": "hopelessinfinity:block/own/shaft",
+  "p": "hopelessinfinity:block/city/steel",
+  "particle": "hopelessinfinity:block/own/press_side"
+ },
+ "elements": [
+  {
+   "from": [
+    1,
+    10,
+    1
+   ],
+   "to": [
+    15,
+    16,
+    15
+   ],
+   "faces": {
+    "north": {
+     "texture": "#s"
+    },
+    "south": {
+     "texture": "#s"
+    },
+    "east": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#t"
+    },
+    "down": {
+     "texture": "#s"
+    }
+   }
+  },
+  {
+   "from": [
+    6,
+    6,
+    6
+   ],
+   "to": [
+    10,
+    10,
+    10
+   ],
+   "faces": {
+    "north": {
+     "texture": "#h"
+    },
+    "south": {
+     "texture": "#h"
+    },
+    "east": {
+     "texture": "#h"
+    },
+    "west": {
+     "texture": "#h"
+    },
+    "up": {
+     "texture": "#h"
+    },
+    "down": {
+     "texture": "#h"
+    }
+   }
+  },
+  {
+   "from": [
+    3,
+    4,
+    3
+   ],
+   "to": [
+    13,
+    7,
+    13
+   ],
+   "faces": {
+    "north": {
+     "texture": "#p"
+    },
+    "south": {
+     "texture": "#p"
+    },
+    "east": {
+     "texture": "#p"
+    },
+    "west": {
+     "texture": "#p"
+    },
+    "up": {
+     "texture": "#p"
+    },
+    "down": {
+     "texture": "#p"
+    }
+   }
+  }
+ ]
+}

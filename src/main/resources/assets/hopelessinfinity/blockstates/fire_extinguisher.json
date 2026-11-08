@@ -1,0 +1,64 @@
+{
+ "variants": {
+  "facing=north,charges=0": {
+   "model": "hopelessinfinity:block/fire_extinguisher"
+  },
+  "facing=north,charges=1": {
+   "model": "hopelessinfinity:block/fire_extinguisher"
+  },
+  "facing=north,charges=2": {
+   "model": "hopelessinfinity:block/fire_extinguisher"
+  },
+  "facing=north,charges=3": {
+   "model": "hopelessinfinity:block/fire_extinguisher"
+  },
+  "facing=east,charges=0": {
+   "model": "hopelessinfinity:block/fire_extinguisher",
+   "y": 90
+  },
+  "facing=east,charges=1": {
+   "model": "hopelessinfinity:block/fire_extinguisher",
+   "y": 90
+  },
+  "facing=east,charges=2": {
+   "model": "hopelessinfinity:block/fire_extinguisher",
+   "y": 90
+  },
+  "facing=east,charges=3": {
+   "model": "hopelessinfinity:block/fire_extinguisher",
+   "y": 90
+  },
+  "facing=south,charges=0": {
+   "model": "hopelessinfinity:block/fire_extinguisher",
+   "y": 180
+  },
+  "facing=south,charges=1": {
+   "model": "hopelessinfinity:block/fire_extinguisher",
+   "y": 180
+  },
+  "facing=south,charges=2": {
+   "model": "hopelessinfinity:block/fire_extinguisher",
+   "y": 180
+  },
+  "facing=south,charges=3": {
+   "model": "hopelessinfinity:block/fire_extinguisher",
+   "y": 180
+  },
+  "facing=west,charges=0": {
+   "model": "hopelessinfinity:block/fire_extinguisher",
+   "y": 270
+  },
+  "facing=west,charges=1": {
+   "model": "hopelessinfinity:block/fire_extinguisher",
+   "y": 270
+  },
+  "facing=west,charges=2": {
+   "model": "hopelessinfinity:block/fire_extinguisher",
+   "y": 270
+  },
+  "facing=west,charges=3": {
+   "model": "hopelessinfinity:block/fire_extinguisher",
+   "y": 270
+  }
+ }
+}

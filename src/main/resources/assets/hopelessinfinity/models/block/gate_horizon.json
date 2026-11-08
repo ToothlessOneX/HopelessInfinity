@@ -1,0 +1,7 @@
+{
+ "parent": "minecraft:block/cube_all",
+ "textures": {
+  "all": "hopelessinfinity:block/gate_horizon"
+ },
+ "render_type": "minecraft:translucent"
+}

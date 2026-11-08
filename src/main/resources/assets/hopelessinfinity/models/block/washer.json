@@ -1,0 +1,13 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/city/washer.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "enamel": "hopelessinfinity:block/city/enamel",
+  "washer_face": "hopelessinfinity:block/city/washer_face",
+  "particle": "hopelessinfinity:block/city/enamel"
+ }
+}

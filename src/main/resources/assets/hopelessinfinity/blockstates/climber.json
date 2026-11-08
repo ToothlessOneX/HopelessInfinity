@@ -1,0 +1,20 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/climber",
+   "y": 0
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/climber",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/climber",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/climber",
+   "y": 270
+  }
+ }
+}

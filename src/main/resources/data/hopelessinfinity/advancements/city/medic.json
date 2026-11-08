@@ -1,0 +1,19 @@
+{
+ "display": {
+  "icon": {
+   "item": "minecraft:golden_apple"
+  },
+  "title": "Good Samaritan",
+  "description": "Help someone who collapsed",
+  "frame": "task",
+  "show_toast": true,
+  "announce_to_chat": true,
+  "hidden": false
+ },
+ "criteria": {
+  "done": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "hopelessinfinity:city/responder"
+}

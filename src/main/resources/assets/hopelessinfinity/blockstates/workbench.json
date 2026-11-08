@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/workbench"
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/workbench",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/workbench",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/workbench",
+   "y": 270
+  }
+ }
+}

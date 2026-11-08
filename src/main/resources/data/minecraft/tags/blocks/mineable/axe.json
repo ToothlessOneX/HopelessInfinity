@@ -1,0 +1,13 @@
+{
+ "replace": false,
+ "values": [
+  "hopelessinfinity:produce_crate",
+  "hopelessinfinity:desk",
+  "hopelessinfinity:coffee_table",
+  "hopelessinfinity:workbench",
+  "hopelessinfinity:chair",
+  "hopelessinfinity:table",
+  "hopelessinfinity:sewing_table",
+  "hopelessinfinity:icebox"
+ ]
+}

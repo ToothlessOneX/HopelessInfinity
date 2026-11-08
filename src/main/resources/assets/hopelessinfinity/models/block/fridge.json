@@ -1,0 +1,14 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/city/fridge.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "chrome": "hopelessinfinity:block/city/chrome",
+  "enamel": "hopelessinfinity:block/city/enamel",
+  "fridge_door": "hopelessinfinity:block/city/fridge_door",
+  "particle": "hopelessinfinity:block/city/chrome"
+ }
+}

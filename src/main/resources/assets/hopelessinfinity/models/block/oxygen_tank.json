@@ -1,0 +1,73 @@
+{
+ "textures": {
+  "s": "hopelessinfinity:block/own/o2_tank",
+  "t": "hopelessinfinity:block/own/o2_top",
+  "particle": "hopelessinfinity:block/own/o2_tank"
+ },
+ "elements": [
+  {
+   "from": [
+    3,
+    0,
+    2
+   ],
+   "to": [
+    13,
+    16,
+    14
+   ],
+   "faces": {
+    "north": {
+     "texture": "#s"
+    },
+    "south": {
+     "texture": "#s"
+    },
+    "east": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#t"
+    },
+    "down": {
+     "texture": "#t"
+    }
+   }
+  },
+  {
+   "from": [
+    2,
+    0.1,
+    3
+   ],
+   "to": [
+    14,
+    15.9,
+    13
+   ],
+   "faces": {
+    "north": {
+     "texture": "#s"
+    },
+    "south": {
+     "texture": "#s"
+    },
+    "east": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#t"
+    },
+    "down": {
+     "texture": "#t"
+    }
+   }
+  }
+ ]
+}

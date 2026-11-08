@@ -1,0 +1,34 @@
+{
+ "variants": {
+  "facing=north,extended=false": {
+   "model": "hopelessinfinity:block/drop_ladder"
+  },
+  "facing=north,extended=true": {
+   "model": "hopelessinfinity:block/drop_ladder_down"
+  },
+  "facing=east,extended=false": {
+   "model": "hopelessinfinity:block/drop_ladder",
+   "y": 90
+  },
+  "facing=east,extended=true": {
+   "model": "hopelessinfinity:block/drop_ladder_down",
+   "y": 90
+  },
+  "facing=south,extended=false": {
+   "model": "hopelessinfinity:block/drop_ladder",
+   "y": 180
+  },
+  "facing=south,extended=true": {
+   "model": "hopelessinfinity:block/drop_ladder_down",
+   "y": 180
+  },
+  "facing=west,extended=false": {
+   "model": "hopelessinfinity:block/drop_ladder",
+   "y": 270
+  },
+  "facing=west,extended=true": {
+   "model": "hopelessinfinity:block/drop_ladder_down",
+   "y": 270
+  }
+ }
+}

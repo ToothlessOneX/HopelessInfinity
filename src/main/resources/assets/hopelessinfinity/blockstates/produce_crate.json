@@ -1,0 +1,94 @@
+{
+ "variants": {
+  "facing=north,crop=cabbage": {
+   "model": "hopelessinfinity:block/produce_crate_cabbage"
+  },
+  "facing=north,crop=tomato": {
+   "model": "hopelessinfinity:block/produce_crate_tomato"
+  },
+  "facing=north,crop=onion": {
+   "model": "hopelessinfinity:block/produce_crate_onion"
+  },
+  "facing=north,crop=carrot": {
+   "model": "hopelessinfinity:block/produce_crate_carrot"
+  },
+  "facing=north,crop=potato": {
+   "model": "hopelessinfinity:block/produce_crate_potato"
+  },
+  "facing=north,crop=beetroot": {
+   "model": "hopelessinfinity:block/produce_crate_beetroot"
+  },
+  "facing=east,crop=cabbage": {
+   "model": "hopelessinfinity:block/produce_crate_cabbage",
+   "y": 90
+  },
+  "facing=east,crop=tomato": {
+   "model": "hopelessinfinity:block/produce_crate_tomato",
+   "y": 90
+  },
+  "facing=east,crop=onion": {
+   "model": "hopelessinfinity:block/produce_crate_onion",
+   "y": 90
+  },
+  "facing=east,crop=carrot": {
+   "model": "hopelessinfinity:block/produce_crate_carrot",
+   "y": 90
+  },
+  "facing=east,crop=potato": {
+   "model": "hopelessinfinity:block/produce_crate_potato",
+   "y": 90
+  },
+  "facing=east,crop=beetroot": {
+   "model": "hopelessinfinity:block/produce_crate_beetroot",
+   "y": 90
+  },
+  "facing=south,crop=cabbage": {
+   "model": "hopelessinfinity:block/produce_crate_cabbage",
+   "y": 180
+  },
+  "facing=south,crop=tomato": {
+   "model": "hopelessinfinity:block/produce_crate_tomato",
+   "y": 180
+  },
+  "facing=south,crop=onion": {
+   "model": "hopelessinfinity:block/produce_crate_onion",
+   "y": 180
+  },
+  "facing=south,crop=carrot": {
+   "model": "hopelessinfinity:block/produce_crate_carrot",
+   "y": 180
+  },
+  "facing=south,crop=potato": {
+   "model": "hopelessinfinity:block/produce_crate_potato",
+   "y": 180
+  },
+  "facing=south,crop=beetroot": {
+   "model": "hopelessinfinity:block/produce_crate_beetroot",
+   "y": 180
+  },
+  "facing=west,crop=cabbage": {
+   "model": "hopelessinfinity:block/produce_crate_cabbage",
+   "y": 270
+  },
+  "facing=west,crop=tomato": {
+   "model": "hopelessinfinity:block/produce_crate_tomato",
+   "y": 270
+  },
+  "facing=west,crop=onion": {
+   "model": "hopelessinfinity:block/produce_crate_onion",
+   "y": 270
+  },
+  "facing=west,crop=carrot": {
+   "model": "hopelessinfinity:block/produce_crate_carrot",
+   "y": 270
+  },
+  "facing=west,crop=potato": {
+   "model": "hopelessinfinity:block/produce_crate_potato",
+   "y": 270
+  },
+  "facing=west,crop=beetroot": {
+   "model": "hopelessinfinity:block/produce_crate_beetroot",
+   "y": 270
+  }
+ }
+}

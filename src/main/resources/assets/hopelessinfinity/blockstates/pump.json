@@ -1,0 +1,34 @@
+{
+ "variants": {
+  "facing=north,on=false": {
+   "model": "hopelessinfinity:block/pump"
+  },
+  "facing=north,on=true": {
+   "model": "hopelessinfinity:block/pump"
+  },
+  "facing=east,on=false": {
+   "model": "hopelessinfinity:block/pump",
+   "y": 90
+  },
+  "facing=east,on=true": {
+   "model": "hopelessinfinity:block/pump",
+   "y": 90
+  },
+  "facing=south,on=false": {
+   "model": "hopelessinfinity:block/pump",
+   "y": 180
+  },
+  "facing=south,on=true": {
+   "model": "hopelessinfinity:block/pump",
+   "y": 180
+  },
+  "facing=west,on=false": {
+   "model": "hopelessinfinity:block/pump",
+   "y": 270
+  },
+  "facing=west,on=true": {
+   "model": "hopelessinfinity:block/pump",
+   "y": 270
+  }
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/fridge"
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/fridge",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/fridge",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/fridge",
+   "y": 270
+  }
+ }
+}

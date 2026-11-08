@@ -1,0 +1,22 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "WRW",
+  "PPP"
+ ],
+ "key": {
+  "W": {
+   "item": "hopelessinfinity:copper_wire"
+  },
+  "R": {
+   "item": "minecraft:redstone"
+  },
+  "P": {
+   "item": "hopelessinfinity:copper_plate"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:circuit_board",
+  "count": 1
+ }
+}

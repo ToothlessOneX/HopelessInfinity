@@ -1,0 +1,20 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/cafe_table",
+   "y": 0
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/cafe_table",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/cafe_table",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/cafe_table",
+   "y": 270
+  }
+ }
+}

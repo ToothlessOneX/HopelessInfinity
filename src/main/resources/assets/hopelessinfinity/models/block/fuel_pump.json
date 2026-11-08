@@ -1,0 +1,17 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/city/fuel_pump.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "plastic_dark": "hopelessinfinity:block/city/plastic_dark",
+  "pump_face": "hopelessinfinity:block/city/pump_face",
+  "red_paint": "hopelessinfinity:block/city/red_paint",
+  "rubber": "hopelessinfinity:block/city/rubber",
+  "steel_dark": "hopelessinfinity:block/city/steel_dark",
+  "white_paint": "hopelessinfinity:block/city/white_paint",
+  "particle": "hopelessinfinity:block/city/plastic_dark"
+ }
+}

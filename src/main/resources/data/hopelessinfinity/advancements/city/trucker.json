@@ -1,0 +1,19 @@
+{
+ "display": {
+  "icon": {
+   "item": "minecraft:minecart"
+  },
+  "title": "Long Haul",
+  "description": "Finish 10 deliveries",
+  "frame": "goal",
+  "show_toast": true,
+  "announce_to_chat": true,
+  "hidden": false
+ },
+ "criteria": {
+  "done": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "hopelessinfinity:city/delivery"
+}

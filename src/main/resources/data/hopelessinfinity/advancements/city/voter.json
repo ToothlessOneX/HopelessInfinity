@@ -1,0 +1,19 @@
+{
+ "display": {
+  "icon": {
+   "item": "hopelessinfinity:ballot_box"
+  },
+  "title": "Civic Duty",
+  "description": "Vote in a council election",
+  "frame": "task",
+  "show_toast": true,
+  "announce_to_chat": true,
+  "hidden": false
+ },
+ "criteria": {
+  "done": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "hopelessinfinity:city/root"
+}

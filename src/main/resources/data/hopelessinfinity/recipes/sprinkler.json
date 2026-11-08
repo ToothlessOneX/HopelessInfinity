@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  " C ",
+  "CRC"
+ ],
+ "key": {
+  "C": {
+   "item": "minecraft:copper_ingot"
+  },
+  "R": {
+   "item": "minecraft:red_dye"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:sprinkler",
+  "count": 4
+ }
+}

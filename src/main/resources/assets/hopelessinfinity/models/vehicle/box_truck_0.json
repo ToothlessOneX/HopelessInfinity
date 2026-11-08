@@ -1,0 +1,20 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/vehicle/box_truck.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "box_side": "hopelessinfinity:block/vehicle/box_side",
+  "cargo_white": "hopelessinfinity:block/vehicle/cargo_white",
+  "chrome": "hopelessinfinity:block/vehicle/chrome",
+  "grille": "hopelessinfinity:block/vehicle/grille",
+  "headlight": "hopelessinfinity:block/vehicle/headlight",
+  "plate": "hopelessinfinity:block/vehicle/plate",
+  "rear_doors": "hopelessinfinity:block/vehicle/rear_doors",
+  "taillight": "hopelessinfinity:block/vehicle/taillight",
+  "trim": "hopelessinfinity:block/vehicle/trim",
+  "particle": "hopelessinfinity:block/vehicle/box_side"
+ }
+}

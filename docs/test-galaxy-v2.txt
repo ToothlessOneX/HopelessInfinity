@@ -1,0 +1,49 @@
+PASS objects within 20 pc (Kirkpatrick 2024: ~3,600 incl. companions)   3524 objects (347 us per cell)
+PASS white dwarf density at the Sun (Hollands 2018: 4.49e-3 pc^-3)      5.82e-03 (195 WDs)
+box census 189009 systems: BROWN_DWARF 59629  MAIN_SEQUENCE 169796  GIANT 819  WHITE_DWARF 13935  NEUTRON_STAR 1211  BLACK_HOLE 490  
+PASS main-sequence class A share (Reyle 2021 10 pc census, 2 sigma)     0.49% want 1.13% +/- 1.13
+PASS main-sequence class F share (Reyle 2021 10 pc census, 2 sigma)     2.62% want 2.27% +/- 1.60
+PASS main-sequence class G share (Reyle 2021 10 pc census, 2 sigma)     3.36% want 5.10% +/- 2.40
+PASS main-sequence class K share (Reyle 2021 10 pc census, 2 sigma)     12.12% want 10.76% +/- 3.49
+PASS main-sequence class M share (Reyle 2021 10 pc census, 2 sigma)     81.18% want 80.74% +/- 9.56
+PASS white dwarf share of objects (Reyle 2021: 21 of 463 = 4.5%), 2 sigma 5.67%
+PASS star : brown dwarf about 4 : 1 (Kirkpatrick 2024), within 35%      3.12 : 1
+PASS multiplicity BD <0.08 (Duchene & Kraus 2013)                       22.1% of 40879
+PASS multiplicity M 0.08-0.5 (Duchene & Kraus 2013)                     26.1% of 101783
+PASS multiplicity FGK 0.5-1.3 (Duchene & Kraus 2013)                    43.3% of 32944
+PASS multiplicity A 1.3-5 (Duchene & Kraus 2013)                        49.5% of 11072
+PASS multiplicity B 5-16 (Duchene & Kraus 2013)                         59.4% of 1842
+PASS multiplicity O >16 (Duchene & Kraus 2013)                          82.6% of 489
+PASS objects in the galaxy (5e10 Msun / 0.41 Msun = 1.22e11), within 35% 1.33e+11
+PASS neutron stars in the galaxy (Lam 2020: 4.4e8), within a factor 2   6.19e+08
+PASS stellar black holes in the galaxy (Lam 2020: 2.2e8), within a factor 2 2.61e+08
+PASS mean mass per object (Kirkpatrick 2024: 0.41 Msun), within 35%     0.360 Msun
+young massive stars 953,917 | supergiants 29,995 | remnants younger than 1e5 yr 1,778 (nearest 4395 ly) 
+PASS core-collapse supernovae per century (Rozwadowska 2021 all types: 1.63 +/- 0.46) 1.77 (next 100,000 yr: 1770)
+PASS Wolf-Rayet stars (Rosslowe & Crowther 2015: 1200 +300/-100), within a factor 2 618
+FGK sample 25190 systems, 5.58 planets each, giants 9951 (ringed 9951, bright 2473), main belts 2594
+PASS hot Jupiters round FGK dwarfs (Wright 2012: 1.2 +/- 0.38%)         1.19%
+PASS FGK with a 0.3-10 MJ planet at 2-2000 d (Cumming 2008: 10.5%), 30% 9.1%
+PASS cold debris belts round FGK (Sibthorpe 2018: 17.1%), within 30%    16.6%
+PASS every giant beyond the snow line has rings, a quarter bright (Solar System) 9951/9951 ringed, 24.9% bright
+PASS rocky planets > 0.5 Me with a Moon-like moon (Elser 2011: 1 in 12), 25% 1 in 12.0 of 56431
+PASS regular moon mass / giant mass (Canup & Ward 2006: 1e-4)           0.000100
+main belts 2594, median largest body 933 km (Ceres 939 km at the Sun's 4.0e-4 Me)
+PASS rogue planets per star (Sumi 2023: 21), within 15%                 21.1 (32993 rogues, 1563 stars)
+PASS Sgr A*: 4.154e6 Msun, event horizon 1.227e7 km (2GM/c^2)           4.154e+06 Msun, 1.227e+07 km
+PASS same seed gives the same cell                                      83 objects
+PASS start: a G dwarf with a temperate rocky planet near Earth's mass   HIN +0000-0818-001-51 (search 2 ms)
+HIN +0000-0818-001-51  G4V  at (5, -8178, -1) pc, 18.4 ly from the Sun's place
+   primary MAIN_SEQUENCE G4V 0.964 Msun (born 0.96) age 8.07e+09 yr Teff 5600 K L 0.806 R 6.612e+05 km
+   HZ 0.898-1.555 AU, snow line 2.42 AU
+   0    0.076 AU      2.41 Me    1.36 Re  g 12.84 m/s2  S  138.402  Teq   872 K  MINI_NEPTUNE HOT        r=8642 km
+   1    0.123 AU      2.21 Me    1.29 Re  g 13.04 m/s2  S   52.943  Teq   686 K  MINI_NEPTUNE HOT        r=8217 km
+   2    0.152 AU      6.50 Me    2.43 Re  g 10.76 m/s2  S   34.846  Teq   618 K  MINI_NEPTUNE HOT        r=15512 km
+   3    0.285 AU      3.16 Me    1.59 Re  g 12.24 m/s2  S    9.951  Teq   452 K  MINI_NEPTUNE HOT        r=10134 km
+   4    0.409 AU      3.97 Me    1.82 Re  g 11.75 m/s2  S    4.821  Teq   377 K  MINI_NEPTUNE HOT        r=11598 km  moons 1
+   5    0.776 AU      4.21 Me    1.88 Re  g 11.63 m/s2  S    1.341  Teq   274 K  MINI_NEPTUNE WARM_EDGE  r=12002 km
+   6    1.051 AU      1.41 Me    1.11 Re  g 11.22 m/s2  S    0.731  Teq   235 K  ROCKY     TEMPERATE  r=7061 km  moons 1
+   7    1.534 AU      5.30 Me    2.16 Re  g 11.16 m/s2  S    0.343  Teq   195 K  MINI_NEPTUNE TEMPERATE  r=13745 km
+   8    2.138 AU      3.10 Me    1.57 Re  g 12.28 m/s2  S    0.176  Teq   165 K  MINI_NEPTUNE FROZEN     r=10018 km  moons 1
+   Oort cloud 1.4e+12 comets; active comets now 2
+31 passed, 0 failed

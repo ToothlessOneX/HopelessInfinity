@@ -1,0 +1,54 @@
+{
+ "textures": {
+  "c": "hopelessinfinity:block/own/clock_face",
+  "k": "hopelessinfinity:block/city/black_paint",
+  "particle": "hopelessinfinity:block/own/clock_face"
+ },
+ "elements": [
+  {
+   "from": [
+    1,
+    1,
+    7
+   ],
+   "to": [
+    15,
+    15,
+    9
+   ],
+   "faces": {
+    "north": {
+     "texture": "#c",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#c",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "east": {
+     "texture": "#k"
+    },
+    "west": {
+     "texture": "#k"
+    },
+    "up": {
+     "texture": "#k"
+    },
+    "down": {
+     "texture": "#k"
+    }
+   }
+  }
+ ],
+ "render_type": "minecraft:cutout"
+}

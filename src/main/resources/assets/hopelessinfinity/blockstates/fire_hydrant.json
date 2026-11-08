@@ -1,0 +1,20 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/fire_hydrant",
+   "y": 0
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/fire_hydrant",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/fire_hydrant",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/fire_hydrant",
+   "y": 270
+  }
+ }
+}

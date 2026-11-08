@@ -1,0 +1,21 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/vehicle/fire.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "chrome": "hopelessinfinity:block/vehicle/chrome",
+  "compartments": "hopelessinfinity:block/vehicle/compartments",
+  "fire_side": "hopelessinfinity:block/vehicle/fire_side",
+  "grille": "hopelessinfinity:block/vehicle/grille",
+  "headlight": "hopelessinfinity:block/vehicle/headlight",
+  "lightbar_off": "hopelessinfinity:block/vehicle/lightbar_off",
+  "paint": "hopelessinfinity:block/vehicle/paint_fire",
+  "plate": "hopelessinfinity:block/vehicle/plate",
+  "taillight": "hopelessinfinity:block/vehicle/taillight",
+  "trim": "hopelessinfinity:block/vehicle/trim",
+  "particle": "hopelessinfinity:block/vehicle/chrome"
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/city/po_box.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "brass": "hopelessinfinity:block/city/brass",
+  "po_box": "hopelessinfinity:block/city/po_box",
+  "particle": "hopelessinfinity:block/city/brass"
+ }
+}

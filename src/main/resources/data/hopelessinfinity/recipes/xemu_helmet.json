@@ -1,0 +1,25 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "equipment",
+ "pattern": [
+  "IDI",
+  "GVG"
+ ],
+ "key": {
+  "I": {
+   "item": "minecraft:iron_ingot"
+  },
+  "G": {
+   "item": "minecraft:glass"
+  },
+  "V": {
+   "item": "minecraft:gold_ingot"
+  },
+  "D": {
+   "item": "minecraft:blue_dye"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:xemu_helmet"
+ }
+}

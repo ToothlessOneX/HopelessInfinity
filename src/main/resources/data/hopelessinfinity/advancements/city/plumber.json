@@ -1,0 +1,19 @@
+{
+ "display": {
+  "icon": {
+   "item": "hopelessinfinity:pump"
+  },
+  "title": "Water Main",
+  "description": "Repair a water outage",
+  "frame": "task",
+  "show_toast": true,
+  "announce_to_chat": true,
+  "hidden": false
+ },
+ "criteria": {
+  "done": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "hopelessinfinity:city/lineman"
+}

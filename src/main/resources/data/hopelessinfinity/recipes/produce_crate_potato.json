@@ -1,0 +1,22 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "CCC",
+  "CCC",
+  "CCC"
+ ],
+ "key": {
+  "C": {
+   "item": "minecraft:potato"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:produce_crate",
+  "count": 1,
+  "nbt": {
+   "BlockStateTag": {
+    "crop": "potato"
+   }
+  }
+ }
+}

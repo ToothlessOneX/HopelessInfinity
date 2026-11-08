@@ -1,0 +1,112 @@
+{
+ "textures": {
+  "f": "hopelessinfinity:block/own/alarm_bell_lit",
+  "r": "hopelessinfinity:block/city/red_paint",
+  "m": "hopelessinfinity:block/city/steel_dark",
+  "particle": "hopelessinfinity:block/own/alarm_bell_lit"
+ },
+ "elements": [
+  {
+   "from": [
+    4,
+    4,
+    12
+   ],
+   "to": [
+    12,
+    12,
+    15
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#r"
+    },
+    "east": {
+     "texture": "#r"
+    },
+    "west": {
+     "texture": "#r"
+    },
+    "up": {
+     "texture": "#r"
+    },
+    "down": {
+     "texture": "#r"
+    }
+   }
+  },
+  {
+   "from": [
+    7,
+    7,
+    11
+   ],
+   "to": [
+    9,
+    9,
+    12
+   ],
+   "faces": {
+    "north": {
+     "texture": "#m"
+    },
+    "south": {
+     "texture": "#m"
+    },
+    "east": {
+     "texture": "#m"
+    },
+    "west": {
+     "texture": "#m"
+    },
+    "up": {
+     "texture": "#m"
+    },
+    "down": {
+     "texture": "#m"
+    }
+   }
+  },
+  {
+   "from": [
+    3,
+    3,
+    15
+   ],
+   "to": [
+    13,
+    13,
+    16
+   ],
+   "faces": {
+    "north": {
+     "texture": "#m"
+    },
+    "south": {
+     "texture": "#m"
+    },
+    "east": {
+     "texture": "#m"
+    },
+    "west": {
+     "texture": "#m"
+    },
+    "up": {
+     "texture": "#m"
+    },
+    "down": {
+     "texture": "#m"
+    }
+   }
+  }
+ ]
+}

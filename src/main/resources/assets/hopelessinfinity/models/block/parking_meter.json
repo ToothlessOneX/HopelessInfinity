@@ -1,0 +1,13 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/street/parking_meter.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "meter_body": "hopelessinfinity:block/street/meter_body",
+  "meter_face": "hopelessinfinity:block/street/meter_face",
+  "particle": "hopelessinfinity:block/street/meter_body"
+ }
+}

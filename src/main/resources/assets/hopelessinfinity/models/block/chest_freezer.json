@@ -1,0 +1,41 @@
+{
+ "textures": {
+  "s": "hopelessinfinity:block/own/enamel_side",
+  "t": "hopelessinfinity:block/own/freezer_top",
+  "particle": "hopelessinfinity:block/own/enamel_side"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    0,
+    1
+   ],
+   "to": [
+    16,
+    14,
+    16
+   ],
+   "faces": {
+    "north": {
+     "texture": "#s"
+    },
+    "south": {
+     "texture": "#s"
+    },
+    "east": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#t"
+    },
+    "down": {
+     "texture": "#s"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/city/tube_station.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "glass_clear": "hopelessinfinity:block/city/glass_clear",
+  "glass_tint": "hopelessinfinity:block/city/glass_tint",
+  "steel": "hopelessinfinity:block/city/steel",
+  "steel_dark": "hopelessinfinity:block/city/steel_dark",
+  "particle": "hopelessinfinity:block/city/glass_clear"
+ }
+}

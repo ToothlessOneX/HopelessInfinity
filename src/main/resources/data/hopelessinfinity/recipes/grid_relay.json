@@ -1,0 +1,26 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PWP",
+  "RBR",
+  "PWP"
+ ],
+ "key": {
+  "P": {
+   "item": "hopelessinfinity:iron_plate"
+  },
+  "W": {
+   "item": "hopelessinfinity:copper_wire"
+  },
+  "R": {
+   "item": "minecraft:redstone"
+  },
+  "B": {
+   "item": "hopelessinfinity:circuit_board"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:grid_relay",
+  "count": 1
+ }
+}

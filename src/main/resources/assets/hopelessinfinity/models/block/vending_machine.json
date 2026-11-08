@@ -1,0 +1,13 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/city/vending_machine.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "red_paint": "hopelessinfinity:block/city/red_paint",
+  "vending_front": "hopelessinfinity:block/city/vending_front",
+  "particle": "hopelessinfinity:block/city/red_paint"
+ }
+}

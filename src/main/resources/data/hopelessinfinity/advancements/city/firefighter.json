@@ -1,0 +1,19 @@
+{
+ "display": {
+  "icon": {
+   "item": "minecraft:water_bucket"
+  },
+  "title": "Knockdown",
+  "description": "Put out a building fire",
+  "frame": "task",
+  "show_toast": true,
+  "announce_to_chat": true,
+  "hidden": false
+ },
+ "criteria": {
+  "done": {
+   "trigger": "minecraft:impossible"
+  }
+ },
+ "parent": "hopelessinfinity:city/responder"
+}

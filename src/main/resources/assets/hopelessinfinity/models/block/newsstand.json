@@ -1,0 +1,13 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/street/newsstand.obj",
+ "flip_v": true,
+ "render_type": "minecraft:solid",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "kiosk_green": "hopelessinfinity:block/street/kiosk_green",
+  "magazines": "hopelessinfinity:block/street/magazines",
+  "particle": "hopelessinfinity:block/street/kiosk_green"
+ }
+}

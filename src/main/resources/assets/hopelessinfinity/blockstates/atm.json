@@ -1,0 +1,139 @@
+{
+ "variants": {
+  "facing=north,stock=0": {
+   "model": "hopelessinfinity:block/atm"
+  },
+  "facing=north,stock=1": {
+   "model": "hopelessinfinity:block/atm"
+  },
+  "facing=north,stock=2": {
+   "model": "hopelessinfinity:block/atm"
+  },
+  "facing=north,stock=3": {
+   "model": "hopelessinfinity:block/atm"
+  },
+  "facing=north,stock=4": {
+   "model": "hopelessinfinity:block/atm"
+  },
+  "facing=north,stock=5": {
+   "model": "hopelessinfinity:block/atm"
+  },
+  "facing=north,stock=6": {
+   "model": "hopelessinfinity:block/atm"
+  },
+  "facing=north,stock=7": {
+   "model": "hopelessinfinity:block/atm"
+  },
+  "facing=north,stock=8": {
+   "model": "hopelessinfinity:block/atm"
+  },
+  "facing=east,stock=0": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 90
+  },
+  "facing=east,stock=1": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 90
+  },
+  "facing=east,stock=2": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 90
+  },
+  "facing=east,stock=3": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 90
+  },
+  "facing=east,stock=4": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 90
+  },
+  "facing=east,stock=5": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 90
+  },
+  "facing=east,stock=6": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 90
+  },
+  "facing=east,stock=7": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 90
+  },
+  "facing=east,stock=8": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 90
+  },
+  "facing=south,stock=0": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 180
+  },
+  "facing=south,stock=1": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 180
+  },
+  "facing=south,stock=2": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 180
+  },
+  "facing=south,stock=3": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 180
+  },
+  "facing=south,stock=4": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 180
+  },
+  "facing=south,stock=5": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 180
+  },
+  "facing=south,stock=6": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 180
+  },
+  "facing=south,stock=7": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 180
+  },
+  "facing=south,stock=8": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 180
+  },
+  "facing=west,stock=0": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 270
+  },
+  "facing=west,stock=1": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 270
+  },
+  "facing=west,stock=2": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 270
+  },
+  "facing=west,stock=3": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 270
+  },
+  "facing=west,stock=4": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 270
+  },
+  "facing=west,stock=5": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 270
+  },
+  "facing=west,stock=6": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 270
+  },
+  "facing=west,stock=7": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 270
+  },
+  "facing=west,stock=8": {
+   "model": "hopelessinfinity:block/atm",
+   "y": 270
+  }
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/street/street_lamp.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "pole_gray": "hopelessinfinity:block/street/pole_gray",
+  "lamp_body": "hopelessinfinity:block/street/lamp_body",
+  "lamp_glow": "hopelessinfinity:block/street/lamp_glow",
+  "particle": "hopelessinfinity:block/street/pole_gray"
+ }
+}

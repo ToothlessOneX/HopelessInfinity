@@ -1,0 +1,274 @@
+{
+ "variants": {
+  "facing=north,half=lower,stock=0": {
+   "model": "hopelessinfinity:block/drink_cooler"
+  },
+  "facing=north,half=lower,stock=1": {
+   "model": "hopelessinfinity:block/drink_cooler"
+  },
+  "facing=north,half=lower,stock=2": {
+   "model": "hopelessinfinity:block/drink_cooler"
+  },
+  "facing=north,half=lower,stock=3": {
+   "model": "hopelessinfinity:block/drink_cooler"
+  },
+  "facing=north,half=lower,stock=4": {
+   "model": "hopelessinfinity:block/drink_cooler"
+  },
+  "facing=north,half=lower,stock=5": {
+   "model": "hopelessinfinity:block/drink_cooler"
+  },
+  "facing=north,half=lower,stock=6": {
+   "model": "hopelessinfinity:block/drink_cooler"
+  },
+  "facing=north,half=lower,stock=7": {
+   "model": "hopelessinfinity:block/drink_cooler"
+  },
+  "facing=north,half=lower,stock=8": {
+   "model": "hopelessinfinity:block/drink_cooler"
+  },
+  "facing=north,half=upper,stock=0": {
+   "model": "hopelessinfinity:block/drink_cooler_upper"
+  },
+  "facing=north,half=upper,stock=1": {
+   "model": "hopelessinfinity:block/drink_cooler_upper"
+  },
+  "facing=north,half=upper,stock=2": {
+   "model": "hopelessinfinity:block/drink_cooler_upper"
+  },
+  "facing=north,half=upper,stock=3": {
+   "model": "hopelessinfinity:block/drink_cooler_upper"
+  },
+  "facing=north,half=upper,stock=4": {
+   "model": "hopelessinfinity:block/drink_cooler_upper"
+  },
+  "facing=north,half=upper,stock=5": {
+   "model": "hopelessinfinity:block/drink_cooler_upper"
+  },
+  "facing=north,half=upper,stock=6": {
+   "model": "hopelessinfinity:block/drink_cooler_upper"
+  },
+  "facing=north,half=upper,stock=7": {
+   "model": "hopelessinfinity:block/drink_cooler_upper"
+  },
+  "facing=north,half=upper,stock=8": {
+   "model": "hopelessinfinity:block/drink_cooler_upper"
+  },
+  "facing=east,half=lower,stock=0": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 90
+  },
+  "facing=east,half=lower,stock=1": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 90
+  },
+  "facing=east,half=lower,stock=2": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 90
+  },
+  "facing=east,half=lower,stock=3": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 90
+  },
+  "facing=east,half=lower,stock=4": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 90
+  },
+  "facing=east,half=lower,stock=5": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 90
+  },
+  "facing=east,half=lower,stock=6": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 90
+  },
+  "facing=east,half=lower,stock=7": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 90
+  },
+  "facing=east,half=lower,stock=8": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 90
+  },
+  "facing=east,half=upper,stock=0": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 90
+  },
+  "facing=east,half=upper,stock=1": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 90
+  },
+  "facing=east,half=upper,stock=2": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 90
+  },
+  "facing=east,half=upper,stock=3": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 90
+  },
+  "facing=east,half=upper,stock=4": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 90
+  },
+  "facing=east,half=upper,stock=5": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 90
+  },
+  "facing=east,half=upper,stock=6": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 90
+  },
+  "facing=east,half=upper,stock=7": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 90
+  },
+  "facing=east,half=upper,stock=8": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 90
+  },
+  "facing=south,half=lower,stock=0": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 180
+  },
+  "facing=south,half=lower,stock=1": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 180
+  },
+  "facing=south,half=lower,stock=2": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 180
+  },
+  "facing=south,half=lower,stock=3": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 180
+  },
+  "facing=south,half=lower,stock=4": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 180
+  },
+  "facing=south,half=lower,stock=5": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 180
+  },
+  "facing=south,half=lower,stock=6": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 180
+  },
+  "facing=south,half=lower,stock=7": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 180
+  },
+  "facing=south,half=lower,stock=8": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 180
+  },
+  "facing=south,half=upper,stock=0": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 180
+  },
+  "facing=south,half=upper,stock=1": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 180
+  },
+  "facing=south,half=upper,stock=2": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 180
+  },
+  "facing=south,half=upper,stock=3": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 180
+  },
+  "facing=south,half=upper,stock=4": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 180
+  },
+  "facing=south,half=upper,stock=5": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 180
+  },
+  "facing=south,half=upper,stock=6": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 180
+  },
+  "facing=south,half=upper,stock=7": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 180
+  },
+  "facing=south,half=upper,stock=8": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 180
+  },
+  "facing=west,half=lower,stock=0": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 270
+  },
+  "facing=west,half=lower,stock=1": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 270
+  },
+  "facing=west,half=lower,stock=2": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 270
+  },
+  "facing=west,half=lower,stock=3": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 270
+  },
+  "facing=west,half=lower,stock=4": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 270
+  },
+  "facing=west,half=lower,stock=5": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 270
+  },
+  "facing=west,half=lower,stock=6": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 270
+  },
+  "facing=west,half=lower,stock=7": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 270
+  },
+  "facing=west,half=lower,stock=8": {
+   "model": "hopelessinfinity:block/drink_cooler",
+   "y": 270
+  },
+  "facing=west,half=upper,stock=0": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 270
+  },
+  "facing=west,half=upper,stock=1": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 270
+  },
+  "facing=west,half=upper,stock=2": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 270
+  },
+  "facing=west,half=upper,stock=3": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 270
+  },
+  "facing=west,half=upper,stock=4": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 270
+  },
+  "facing=west,half=upper,stock=5": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 270
+  },
+  "facing=west,half=upper,stock=6": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 270
+  },
+  "facing=west,half=upper,stock=7": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 270
+  },
+  "facing=west,half=upper,stock=8": {
+   "model": "hopelessinfinity:block/drink_cooler_upper",
+   "y": 270
+  }
+ }
+}

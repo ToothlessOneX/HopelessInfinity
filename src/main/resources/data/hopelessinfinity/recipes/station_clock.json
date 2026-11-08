@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  " P ",
+  "PCP",
+  " P "
+ ],
+ "key": {
+  "P": {
+   "item": "hopelessinfinity:iron_plate"
+  },
+  "C": {
+   "item": "minecraft:clock"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:station_clock",
+  "count": 1
+ }
+}

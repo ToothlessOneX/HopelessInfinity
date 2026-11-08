@@ -1,0 +1,8 @@
+{
+ "parent": "minecraft:block/cube_bottom_top",
+ "textures": {
+  "top": "hopelessinfinity:block/street/bus_word",
+  "side": "hopelessinfinity:block/street/asphalt",
+  "bottom": "hopelessinfinity:block/street/asphalt"
+ }
+}

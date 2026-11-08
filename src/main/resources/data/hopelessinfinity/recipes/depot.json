@@ -1,0 +1,19 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "P",
+  "S"
+ ],
+ "key": {
+  "P": {
+   "item": "hopelessinfinity:iron_plate"
+  },
+  "S": {
+   "item": "minecraft:smooth_stone_slab"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:depot",
+  "count": 1
+ }
+}

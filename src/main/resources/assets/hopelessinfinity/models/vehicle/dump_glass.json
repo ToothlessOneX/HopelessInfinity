@@ -1,0 +1,12 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/vehicle/dump_glass.obj",
+ "flip_v": true,
+ "render_type": "minecraft:translucent",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "glass": "hopelessinfinity:block/vehicle/glass",
+  "particle": "hopelessinfinity:block/vehicle/glass"
+ }
+}

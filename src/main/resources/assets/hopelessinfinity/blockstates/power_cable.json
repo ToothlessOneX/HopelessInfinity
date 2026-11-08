@@ -1,0 +1,16 @@
+{
+ "variants": {
+  "axis=y": {
+   "model": "hopelessinfinity:block/power_cable"
+  },
+  "axis=z": {
+   "model": "hopelessinfinity:block/power_cable",
+   "x": 90
+  },
+  "axis=x": {
+   "model": "hopelessinfinity:block/power_cable",
+   "y": 90,
+   "x": 90
+  }
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/street/food_cart.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "cart_steel": "hopelessinfinity:block/street/cart_steel",
+  "car_tire": "hopelessinfinity:block/street/car_tire",
+  "umbrella": "hopelessinfinity:block/street/umbrella",
+  "particle": "hopelessinfinity:block/street/cart_steel"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/vehicle/trailer.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "cargo_white": "hopelessinfinity:block/vehicle/cargo_white",
+  "chrome": "hopelessinfinity:block/vehicle/chrome",
+  "plate": "hopelessinfinity:block/vehicle/plate",
+  "rear_doors": "hopelessinfinity:block/vehicle/rear_doors",
+  "steel_dark": "hopelessinfinity:block/vehicle/steel_dark",
+  "taillight": "hopelessinfinity:block/vehicle/taillight",
+  "trailer_side": "hopelessinfinity:block/vehicle/trailer_side",
+  "particle": "hopelessinfinity:block/vehicle/cargo_white"
+ }
+}

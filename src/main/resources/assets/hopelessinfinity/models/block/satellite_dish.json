@@ -1,0 +1,13 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/block/city/satellite_dish.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "dish": "hopelessinfinity:block/city/dish",
+  "galv": "hopelessinfinity:block/city/galv",
+  "particle": "hopelessinfinity:block/city/dish"
+ }
+}

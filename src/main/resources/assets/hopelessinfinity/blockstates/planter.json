@@ -1,0 +1,20 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/planter",
+   "y": 0
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/planter",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/planter",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/planter",
+   "y": 270
+  }
+ }
+}

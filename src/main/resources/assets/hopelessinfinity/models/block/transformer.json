@@ -1,0 +1,7 @@
+{
+ "parent": "minecraft:block/cube_column",
+ "textures": {
+  "end": "hopelessinfinity:block/city/transformer_top",
+  "side": "hopelessinfinity:block/city/transformer_side"
+ }
+}

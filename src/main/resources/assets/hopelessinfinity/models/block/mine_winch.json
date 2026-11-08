@@ -1,0 +1,161 @@
+{
+ "textures": {
+  "f": "hopelessinfinity:block/own/winch_frame",
+  "d": "hopelessinfinity:block/own/winch_drum",
+  "particle": "hopelessinfinity:block/own/winch_frame"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    0,
+    1
+   ],
+   "to": [
+    16,
+    2,
+    15
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f"
+    },
+    "south": {
+     "texture": "#f"
+    },
+    "east": {
+     "texture": "#f"
+    },
+    "west": {
+     "texture": "#f"
+    },
+    "up": {
+     "texture": "#f"
+    },
+    "down": {
+     "texture": "#f"
+    }
+   }
+  },
+  {
+   "from": [
+    0,
+    2,
+    1
+   ],
+   "to": [
+    2,
+    14,
+    15
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f"
+    },
+    "south": {
+     "texture": "#f"
+    },
+    "east": {
+     "texture": "#f"
+    },
+    "west": {
+     "texture": "#f"
+    },
+    "up": {
+     "texture": "#f"
+    },
+    "down": {
+     "texture": "#f"
+    }
+   }
+  },
+  {
+   "from": [
+    14,
+    2,
+    1
+   ],
+   "to": [
+    16,
+    14,
+    15
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f"
+    },
+    "south": {
+     "texture": "#f"
+    },
+    "east": {
+     "texture": "#f"
+    },
+    "west": {
+     "texture": "#f"
+    },
+    "up": {
+     "texture": "#f"
+    },
+    "down": {
+     "texture": "#f"
+    }
+   }
+  },
+  {
+   "from": [
+    2,
+    3,
+    3
+   ],
+   "to": [
+    14,
+    13,
+    13
+   ],
+   "faces": {
+    "north": {
+     "texture": "#d",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#d",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "east": {
+     "texture": "#d"
+    },
+    "west": {
+     "texture": "#d"
+    },
+    "up": {
+     "texture": "#d",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "down": {
+     "texture": "#d",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    }
+   }
+  }
+ ]
+}

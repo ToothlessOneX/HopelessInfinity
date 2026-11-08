@@ -1,0 +1,20 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "hopelessinfinity:block/basketball_hoop",
+   "y": 0
+  },
+  "facing=east": {
+   "model": "hopelessinfinity:block/basketball_hoop",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "hopelessinfinity:block/basketball_hoop",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "hopelessinfinity:block/basketball_hoop",
+   "y": 270
+  }
+ }
+}

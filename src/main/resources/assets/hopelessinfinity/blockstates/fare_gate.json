@@ -1,0 +1,34 @@
+{
+ "variants": {
+  "facing=north,open=false": {
+   "model": "hopelessinfinity:block/fare_gate"
+  },
+  "facing=north,open=true": {
+   "model": "hopelessinfinity:block/fare_gate_open"
+  },
+  "facing=east,open=false": {
+   "model": "hopelessinfinity:block/fare_gate",
+   "y": 90
+  },
+  "facing=east,open=true": {
+   "model": "hopelessinfinity:block/fare_gate_open",
+   "y": 90
+  },
+  "facing=south,open=false": {
+   "model": "hopelessinfinity:block/fare_gate",
+   "y": 180
+  },
+  "facing=south,open=true": {
+   "model": "hopelessinfinity:block/fare_gate_open",
+   "y": 180
+  },
+  "facing=west,open=false": {
+   "model": "hopelessinfinity:block/fare_gate",
+   "y": 270
+  },
+  "facing=west,open=true": {
+   "model": "hopelessinfinity:block/fare_gate_open",
+   "y": 270
+  }
+ }
+}

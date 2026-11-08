@@ -1,0 +1,80 @@
+{
+ "textures": {
+  "f": "hopelessinfinity:block/own/standby_front",
+  "s": "hopelessinfinity:block/own/standby_side",
+  "e": "hopelessinfinity:block/city/steel_dark",
+  "particle": "hopelessinfinity:block/own/standby_front"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    0,
+    1
+   ],
+   "to": [
+    16,
+    14,
+    15
+   ],
+   "faces": {
+    "north": {
+     "texture": "#f",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#s"
+    },
+    "east": {
+     "texture": "#s"
+    },
+    "west": {
+     "texture": "#s"
+    },
+    "up": {
+     "texture": "#s"
+    },
+    "down": {
+     "texture": "#s"
+    }
+   }
+  },
+  {
+   "from": [
+    12,
+    14,
+    9
+   ],
+   "to": [
+    14,
+    17,
+    11
+   ],
+   "faces": {
+    "north": {
+     "texture": "#e"
+    },
+    "south": {
+     "texture": "#e"
+    },
+    "east": {
+     "texture": "#e"
+    },
+    "west": {
+     "texture": "#e"
+    },
+    "up": {
+     "texture": "#e"
+    },
+    "down": {
+     "texture": "#e"
+    }
+   }
+  }
+ ]
+}

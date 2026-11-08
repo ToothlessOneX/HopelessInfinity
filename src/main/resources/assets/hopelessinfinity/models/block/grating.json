@@ -1,0 +1,41 @@
+{
+ "textures": {
+  "g": "hopelessinfinity:block/city/grating",
+  "particle": "hopelessinfinity:block/city/grating"
+ },
+ "elements": [
+  {
+   "from": [
+    0,
+    13,
+    0
+   ],
+   "to": [
+    16,
+    16,
+    16
+   ],
+   "faces": {
+    "north": {
+     "texture": "#g"
+    },
+    "south": {
+     "texture": "#g"
+    },
+    "east": {
+     "texture": "#g"
+    },
+    "west": {
+     "texture": "#g"
+    },
+    "up": {
+     "texture": "#g"
+    },
+    "down": {
+     "texture": "#g"
+    }
+   }
+  }
+ ],
+ "render_type": "minecraft:cutout"
+}

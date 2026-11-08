@@ -1,0 +1,17 @@
+{
+ "loader": "forge:obj",
+ "model": "hopelessinfinity:models/vehicle/minivan.obj",
+ "flip_v": true,
+ "render_type": "minecraft:cutout",
+ "automatic_culling": false,
+ "shade_quads": true,
+ "textures": {
+  "grille": "hopelessinfinity:block/vehicle/grille",
+  "headlight": "hopelessinfinity:block/vehicle/headlight",
+  "paint": "hopelessinfinity:block/vehicle/paint_rust",
+  "plate": "hopelessinfinity:block/vehicle/plate",
+  "taillight": "hopelessinfinity:block/vehicle/taillight",
+  "trim": "hopelessinfinity:block/vehicle/trim",
+  "particle": "hopelessinfinity:block/vehicle/grille"
+ }
+}

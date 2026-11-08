@@ -1,0 +1,10 @@
+{
+ "variants": {
+  "on=false": {
+   "model": "hopelessinfinity:block/projection_screen_off"
+  },
+  "on=true": {
+   "model": "hopelessinfinity:block/projection_screen_on"
+  }
+ }
+}

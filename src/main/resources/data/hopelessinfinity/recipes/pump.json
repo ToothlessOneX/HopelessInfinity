@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  " P ",
+  "PCP",
+  " W "
+ ],
+ "key": {
+  "P": {
+   "item": "hopelessinfinity:iron_plate"
+  },
+  "C": {
+   "item": "minecraft:piston"
+  },
+  "W": {
+   "item": "hopelessinfinity:copper_wire"
+  }
+ },
+ "result": {
+  "item": "hopelessinfinity:pump",
+  "count": 1
+ }
+}
